@@ -3,2653 +3,2133 @@
     {
       "Line_Name": "Red_Line",
       "Color": "Red",
-      "Stations": {
-        "Station_Name": "Shaheed Sthal (New Bus Adda)",
-        "Distance": 0,
-        "Is_Interchange": false,
-        "Is_HeadStation": true
-      },
-      "ID": 1
-    },
-    {
-      "Stations": {
-        "Station_Name": "Hindon River",
-        "Distance": 1,
-        "Is_Interchange": false,
-        "Is_HeadStation": false
-      },
-      "ID": 2
-    },
-    {
-      "Stations": {
-        "Station_Name": "Arthala",
-        "Distance": 2.50,
-        "Is_Interchange": false,
-        "Is_HeadStation": false
-      },
-      "ID": 3
-    },
-    {
-      "Stations": {
-        "Station_Name": "Mohan Nagar",
-        "Distance": 3.20,
-        "Is_Interchange": false,
-        "Is_HeadStation": false
-      },
-      "ID": 4
-    },
-    {
-      "Stations": {
-        "Station_Name": "Shyam park",
-        "Distance": 4.50,
-        "Is_Interchange": false,
-        "Is_HeadStation": false
-      },
-      "ID": 5
-    },
-    {
-      "Stations": {
-        "Station_Name": "Major Mohit Sharma",
-        "Distance": 5.70,
-        "Is_Interchange": false,
-        "Is_HeadStation": false
-      },
-      "ID": 6
-    },
-    {
-      "Stations": {
-        "Station_Name": "Raj Bagh",
-        "Distance": 6.90,
-        "Is_Interchange": false,
-        "Is_HeadStation": false
-      },
-      "ID": 7
-    },
-    {
-      "Stations": {
-        "Station_Name": "Shaheed Nagar",
-        "Distance": 8.1999999999999993,
-        "Is_Interchange": false,
-        "Is_HeadStation": false
-      },
-      "ID": 8
-    },
-    {
-      "Stations": {
-        "Station_Name": "Dilshad Garden",
-        "Distance": 9.40,
-        "Is_Interchange": false,
-        "Is_HeadStation": false
-      },
-      "ID": 9
-    },
-    {
-      "Stations": {
-        "Station_Name": "Jhil Mil",
-        "Distance": 10.30,
-        "Is_Interchange": false,
-        "Is_HeadStation": false
-      },
-      "ID": 10
-    },
-    {
-      "Stations": {
-        "Station_Name": "Mansarovar Park",
-        "Distance": 11.40,
-        "Is_Interchange": false,
-        "Is_HeadStation": false
-      },
-      "ID": 11
-    },
-    {
-      "Stations": {
-        "Station_Name": "Shahdara",
-        "Distance": 12.50,
-        "Is_Interchange": false,
-        "Is_HeadStation": false
-      },
-      "ID": 12
-    },
-    {
-      "Stations": {
-        "Station_Name": "Welcome",
-        "Distance": 13.70,
-        "Is_Interchange": true,
-        "Is_HeadStation": false,
-        "Change Line": "Pink"
-      },
-      "ID": 13
-    },
-    {
-      "Stations": {
-        "Station_Name": "Seelampur",
-        "Distance": 14.80,
-        "Is_Interchange": false,
-        "Is_HeadStation": false
-      },
-      "ID": 14
-    },
-    {
-      "Stations": {
-        "Station_Name": "Shastri Park",
-        "Distance": 16.40,
-        "Is_Interchange": false,
-        "Is_HeadStation": false
-      },
-      "ID": 15
-    },
-    {
-      "Stations": {
-        "Station_Name": "Kashmere Gate",
-        "Distance": 18.50,
-        "Is_Interchange": true,
-        "Is_HeadStation": false,
-        "Change Line": "Violet"
-      },
-      "ID": 16
-    },
-    {
-      "Stations": {
-        "Station_Name": "Tis Hazari",
-        "Distance": 19.70,
-        "Is_Interchange": false,
-        "Is_HeadStation": false
-      },
-      "ID": 17
-    },
-    {
-      "Stations": {
-        "Station_Name": "Pul Bangash",
-        "Distance": 20.60,
-        "Is_Interchange": false,
-        "Is_HeadStation": false
-      },
-      "ID": 18
-    },
-    {
-      "Stations": {
-        "Station_Name": "Pratap Nagar",
-        "Distance": 21.40,
-        "Is_Interchange": false,
-        "Is_HeadStation": false
-      },
-      "ID": 19
-    },
-    {
-      "Stations": {
-        "Station_Name": "Shastri Nagar",
-        "Distance": 23.10,
-        "Is_Interchange": false,
-        "Is_HeadStation": false
-      },
-      "ID": 20
-    },
-    {
-      "Stations": {
-        "Station_Name": "Inderlok",
-        "Distance": 24.30,
-        "Is_Interchange": true,
-        "Is_HeadStation": false,
-        "Change Line": "Green"
-      },
-      "ID": 21
-    },
-    {
-      "Stations": {
-        "Station_Name": "Kanhaiya Nagar",
-        "Distance": 25.50,
-        "Is_Interchange": false,
-        "Is_HeadStation": false
-      },
-      "ID": 22
-    },
-    {
-      "Stations": {
-        "Station_Name": "Keshav Puram",
-        "Distance": 26.20,
-        "Is_Interchange": false,
-        "Is_HeadStation": false
-      },
-      "ID": 23
-    },
-    {
-      "Stations": {
-        "Station_Name": "Netaji Subash Place",
-        "Distance": 27.40,
-        "Is_Interchange": false,
-        "Is_HeadStation": false,
-        "Change Line": "Pink"
-      },
-      "ID": 24
-    },
-    {
-      "Stations": {
-        "Station_Name": "Kohat Enclave",
-        "Distance": 28.60,
-        "Is_Interchange": false,
-        "Is_HeadStation": false
-      },
-      "ID": 25
-    },
-    {
-      "Stations": {
-        "Station_Name": "Pitam Pura",
-        "Distance": 29.60,
-        "Is_Interchange": false,
-        "Is_HeadStation": false
-      },
-      "ID": 26
-    },
-    {
-      "Stations": {
-        "Station_Name": "Rohini East",
-        "Distance": 30.40,
-        "Is_Interchange": false,
-        "Is_HeadStation": false
-      },
-      "ID": 27
-    },
-    {
-      "Stations": {
-        "Station_Name": "Rohini West",
-        "Distance": 31.70,
-        "Is_Interchange": false,
-        "Is_HeadStation": false
-      },
-      "ID": 28
-    },
-    {
-      "Stations": {
-        "Station_Name": "Rithala",
-        "Distance": 32.700000000000003,
-        "Is_Interchange": false,
-        "Is_HeadStation": false
-      },
-      "ID": 29
+      "Stations": [
+        {
+          "ID": 1,
+          "Station_Name": "Shaheed Sthal(New Bus Adda)",
+          "Distance": 0,
+          "Is_Interchange": false,
+          "Is_HeadStation": true
+        },
+        {
+          "ID": 2,
+          "Station_Name": "Hindon River",
+          "Distance": 1,
+          "Is_Interchange": false,
+          "Is_HeadStation": false
+        },
+        {
+          "ID": 3,
+          "Station_Name": "Arthala",
+          "Distance": 2.50,
+          "Is_Interchange": false,
+          "Is_HeadStation": false
+        },
+        {
+          "ID": 4,
+          "Station_Name": "Mohan Nagar",
+          "Distance": 3.20,
+          "Is_Interchange": false,
+          "Is_HeadStation": false
+        },
+        {
+          "ID": 5,
+          "Station_Name": "Shyam park",
+          "Distance": 4.50,
+          "Is_Interchange": false,
+          "Is_HeadStation": false
+        },
+        {
+          "ID": 6,
+          "Station_Name": "Major Mohit Sharma",
+          "Distance": 5.70,
+          "Is_Interchange": false,
+          "Is_HeadStation": false
+        },
+        {
+          "ID": 7,
+          "Station_Name": "Raj Bagh",
+          "Distance": 6.90,
+          "Is_Interchange": false,
+          "Is_HeadStation": false
+        },
+        {
+          "ID": 8,
+          "Station_Name": "Shaheed Nagar",
+          "Distance": 8.1999999999999993,
+          "Is_Interchange": false,
+          "Is_HeadStation": false
+        },
+        {
+          "ID": 9,
+          "Station_Name": "Dilshad Garden",
+          "Distance": 9.40,
+          "Is_Interchange": false,
+          "Is_HeadStation": false
+        },
+        {
+          "ID": 10,
+          "Station_Name": "Jhil Mil",
+          "Distance": 10.30,
+          "Is_Interchange": false,
+          "Is_HeadStation": false
+        },
+        {
+          "ID": 11,
+          "Station_Name": "Mansarovar Park",
+          "Distance": 11.40,
+          "Is_Interchange": false,
+          "Is_HeadStation": false
+        },
+        {
+          "ID": 12,
+          "Station_Name": "Shahdara",
+          "Distance": 12.50,
+          "Is_Interchange": false,
+          "Is_HeadStation": false
+        },
+        {
+          "ID": 13,
+          "Station_Name": "Welcome",
+          "Distance": 13.70,
+          "Is_Interchange": true,
+          "Is_HeadStation": false,
+          "Change Line": "Pink"
+        },
+        {
+          "ID": 14,
+          "Station_Name": "Seelampur",
+          "Distance": 14.80,
+          "Is_Interchange": false,
+          "Is_HeadStation": false
+        },
+        {
+          "ID": 15,
+          "Station_Name": "Shastri Park",
+          "Distance": 16.40,
+          "Is_Interchange": false,
+          "Is_HeadStation": false
+        },
+        {
+          "ID": 16,
+          "Station_Name": "Kashmere Gate",
+          "Distance": 18.50,
+          "Is_Interchange": true,
+          "Is_HeadStation": false,
+          "Change Line": "Violet"
+        },
+        {
+          "ID": 17,
+          "Station_Name": "Tis Hazari",
+          "Distance": 19.70,
+          "Is_Interchange": false,
+          "Is_HeadStation": false
+        },
+        {
+          "ID": 18,
+          "Station_Name": "Pul Bangash",
+          "Distance": 20.60,
+          "Is_Interchange": false,
+          "Is_HeadStation": false
+        },
+        {
+          "ID": 19,
+          "Station_Name": "Pratap Nagar",
+          "Distance": 21.40,
+          "Is_Interchange": false,
+          "Is_HeadStation": false
+        },
+        {
+          "ID": 20,
+          "Station_Name": "Shastri Nagar",
+          "Distance": 23.10,
+          "Is_Interchange": false,
+          "Is_HeadStation": false
+        },
+        {
+          "ID": 21,
+          "Station_Name": "Inderlok",
+          "Distance": 24.30,
+          "Is_Interchange": true,
+          "Is_HeadStation": false,
+          "Change Line": "Green"
+        },
+        {
+          "ID": 22,
+          "Station_Name": "Kanhaiya Nagar",
+          "Distance": 25.50,
+          "Is_Interchange": false,
+          "Is_HeadStation": false
+        },
+        {
+          "ID": 23,
+          "Station_Name": "Keshav Puram",
+          "Distance": 26.20,
+          "Is_Interchange": false,
+          "Is_HeadStation": false
+        },
+        {
+          "ID": 24,
+          "Station_Name": "Netaji Subash Place",
+          "Distance": 27.40,
+          "Is_Interchange": false,
+          "Is_HeadStation": false,
+          "Change Line": "Pink"
+        },
+        {
+          "ID": 25,
+          "Station_Name": "Kohat Enclave",
+          "Distance": 28.60,
+          "Is_Interchange": false,
+          "Is_HeadStation": false
+        },
+        {
+          "ID": 26,
+          "Station_Name": "Pitam Pura",
+          "Distance": 29.60,
+          "Is_Interchange": false,
+          "Is_HeadStation": false
+        },
+        {
+          "ID": 27,
+          "Station_Name": "Rohini East",
+          "Distance": 30.40,
+          "Is_Interchange": false,
+          "Is_HeadStation": false
+        },
+        {
+          "ID": 28,
+          "Station_Name": "Rohini West",
+          "Distance": 31.70,
+          "Is_Interchange": false,
+          "Is_HeadStation": false
+        },
+        {
+          "ID": 29,
+          "Station_Name": "Rithala",
+          "Distance": 32.700000000000003,
+          "Is_Interchange": false,
+          "Is_HeadStation": false
+        }
+      ]
     },
     {
       "Line_Name": "Yellow_Line",
       "Color": "Yellow",
-      "Stations": {
-        "Station_Name": "Samaypur Badli",
-        "Distance": 0,
-        "Is_Interchange": false,
-        "Is_HeadStation": true
-      },
-      "ID": 1
-    },
-    {
-      "Stations": {
-        "Station_Name": "Rohini Sector 18-19",
-        "Distance": 0.80,
-        "Is_Interchange": false,
-        "Is_HeadStation": false
-      },
-      "ID": 2
-    },
-    {
-      "Stations": {
-        "Station_Name": "Haiderpur Badli Mor",
-        "Distance": 2.10,
-        "Is_Interchange": false,
-        "Is_HeadStation": false
-      },
-      "ID": 3
-    },
-    {
-      "Stations": {
-        "Station_Name": "Jahangirpuri",
-        "Distance": 3.40,
-        "Is_Interchange": false,
-        "Is_HeadStation": false
-      },
-      "ID": 4
-    },
-    {
-      "Stations": {
-        "Station_Name": "Adarsh Nagar",
-        "Distance": 4.70,
-        "Is_Interchange": false,
-        "Is_HeadStation": false
-      },
-      "ID": 5
-    },
-    {
-      "Stations": {
-        "Station_Name": "Azadpur",
-        "Distance": 6.20,
-        "Is_Interchange": true,
-        "Is_HeadStation": false,
-        "Change Line": "Pink"
-      },
-      "ID": 6
-    },
-    {
-      "Stations": {
-        "Station_Name": "Model Town",
-        "Distance": 7.60,
-        "Is_Interchange": false,
-        "Is_HeadStation": false
-      },
-      "ID": 7
-    },
-    {
-      "Stations": {
-        "Station_Name": "Guru Tegh Bahadur Nagar",
-        "Distance": 9,
-        "Is_Interchange": false,
-        "Is_HeadStation": false
-      },
-      "ID": 8
-    },
-    {
-      "Stations": {
-        "Station_Name": "Vishwavidyalaya",
-        "Distance": 9.8000000000000007,
-        "Is_Interchange": false,
-        "Is_HeadStation": false
-      },
-      "ID": 9
-    },
-    {
-      "Stations": {
-        "Station_Name": "Vidhan Sabha",
-        "Distance": 10.80,
-        "Is_Interchange": false,
-        "Is_HeadStation": false
-      },
-      "ID": 10
-    },
-    {
-      "Stations": {
-        "Station_Name": "Civil Lines",
-        "Distance": 12.10,
-        "Is_Interchange": false,
-        "Is_HeadStation": false
-      },
-      "ID": 11
-    },
-    {
-      "Stations": {
-        "Station_Name": "Kashmere Gate",
-        "Distance": 13.20,
-        "Is_Interchange": true,
-        "Is_HeadStation": false,
-        "Change Line": "Violet"
-      },
-      "ID": 12
-    },
-    {
-      "Stations": {
-        "Station_Name": "Chandni Chowk",
-        "Distance": 14.30,
-        "Is_Interchange": false,
-        "Is_HeadStation": false
-      },
-      "ID": 13
-    },
-    {
-      "Stations": {
-        "Station_Name": "Chawri Bazar",
-        "Distance": 15.30,
-        "Is_Interchange": false,
-        "Is_HeadStation": false
-      },
-      "ID": 14
-    },
-    {
-      "Stations": {
-        "Station_Name": "New Delhi",
-        "Distance": 16.10,
-        "Is_Interchange": true,
-        "Is_HeadStation": false,
-        "Change Line": "Orange"
-      },
-      "ID": 15
-    },
-    {
-      "Stations": {
-        "Station_Name": "Rajiv Chowk",
-        "Distance": 17.20,
-        "Is_Interchange": true,
-        "Is_HeadStation": false,
-        "Change Line": "Blue"
-      },
-      "ID": 16
-    },
-    {
-      "Stations": {
-        "Station_Name": "Patel Chowk",
-        "Distance": 18.50,
-        "Is_Interchange": false,
-        "Is_HeadStation": false
-      },
-      "ID": 17
-    },
-    {
-      "Stations": {
-        "Station_Name": "Central Secretariat",
-        "Distance": 19.40,
-        "Is_Interchange": true,
-        "Is_HeadStation": false,
-        "Change Line": "Violet"
-      },
-      "ID": 18
-    },
-    {
-      "Stations": {
-        "Station_Name": "Udyog Bhawan",
-        "Distance": 19.70,
-        "Is_Interchange": false,
-        "Is_HeadStation": false
-      },
-      "ID": 19
-    },
-    {
-      "Stations": {
-        "Station_Name": "Lok Kalyan Marg",
-        "Distance": 21.30,
-        "Is_Interchange": false,
-        "Is_HeadStation": false
-      },
-      "ID": 20
-    },
-    {
-      "Stations": {
-        "Station_Name": "Jorbagh",
-        "Distance": 22.50,
-        "Is_Interchange": false,
-        "Is_HeadStation": false
-      },
-      "ID": 21
-    },
-    {
-      "Stations": {
-        "Station_Name": "Dilli Haat INA",
-        "Distance": 23.80,
-        "Is_Interchange": true,
-        "Is_HeadStation": false,
-        "Change Line": "Pink"
-      },
-      "ID": 22
-    },
-    {
-      "Stations": {
-        "Station_Name": "AIIMS",
-        "Distance": 24.60,
-        "Is_Interchange": false,
-        "Is_HeadStation": false
-      },
-      "ID": 23
-    },
-    {
-      "Stations": {
-        "Station_Name": "Green Park",
-        "Distance": 25.60,
-        "Is_Interchange": false,
-        "Is_HeadStation": false
-      },
-      "ID": 24
-    },
-    {
-      "Stations": {
-        "Station_Name": "Hauz Khas",
-        "Distance": 27.40,
-        "Is_Interchange": true,
-        "Is_HeadStation": false,
-        "Change Line": "Magenta"
-      },
-      "ID": 25
-    },
-    {
-      "Stations": {
-        "Station_Name": "Malviya Nagar",
-        "Distance": 29.10,
-        "Is_Interchange": false,
-        "Is_HeadStation": false
-      },
-      "ID": 26
-    },
-    {
-      "Stations": {
-        "Station_Name": "Saket",
-        "Distance": 30,
-        "Is_Interchange": false,
-        "Is_HeadStation": false
-      },
-      "ID": 27
-    },
-    {
-      "Stations": {
-        "Station_Name": "Qutab Minar",
-        "Distance": 31.70,
-        "Is_Interchange": false,
-        "Is_HeadStation": false
-      },
-      "ID": 28
-    },
-    {
-      "Stations": {
-        "Station_Name": "Chhattarpur",
-        "Distance": 33,
-        "Is_Interchange": false,
-        "Is_HeadStation": false
-      },
-      "ID": 29
-    },
-    {
-      "Stations": {
-        "Station_Name": "Sultanpur",
-        "Distance": 34.60,
-        "Is_Interchange": false,
-        "Is_HeadStation": false
-      },
-      "ID": 30
-    },
-    {
-      "Stations": {
-        "Station_Name": "Ghitorni",
-        "Distance": 35.90,
-        "Is_Interchange": false,
-        "Is_HeadStation": false
-      },
-      "ID": 31
-    },
-    {
-      "Stations": {
-        "Station_Name": "Arjan Garh",
-        "Distance": 38.60,
-        "Is_Interchange": false,
-        "Is_HeadStation": false
-      },
-      "ID": 32
-    },
-    {
-      "Stations": {
-        "Station_Name": "Guru Dronacharya",
-        "Distance": 40.90,
-        "Is_Interchange": false,
-        "Is_HeadStation": false
-      },
-      "ID": 33
-    },
-    {
-      "Stations": {
-        "Station_Name": "Sikandarpur",
-        "Distance": 41.90,
-        "Is_Interchange": true,
-        "Is_HeadStation": false,
-        "Change Line": "Rapid"
-      },
-      "ID": 34
-    },
-    {
-      "Stations": {
-        "Station_Name": "MG Road",
-        "Distance": 43.10,
-        "Is_Interchange": false,
-        "Is_HeadStation": false
-      },
-      "ID": 35
-    },
-    {
-      "Stations": {
-        "Station_Name": "IFFCO Chowk",
-        "Distance": 44.20,
-        "Is_Interchange": false,
-        "Is_HeadStation": false
-      },
-      "ID": 36
-    },
-    {
-      "Stations": {
-        "Station_Name": "Huda City Centre",
-        "Distance": 45.70,
-        "Is_Interchange": false,
-        "Is_HeadStation": false
-      },
-      "ID": 37
+      "Stations": [
+        {
+          "ID": 1,
+          "Station_Name": "Samaypur Badli",
+          "Distance": 0,
+          "Is_Interchange": false,
+          "Is_HeadStation": true
+        },
+        {
+          "ID": 2,
+          "Station_Name": "Rohini Sector 18-19",
+          "Distance": 0.80,
+          "Is_Interchange": false,
+          "Is_HeadStation": false
+        },
+        {
+          "ID": 3,
+          "Station_Name": "Haiderpur Badli Mor",
+          "Distance": 2.10,
+          "Is_Interchange": false,
+          "Is_HeadStation": false
+        },
+        {
+          "ID": 4,
+          "Station_Name": "Jahangirpuri",
+          "Distance": 3.40,
+          "Is_Interchange": false,
+          "Is_HeadStation": false
+        },
+        {
+          "ID": 5,
+          "Station_Name": "Adarsh Nagar",
+          "Distance": 4.70,
+          "Is_Interchange": false,
+          "Is_HeadStation": false
+        },
+        {
+          "ID": 6,
+          "Station_Name": "Azadpur",
+          "Distance": 6.20,
+          "Is_Interchange": true,
+          "Is_HeadStation": false,
+          "Change Line": "Pink"
+        },
+        {
+          "ID": 7,
+          "Station_Name": "Model Town",
+          "Distance": 7.60,
+          "Is_Interchange": false,
+          "Is_HeadStation": false
+        },
+        {
+          "ID": 8,
+          "Station_Name": "Guru Tegh Bahadur Nagar",
+          "Distance": 9,
+          "Is_Interchange": false,
+          "Is_HeadStation": false
+        },
+        {
+          "ID": 9,
+          "Station_Name": "Vishwavidyalaya",
+          "Distance": 9.8000000000000007,
+          "Is_Interchange": false,
+          "Is_HeadStation": false
+        },
+        {
+          "ID": 10,
+          "Station_Name": "Vidhan Sabha",
+          "Distance": 10.80,
+          "Is_Interchange": false,
+          "Is_HeadStation": false
+        },
+        {
+          "ID": 11,
+          "Station_Name": "Civil Lines",
+          "Distance": 12.10,
+          "Is_Interchange": false,
+          "Is_HeadStation": false
+        },
+        {
+          "ID": 12,
+          "Station_Name": "Kashmere Gate",
+          "Distance": 13.20,
+          "Is_Interchange": true,
+          "Is_HeadStation": false,
+          "Change Line": "Violet"
+        },
+        {
+          "ID": 13,
+          "Station_Name": "Chandni Chowk",
+          "Distance": 14.30,
+          "Is_Interchange": false,
+          "Is_HeadStation": false
+        },
+        {
+          "ID": 14,
+          "Station_Name": "Chawri Bazar",
+          "Distance": 15.30,
+          "Is_Interchange": false,
+          "Is_HeadStation": false
+        },
+        {
+          "ID": 15,
+          "Station_Name": "New Delhi",
+          "Distance": 16.10,
+          "Is_Interchange": true,
+          "Is_HeadStation": false,
+          "Change Line": "Orange"
+        },
+        {
+          "ID": 16,
+          "Station_Name": "Rajiv Chowk",
+          "Distance": 17.20,
+          "Is_Interchange": true,
+          "Is_HeadStation": false,
+          "Change Line": "Blue"
+        },
+        {
+          "ID": 17,
+          "Station_Name": "Patel Chowk",
+          "Distance": 18.50,
+          "Is_Interchange": false,
+          "Is_HeadStation": false
+        },
+        {
+          "ID": 18,
+          "Station_Name": "Central Secretariat",
+          "Distance": 19.40,
+          "Is_Interchange": true,
+          "Is_HeadStation": false,
+          "Change Line": "Violet"
+        },
+        {
+          "ID": 19,
+          "Station_Name": "Udyog Bhawan",
+          "Distance": 19.70,
+          "Is_Interchange": false,
+          "Is_HeadStation": false
+        },
+        {
+          "ID": 20,
+          "Station_Name": "Lok Kalyan Marg",
+          "Distance": 21.30,
+          "Is_Interchange": false,
+          "Is_HeadStation": false
+        },
+        {
+          "ID": 21,
+          "Station_Name": "Jorbagh",
+          "Distance": 22.50,
+          "Is_Interchange": false,
+          "Is_HeadStation": false
+        },
+        {
+          "ID": 22,
+          "Station_Name": "Dilli Haat INA",
+          "Distance": 23.80,
+          "Is_Interchange": true,
+          "Is_HeadStation": false,
+          "Change Line": "Pink"
+        },
+        {
+          "ID": 23,
+          "Station_Name": "AIIMS",
+          "Distance": 24.60,
+          "Is_Interchange": false,
+          "Is_HeadStation": false
+        },
+        {
+          "ID": 24,
+          "Station_Name": "Green Park",
+          "Distance": 25.60,
+          "Is_Interchange": false,
+          "Is_HeadStation": false
+        },
+        {
+          "ID": 25,
+          "Station_Name": "Hauz Khas",
+          "Distance": 27.40,
+          "Is_Interchange": true,
+          "Is_HeadStation": false,
+          "Change Line": "Magenta"
+        },
+        {
+          "ID": 26,
+          "Station_Name": "Malviya Nagar",
+          "Distance": 29.10,
+          "Is_Interchange": false,
+          "Is_HeadStation": false
+        },
+        {
+          "ID": 27,
+          "Station_Name": "Saket",
+          "Distance": 30,
+          "Is_Interchange": false,
+          "Is_HeadStation": false
+        },
+        {
+          "ID": 28,
+          "Station_Name": "Qutab Minar",
+          "Distance": 31.70,
+          "Is_Interchange": false,
+          "Is_HeadStation": false
+        },
+        {
+          "ID": 29,
+          "Station_Name": "Chhattarpur",
+          "Distance": 33,
+          "Is_Interchange": false,
+          "Is_HeadStation": false
+        },
+        {
+          "ID": 30,
+          "Station_Name": "Sultanpur",
+          "Distance": 34.60,
+          "Is_Interchange": false,
+          "Is_HeadStation": false
+        },
+        {
+          "ID": 31,
+          "Station_Name": "Ghitorni",
+          "Distance": 35.90,
+          "Is_Interchange": false,
+          "Is_HeadStation": false
+        },
+        {
+          "ID": 32,
+          "Station_Name": "Arjan Garh",
+          "Distance": 38.60,
+          "Is_Interchange": false,
+          "Is_HeadStation": false
+        },
+        {
+          "ID": 33,
+          "Station_Name": "Guru Dronacharya",
+          "Distance": 40.90,
+          "Is_Interchange": false,
+          "Is_HeadStation": false
+        },
+        {
+          "ID": 34,
+          "Station_Name": "Sikandarpur",
+          "Distance": 41.90,
+          "Is_Interchange": true,
+          "Is_HeadStation": false,
+          "Change Line": "Rapid"
+        },
+        {
+          "ID": 35,
+          "Station_Name": "MG Road",
+          "Distance": 43.10,
+          "Is_Interchange": false,
+          "Is_HeadStation": false
+        },
+        {
+          "ID": 36,
+          "Station_Name": "IFFCO Chowk",
+          "Distance": 44.20,
+          "Is_Interchange": false,
+          "Is_HeadStation": false
+        },
+        {
+          "ID": 37,
+          "Station_Name": "Huda City Centre",
+          "Distance": 45.70,
+          "Is_Interchange": false,
+          "Is_HeadStation": false
+        }
+      ]
     },
     {
       "Line_Name": "Blue_Line",
       "Color": "Blue",
-      "Stations": {
-        "Station_Name": "Dwarka Sector 21",
-        "Distance": 0,
-        "Is_Interchange": true,
-        "Is_HeadStation": true,
-        "Change Line": "Orange"
-      },
-      "ID": 1
-    },
-    {
-      "Stations": {
-        "Station_Name": "Dwarka Sector 8",
-        "Distance": 1.70,
-        "Is_Interchange": false,
-        "Is_HeadStation": false
-      },
-      "ID": 2
-    },
-    {
-      "Stations": {
-        "Station_Name": "Dwarka Sector 9",
-        "Distance": 2.70,
-        "Is_Interchange": false,
-        "Is_HeadStation": false
-      },
-      "ID": 3
-    },
-    {
-      "Stations": {
-        "Station_Name": "Dwarka Sector 10",
-        "Distance": 3.80,
-        "Is_Interchange": false,
-        "Is_HeadStation": false
-      },
-      "ID": 4
-    },
-    {
-      "Stations": {
-        "Station_Name": "Dwarka Sector 11",
-        "Distance": 4.80,
-        "Is_Interchange": false,
-        "Is_HeadStation": false
-      },
-      "ID": 5
-    },
-    {
-      "Stations": {
-        "Station_Name": "Dwarka Sector 12",
-        "Distance": 5.80,
-        "Is_Interchange": false,
-        "Is_HeadStation": false
-      },
-      "ID": 6
-    },
-    {
-      "Stations": {
-        "Station_Name": "Dwarka Sector 13",
-        "Distance": 6.70,
-        "Is_Interchange": false,
-        "Is_HeadStation": false
-      },
-      "ID": 7
-    },
-    {
-      "Stations": {
-        "Station_Name": "Dwarka Sector 14",
-        "Distance": 7.60,
-        "Is_Interchange": false,
-        "Is_HeadStation": false
-      },
-      "ID": 8
-    },
-    {
-      "Stations": {
-        "Station_Name": "Dwarka",
-        "Distance": 9.10,
-        "Is_Interchange": true,
-        "Is_HeadStation": false,
-        "Change Line": "Gray"
-      },
-      "ID": 9
-    },
-    {
-      "Stations": {
-        "Station_Name": "Dwarka Mor",
-        "Distance": 10.199999999999999,
-        "Is_Interchange": false,
-        "Is_HeadStation": false
-      },
-      "ID": 10
-    },
-    {
-      "Stations": {
-        "Station_Name": "Nawada",
-        "Distance": 11.40,
-        "Is_Interchange": false,
-        "Is_HeadStation": false
-      },
-      "ID": 11
-    },
-    {
-      "Stations": {
-        "Station_Name": "Uttam Nagar West",
-        "Distance": 12.40,
-        "Is_Interchange": false,
-        "Is_HeadStation": false
-      },
-      "ID": 12
-    },
-    {
-      "Stations": {
-        "Station_Name": "Uttam Nagar East",
-        "Distance": 13.40,
-        "Is_Interchange": false,
-        "Is_HeadStation": false
-      },
-      "ID": 13
-    },
-    {
-      "Stations": {
-        "Station_Name": "Janak Puri West",
-        "Distance": 14.70,
-        "Is_Interchange": true,
-        "Is_HeadStation": false,
-        "Change Line": "Magenta"
-      },
-      "ID": 14
-    },
-    {
-      "Stations": {
-        "Station_Name": "Janak Puri East",
-        "Distance": 15.70,
-        "Is_Interchange": false,
-        "Is_HeadStation": false
-      },
-      "ID": 15
-    },
-    {
-      "Stations": {
-        "Station_Name": "Tilak Nagar",
-        "Distance": 16.70,
-        "Is_Interchange": false,
-        "Is_HeadStation": false
-      },
-      "ID": 16
-    },
-    {
-      "Stations": {
-        "Station_Name": "Subhash Nagar",
-        "Distance": 17.60,
-        "Is_Interchange": false,
-        "Is_HeadStation": false
-      },
-      "ID": 17
-    },
-    {
-      "Stations": {
-        "Station_Name": "Tagore Garden",
-        "Distance": 18.50,
-        "Is_Interchange": false,
-        "Is_HeadStation": false
-      },
-      "ID": 18
-    },
-    {
-      "Stations": {
-        "Station_Name": "Rajouri Garden",
-        "Distance": 19.60,
-        "Is_Interchange": true,
-        "Is_HeadStation": false,
-        "Change Line": "Pink"
-      },
-      "ID": 19
-    },
-    {
-      "Stations": {
-        "Station_Name": "Ramesh Nagar",
-        "Distance": 20.60,
-        "Is_Interchange": false,
-        "Is_HeadStation": false
-      },
-      "ID": 20
-    },
-    {
-      "Stations": {
-        "Station_Name": "Moti Nagar",
-        "Distance": 21.80,
-        "Is_Interchange": false,
-        "Is_HeadStation": false
-      },
-      "ID": 21
-    },
-    {
-      "Stations": {
-        "Station_Name": "Kirti Nagar",
-        "Distance": 22.80,
-        "Is_Interchange": true,
-        "Is_HeadStation": false,
-        "Change Line": "Green"
-      },
-      "ID": 22
-    },
-    {
-      "Stations": {
-        "Station_Name": "Shadipur",
-        "Distance": 23.50,
-        "Is_Interchange": false,
-        "Is_HeadStation": false
-      },
-      "ID": 23
-    },
-    {
-      "Stations": {
-        "Station_Name": "Patel Nagar",
-        "Distance": 24.80,
-        "Is_Interchange": false,
-        "Is_HeadStation": false
-      },
-      "ID": 24
-    },
-    {
-      "Stations": {
-        "Station_Name": "Rajendra Place",
-        "Distance": 25.70,
-        "Is_Interchange": false,
-        "Is_HeadStation": false
-      },
-      "ID": 25
-    },
-    {
-      "Stations": {
-        "Station_Name": "Karol Bagh",
-        "Distance": 26.70,
-        "Is_Interchange": false,
-        "Is_HeadStation": false
-      },
-      "ID": 26
-    },
-    {
-      "Stations": {
-        "Station_Name": "Jhandewalan",
-        "Distance": 27.90,
-        "Is_Interchange": false,
-        "Is_HeadStation": false
-      },
-      "ID": 27
-    },
-    {
-      "Stations": {
-        "Station_Name": "R K Ashram Marg",
-        "Distance": 28.90,
-        "Is_Interchange": false,
-        "Is_HeadStation": false
-      },
-      "ID": 28
-    },
-    {
-      "Stations": {
-        "Station_Name": "Rajiv Chowk",
-        "Distance": 30.10,
-        "Is_Interchange": true,
-        "Is_HeadStation": false,
-        "Change Line": "Yellow"
-      },
-      "ID": 29
-    },
-    {
-      "Stations": {
-        "Station_Name": "Barakhamba",
-        "Distance": 30.80,
-        "Is_Interchange": false,
-        "Is_HeadStation": false
-      },
-      "ID": 30
-    },
-    {
-      "Stations": {
-        "Station_Name": "Mandi House",
-        "Distance": 31.80,
-        "Is_Interchange": true,
-        "Is_HeadStation": false,
-        "Change Line": "Violet"
-      },
-      "ID": 31
-    },
-    {
-      "Stations": {
-        "Station_Name": "Supreme Court (Pragati Maidan)",
-        "Distance": 32.60,
-        "Is_Interchange": false,
-        "Is_HeadStation": false
-      },
-      "ID": 32
-    },
-    {
-      "Stations": {
-        "Station_Name": "Indraprastha",
-        "Distance": 33.40,
-        "Is_Interchange": false,
-        "Is_HeadStation": false
-      },
-      "ID": 33
-    },
-    {
-      "Stations": {
-        "Station_Name": "Yamuna Bank",
-        "Distance": 35.200000000000003,
-        "Is_Interchange": true,
-        "Is_HeadStation": false
-      },
-      "ID": 34
-    },
-    {
-      "Stations": {
-        "Station_Name": "Akshardham",
-        "Distance": 36.50,
-        "Is_Interchange": false,
-        "Is_HeadStation": false
-      },
-      "ID": 35
-    },
-    {
-      "Stations": {
-        "Station_Name": "Mayur Vihar Phase-1",
-        "Distance": 38.299999999999997,
-        "Is_Interchange": true,
-        "Is_HeadStation": false,
-        "Change Line": "Pink"
-      },
-      "ID": 36
-    },
-    {
-      "Stations": {
-        "Station_Name": "Mayur Vihar Extention",
-        "Distance": 39.50,
-        "Is_Interchange": false,
-        "Is_HeadStation": false
-      },
-      "ID": 37
-    },
-    {
-      "Stations": {
-        "Station_Name": "New Ashok Nagar",
-        "Distance": 40.40,
-        "Is_Interchange": false,
-        "Is_HeadStation": false
-      },
-      "ID": 38
-    },
-    {
-      "Stations": {
-        "Station_Name": "Noida Sector 15",
-        "Distance": 41.40,
-        "Is_Interchange": false,
-        "Is_HeadStation": false
-      },
-      "ID": 39
-    },
-    {
-      "Stations": {
-        "Station_Name": "Noida Sector 16",
-        "Distance": 42.50,
-        "Is_Interchange": false,
-        "Is_HeadStation": false
-      },
-      "ID": 40
-    },
-    {
-      "Stations": {
-        "Station_Name": "Noida Sector 18",
-        "Distance": 43.60,
-        "Is_Interchange": false,
-        "Is_HeadStation": false
-      },
-      "ID": 41
-    },
-    {
-      "Stations": {
-        "Station_Name": "Botanical Garden",
-        "Distance": 44.70,
-        "Is_Interchange": true,
-        "Is_HeadStation": false,
-        "Change Line": "Magenta"
-      },
-      "ID": 42
-    },
-    {
-      "Stations": {
-        "Station_Name": "Golf Course",
-        "Distance": 45.90,
-        "Is_Interchange": false,
-        "Is_HeadStation": false
-      },
-      "ID": 43
-    },
-    {
-      "Stations": {
-        "Station_Name": "Noida City Center",
-        "Distance": 47.20,
-        "Is_Interchange": false,
-        "Is_HeadStation": false
-      },
-      "ID": 44
-    },
-    {
-      "Stations": {
-        "Station_Name": "Noida Sector 34",
-        "Distance": 48.10,
-        "Is_Interchange": false,
-        "Is_HeadStation": false
-      },
-      "ID": 45
-    },
-    {
-      "Stations": {
-        "Station_Name": "Noida Sector 52",
-        "Distance": 49.30,
-        "Is_Interchange": true,
-        "Is_HeadStation": false,
-        "Change Line": "Aqua"
-      },
-      "ID": 46
-    },
-    {
-      "Stations": {
-        "Station_Name": "Noida Sector 61",
-        "Distance": 50.50,
-        "Is_Interchange": false,
-        "Is_HeadStation": false
-      },
-      "ID": 47
-    },
-    {
-      "Stations": {
-        "Station_Name": "Noida Sector 59",
-        "Distance": 51.50,
-        "Is_Interchange": false,
-        "Is_HeadStation": false
-      },
-      "ID": 48
-    },
-    {
-      "Stations": {
-        "Station_Name": "Noida Sector 62",
-        "Distance": 52.70,
-        "Is_Interchange": false,
-        "Is_HeadStation": false
-      },
-      "ID": 49
-    },
-    {
-      "Stations": {
-        "Station_Name": "Noida Electronic City",
-        "Distance": 53.90,
-        "Is_Interchange": false,
-        "Is_HeadStation": false
-      },
-      "ID": 50
+      "Stations": [
+        {
+          "ID": 1,
+          "Station_Name": "Dwarka Sector 21",
+          "Distance": 0,
+          "Is_Interchange": true,
+          "Is_HeadStation": true,
+          "Change Line": "Orange"
+        },
+        {
+          "ID": 2,
+          "Station_Name": "Dwarka Sector 8",
+          "Distance": 1.70,
+          "Is_Interchange": false,
+          "Is_HeadStation": false
+        },
+        {
+          "ID": 3,
+          "Station_Name": "Dwarka Sector 9",
+          "Distance": 2.70,
+          "Is_Interchange": false,
+          "Is_HeadStation": false
+        },
+        {
+          "ID": 4,
+          "Station_Name": "Dwarka Sector 10",
+          "Distance": 3.80,
+          "Is_Interchange": false,
+          "Is_HeadStation": false
+        },
+        {
+          "ID": 5,
+          "Station_Name": "Dwarka Sector 11",
+          "Distance": 4.80,
+          "Is_Interchange": false,
+          "Is_HeadStation": false
+        },
+        {
+          "ID": 6,
+          "Station_Name": "Dwarka Sector 12",
+          "Distance": 5.80,
+          "Is_Interchange": false,
+          "Is_HeadStation": false
+        },
+        {
+          "ID": 7,
+          "Station_Name": "Dwarka Sector 13",
+          "Distance": 6.70,
+          "Is_Interchange": false,
+          "Is_HeadStation": false
+        },
+        {
+          "ID": 8,
+          "Station_Name": "Dwarka Sector 14",
+          "Distance": 7.60,
+          "Is_Interchange": false,
+          "Is_HeadStation": false
+        },
+        {
+          "ID": 9,
+          "Station_Name": "Dwarka",
+          "Distance": 9.10,
+          "Is_Interchange": true,
+          "Is_HeadStation": false,
+          "Change Line": "Gray"
+        },
+        {
+          "ID": 10,
+          "Station_Name": "Dwarka Mor",
+          "Distance": 10.199999999999999,
+          "Is_Interchange": false,
+          "Is_HeadStation": false
+        },
+        {
+          "ID": 11,
+          "Station_Name": "Nawada",
+          "Distance": 11.40,
+          "Is_Interchange": false,
+          "Is_HeadStation": false
+        },
+        {
+          "ID": 12,
+          "Station_Name": "Uttam Nagar West",
+          "Distance": 12.40,
+          "Is_Interchange": false,
+          "Is_HeadStation": false
+        },
+        {
+          "ID": 13,
+          "Station_Name": "Uttam Nagar East",
+          "Distance": 13.40,
+          "Is_Interchange": false,
+          "Is_HeadStation": false
+        },
+        {
+          "ID": 14,
+          "Station_Name": "Janak Puri West",
+          "Distance": 14.70,
+          "Is_Interchange": true,
+          "Is_HeadStation": false,
+          "Change Line": "Magenta"
+        },
+        {
+          "ID": 15,
+          "Station_Name": "Janak Puri East",
+          "Distance": 15.70,
+          "Is_Interchange": false,
+          "Is_HeadStation": false
+        },
+        {
+          "ID": 16,
+          "Station_Name": "Tilak Nagar",
+          "Distance": 16.70,
+          "Is_Interchange": false,
+          "Is_HeadStation": false
+        },
+        {
+          "ID": 17,
+          "Station_Name": "Subhash Nagar",
+          "Distance": 17.60,
+          "Is_Interchange": false,
+          "Is_HeadStation": false
+        },
+        {
+          "ID": 18,
+          "Station_Name": "Tagore Garden",
+          "Distance": 18.50,
+          "Is_Interchange": false,
+          "Is_HeadStation": false
+        },
+        {
+          "ID": 19,
+          "Station_Name": "Rajouri Garden",
+          "Distance": 19.60,
+          "Is_Interchange": true,
+          "Is_HeadStation": false,
+          "Change Line": "Pink"
+        },
+        {
+          "ID": 20,
+          "Station_Name": "Ramesh Nagar",
+          "Distance": 20.60,
+          "Is_Interchange": false,
+          "Is_HeadStation": false
+        },
+        {
+          "ID": 21,
+          "Station_Name": "Moti Nagar",
+          "Distance": 21.80,
+          "Is_Interchange": false,
+          "Is_HeadStation": false
+        },
+        {
+          "ID": 22,
+          "Station_Name": "Kirti Nagar",
+          "Distance": 22.80,
+          "Is_Interchange": true,
+          "Is_HeadStation": false,
+          "Change Line": "Green"
+        },
+        {
+          "ID": 23,
+          "Station_Name": "Shadipur",
+          "Distance": 23.50,
+          "Is_Interchange": false,
+          "Is_HeadStation": false
+        },
+        {
+          "ID": 24,
+          "Station_Name": "Patel Nagar",
+          "Distance": 24.80,
+          "Is_Interchange": false,
+          "Is_HeadStation": false
+        },
+        {
+          "ID": 25,
+          "Station_Name": "Rajendra Place",
+          "Distance": 25.70,
+          "Is_Interchange": false,
+          "Is_HeadStation": false
+        },
+        {
+          "ID": 26,
+          "Station_Name": "Karol Bagh",
+          "Distance": 26.70,
+          "Is_Interchange": false,
+          "Is_HeadStation": false
+        },
+        {
+          "ID": 27,
+          "Station_Name": "Jhandewalan",
+          "Distance": 27.90,
+          "Is_Interchange": false,
+          "Is_HeadStation": false
+        },
+        {
+          "ID": 28,
+          "Station_Name": "R K Ashram Marg",
+          "Distance": 28.90,
+          "Is_Interchange": false,
+          "Is_HeadStation": false
+        },
+        {
+          "ID": 29,
+          "Station_Name": "Rajiv Chowk",
+          "Distance": 30.10,
+          "Is_Interchange": true,
+          "Is_HeadStation": false,
+          "Change Line": "Yellow"
+        },
+        {
+          "ID": 30,
+          "Station_Name": "Barakhamba",
+          "Distance": 30.80,
+          "Is_Interchange": false,
+          "Is_HeadStation": false
+        },
+        {
+          "ID": 31,
+          "Station_Name": "Mandi House",
+          "Distance": 31.80,
+          "Is_Interchange": true,
+          "Is_HeadStation": false,
+          "Change Line": "Violet"
+        },
+        {
+          "ID": 32,
+          "Station_Name": "Supreme Court (Pragati Maidan)",
+          "Distance": 32.60,
+          "Is_Interchange": false,
+          "Is_HeadStation": false
+        },
+        {
+          "ID": 33,
+          "Station_Name": "Indraprastha",
+          "Distance": 33.40,
+          "Is_Interchange": false,
+          "Is_HeadStation": false
+        },
+        {
+          "ID": 34,
+          "Station_Name": "Yamuna Bank",
+          "Distance": 35.200000000000003,
+          "Is_Interchange": true,
+          "Is_HeadStation": false
+        },
+        {
+          "ID": 35,
+          "Station_Name": "Akshardham",
+          "Distance": 36.50,
+          "Is_Interchange": false,
+          "Is_HeadStation": false
+        },
+        {
+          "ID": 36,
+          "Station_Name": "Mayur Vihar Phase-1",
+          "Distance": 38.299999999999997,
+          "Is_Interchange": true,
+          "Is_HeadStation": false,
+          "Change Line": "Pink"
+        },
+        {
+          "ID": 37,
+          "Station_Name": "Mayur Vihar Extention",
+          "Distance": 39.50,
+          "Is_Interchange": false,
+          "Is_HeadStation": false
+        },
+        {
+          "ID": 38,
+          "Station_Name": "New Ashok Nagar",
+          "Distance": 40.40,
+          "Is_Interchange": false,
+          "Is_HeadStation": false
+        },
+        {
+          "ID": 39,
+          "Station_Name": "Noida Sector 15",
+          "Distance": 41.40,
+          "Is_Interchange": false,
+          "Is_HeadStation": false
+        },
+        {
+          "ID": 40,
+          "Station_Name": "Noida Sector 16",
+          "Distance": 42.50,
+          "Is_Interchange": false,
+          "Is_HeadStation": false
+        },
+        {
+          "ID": 41,
+          "Station_Name": "Noida Sector 18",
+          "Distance": 43.60,
+          "Is_Interchange": false,
+          "Is_HeadStation": false
+        },
+        {
+          "ID": 42,
+          "Station_Name": "Botanical Garden",
+          "Distance": 44.70,
+          "Is_Interchange": true,
+          "Is_HeadStation": false,
+          "Change Line": "Magenta"
+        },
+        {
+          "ID": 43,
+          "Station_Name": "Golf Course",
+          "Distance": 45.90,
+          "Is_Interchange": false,
+          "Is_HeadStation": false
+        },
+        {
+          "ID": 44,
+          "Station_Name": "Noida City Center",
+          "Distance": 47.20,
+          "Is_Interchange": false,
+          "Is_HeadStation": false
+        },
+        {
+          "ID": 45,
+          "Station_Name": "Noida Sector 34",
+          "Distance": 48.10,
+          "Is_Interchange": false,
+          "Is_HeadStation": false
+        },
+        {
+          "ID": 46,
+          "Station_Name": "Noida Sector 52",
+          "Distance": 49.30,
+          "Is_Interchange": true,
+          "Is_HeadStation": false,
+          "Change Line": "Aqua"
+        },
+        {
+          "ID": 47,
+          "Station_Name": "Noida Sector 61",
+          "Distance": 50.50,
+          "Is_Interchange": false,
+          "Is_HeadStation": false
+        },
+        {
+          "ID": 48,
+          "Station_Name": "Noida Sector 59",
+          "Distance": 51.50,
+          "Is_Interchange": false,
+          "Is_HeadStation": false
+        },
+        {
+          "ID": 49,
+          "Station_Name": "Noida Sector 62",
+          "Distance": 52.70,
+          "Is_Interchange": false,
+          "Is_HeadStation": false
+        },
+        {
+          "ID": 50,
+          "Station_Name": "Noida Electronic City",
+          "Distance": 53.90,
+          "Is_Interchange": false,
+          "Is_HeadStation": false
+        }
+      ]
     },
     {
       "Line_Name": "Airport_Express",
       "Color": "Orange",
-      "Stations": {
-        "Station_Name": "New Delhi-Airport Express",
-        "Distance": 0,
-        "Is_Interchange": true,
-        "Is_HeadStation": true,
-        "Change Line": "Yellow"
-      },
-      "ID": 1
-    },
-    {
-      "Stations": {
-        "Station_Name": "Shivaji Stadium",
-        "Distance": 1.90,
-        "Is_Interchange": false,
-        "Is_HeadStation": false
-      },
-      "ID": 2
-    },
-    {
-      "Stations": {
-        "Station_Name": "Dhaula Kuan",
-        "Distance": 8.3000000000000007,
-        "Is_Interchange": true,
-        "Is_HeadStation": false,
-        "Change Line": "Pink"
-      },
-      "ID": 3
-    },
-    {
-      "Stations": {
-        "Station_Name": "Delhi Aerocity",
-        "Distance": 14.50,
-        "Is_Interchange": false,
-        "Is_HeadStation": false
-      },
-      "ID": 4
-    },
-    {
-      "Stations": {
-        "Station_Name": "IGI Airport",
-        "Distance": 17.90,
-        "Is_Interchange": false,
-        "Is_HeadStation": false
-      },
-      "ID": 5
-    },
-    {
-      "Stations": {
-        "Station_Name": "Dwarka Sector 21",
-        "Distance": 20.80,
-        "Is_Interchange": true,
-        "Is_HeadStation": false,
-        "Change Line": "Blue"
-      },
-      "ID": 6
+      "Stations": [
+        {
+          "ID": 1,
+          "Station_Name": "New Delhi-Airport Express",
+          "Distance": 0,
+          "Is_Interchange": true,
+          "Is_HeadStation": true,
+          "Change Line": "Yellow"
+        },
+        {
+          "ID": 2,
+          "Station_Name": "Shivaji Stadium",
+          "Distance": 1.90,
+          "Is_Interchange": false,
+          "Is_HeadStation": false
+        },
+        {
+          "ID": 3,
+          "Station_Name": "Dhaula Kuan",
+          "Distance": 8.3000000000000007,
+          "Is_Interchange": true,
+          "Is_HeadStation": false,
+          "Change Line": "Pink"
+        },
+        {
+          "ID": 4,
+          "Station_Name": "Delhi Aerocity",
+          "Distance": 14.50,
+          "Is_Interchange": false,
+          "Is_HeadStation": false
+        },
+        {
+          "ID": 5,
+          "Station_Name": "IGI Airport",
+          "Distance": 17.90,
+          "Is_Interchange": false,
+          "Is_HeadStation": false
+        },
+        {
+          "ID": 6,
+          "Station_Name": "Dwarka Sector 21",
+          "Distance": 20.80,
+          "Is_Interchange": true,
+          "Is_HeadStation": false,
+          "Change Line": "Blue"
+        }
+      ]
     },
     {
       "Line_Name": "Green_Line-Indrlok_to_Mundka",
       "Color": "Green",
-      "Stations": {
-        "Station_Name": "Inderlok",
-        "Distance": 0,
-        "Is_Interchange": true,
-        "Is_HeadStation": true,
-        "Change Line": "Red"
-      },
-      "ID": 1
-    },
-    {
-      "Stations": {
-        "Station_Name": "Ashok Park Main",
-        "Distance": 1.40,
-        "Is_Interchange": false,
-        "Is_HeadStation": false
-      },
-      "ID": 2
-    },
-    {
-      "Stations": {
-        "Station_Name": "Punjabi Bagh",
-        "Distance": 2.2999999999999998,
-        "Is_Interchange": false,
-        "Is_HeadStation": false
-      },
-      "ID": 3
-    },
-    {
-      "Stations": {
-        "Station_Name": "Shivaji Park",
-        "Distance": 3.90,
-        "Is_Interchange": false,
-        "Is_HeadStation": false
-      },
-      "ID": 4
-    },
-    {
-      "Stations": {
-        "Station_Name": "Madipur",
-        "Distance": 5,
-        "Is_Interchange": false,
-        "Is_HeadStation": false
-      },
-      "ID": 5
-    },
-    {
-      "Stations": {
-        "Station_Name": "Paschim Vihar (East)",
-        "Distance": 5.70,
-        "Is_Interchange": false,
-        "Is_HeadStation": false
-      },
-      "ID": 6
-    },
-    {
-      "Stations": {
-        "Station_Name": "Paschim Vihar (West)",
-        "Distance": 6.70,
-        "Is_Interchange": false,
-        "Is_HeadStation": false
-      },
-      "ID": 7
-    },
-    {
-      "Stations": {
-        "Station_Name": "Peera Garhi",
-        "Distance": 7.60,
-        "Is_Interchange": false,
-        "Is_HeadStation": false
-      },
-      "ID": 8
-    },
-    {
-      "Stations": {
-        "Station_Name": "Udyog Nagar",
-        "Distance": 8.8000000000000007,
-        "Is_Interchange": false,
-        "Is_HeadStation": false
-      },
-      "ID": 9
-    },
-    {
-      "Stations": {
-        "Station_Name": "Maharaja Surajmal Stadium",
-        "Distance": 9.50,
-        "Is_Interchange": false,
-        "Is_HeadStation": false
-      },
-      "ID": 10
-    },
-    {
-      "Stations": {
-        "Station_Name": "Nangloi",
-        "Distance": 10.30,
-        "Is_Interchange": false,
-        "Is_HeadStation": false
-      },
-      "ID": 11
-    },
-    {
-      "Stations": {
-        "Station_Name": "Nangloi Railway Station",
-        "Distance": 11.20,
-        "Is_Interchange": false,
-        "Is_HeadStation": false
-      },
-      "ID": 12
-    },
-    {
-      "Stations": {
-        "Station_Name": "Rajdhani Park",
-        "Distance": 12.40,
-        "Is_Interchange": false,
-        "Is_HeadStation": false
-      },
-      "ID": 13
-    },
-    {
-      "Stations": {
-        "Station_Name": "Mundka",
-        "Distance": 13.70,
-        "Is_Interchange": false,
-        "Is_HeadStation": false
-      },
-      "ID": 14
-    },
-    {
-      "Stations": {
-        "Station_Name": "Mundka Industrial Area (MIA)",
-        "Distance": 15,
-        "Is_Interchange": false,
-        "Is_HeadStation": false
-      },
-      "ID": 15
-    },
-    {
-      "Stations": {
-        "Station_Name": "Ghevra Metro station",
-        "Distance": 17.10,
-        "Is_Interchange": false,
-        "Is_HeadStation": false
-      },
-      "ID": 16
-    },
-    {
-      "Stations": {
-        "Station_Name": "Tikri Kalan",
-        "Distance": 18.90,
-        "Is_Interchange": false,
-        "Is_HeadStation": false
-      },
-      "ID": 17
-    },
-    {
-      "Stations": {
-        "Station_Name": "Tikri Border",
-        "Distance": 20.20,
-        "Is_Interchange": false,
-        "Is_HeadStation": false
-      },
-      "ID": 18
-    },
-    {
-      "Stations": {
-        "Station_Name": "Pandit Shree Ram Sharma",
-        "Distance": 21.50,
-        "Is_Interchange": false,
-        "Is_HeadStation": false
-      },
-      "ID": 19
-    },
-    {
-      "Stations": {
-        "Station_Name": "Bahdurgarh City",
-        "Distance": 23,
-        "Is_Interchange": false,
-        "Is_HeadStation": false
-      },
-      "ID": 20
-    },
-    {
-      "Stations": {
-        "Station_Name": "Brigadier Hoshiar Singh",
-        "Distance": 24.80,
-        "Is_Interchange": false,
-        "Is_HeadStation": false
-      },
-      "ID": 21
+      "Stations": [
+        {
+          "ID": 1,
+          "Station_Name": "Inderlok",
+          "Distance": 0,
+          "Is_Interchange": true,
+          "Is_HeadStation": true,
+          "Change Line": "Red"
+        },
+        {
+          "ID": 2,
+          "Station_Name": "Ashok Park Main",
+          "Distance": 1.40,
+          "Is_Interchange": false,
+          "Is_HeadStation": false
+        },
+        {
+          "ID": 3,
+          "Station_Name": "Punjabi Bagh",
+          "Distance": 2.2999999999999998,
+          "Is_Interchange": false,
+          "Is_HeadStation": false
+        },
+        {
+          "ID": 4,
+          "Station_Name": "Shivaji Park",
+          "Distance": 3.90,
+          "Is_Interchange": false,
+          "Is_HeadStation": false
+        },
+        {
+          "ID": 5,
+          "Station_Name": "Madipur",
+          "Distance": 5,
+          "Is_Interchange": false,
+          "Is_HeadStation": false
+        },
+        {
+          "ID": 6,
+          "Station_Name": "Paschim Vihar (East)",
+          "Distance": 5.70,
+          "Is_Interchange": false,
+          "Is_HeadStation": false
+        },
+        {
+          "ID": 7,
+          "Station_Name": "Paschim Vihar (West)",
+          "Distance": 6.70,
+          "Is_Interchange": false,
+          "Is_HeadStation": false
+        },
+        {
+          "ID": 8,
+          "Station_Name": "Peera Garhi",
+          "Distance": 7.60,
+          "Is_Interchange": false,
+          "Is_HeadStation": false
+        },
+        {
+          "ID": 9,
+          "Station_Name": "Udyog Nagar",
+          "Distance": 8.8000000000000007,
+          "Is_Interchange": false,
+          "Is_HeadStation": false
+        },
+        {
+          "ID": 10,
+          "Station_Name": "Maharaja Surajmal Stadium",
+          "Distance": 9.50,
+          "Is_Interchange": false,
+          "Is_HeadStation": false
+        },
+        {
+          "ID": 11,
+          "Station_Name": "Nangloi",
+          "Distance": 10.30,
+          "Is_Interchange": false,
+          "Is_HeadStation": false
+        },
+        {
+          "ID": 12,
+          "Station_Name": "Nangloi Railway Station",
+          "Distance": 11.20,
+          "Is_Interchange": false,
+          "Is_HeadStation": false
+        },
+        {
+          "ID": 13,
+          "Station_Name": "Rajdhani Park",
+          "Distance": 12.40,
+          "Is_Interchange": false,
+          "Is_HeadStation": false
+        },
+        {
+          "ID": 14,
+          "Station_Name": "Mundka",
+          "Distance": 13.70,
+          "Is_Interchange": false,
+          "Is_HeadStation": false
+        },
+        {
+          "ID": 15,
+          "Station_Name": "Mundka Industrial Area (MIA)",
+          "Distance": 15,
+          "Is_Interchange": false,
+          "Is_HeadStation": false
+        },
+        {
+          "ID": 16,
+          "Station_Name": "Ghevra Metro station",
+          "Distance": 17.10,
+          "Is_Interchange": false,
+          "Is_HeadStation": false
+        },
+        {
+          "ID": 17,
+          "Station_Name": "Tikri Kalan",
+          "Distance": 18.90,
+          "Is_Interchange": false,
+          "Is_HeadStation": false
+        },
+        {
+          "ID": 18,
+          "Station_Name": "Tikri Border",
+          "Distance": 20.20,
+          "Is_Interchange": false,
+          "Is_HeadStation": false
+        },
+        {
+          "ID": 19,
+          "Station_Name": "Pandit Shree Ram Sharma",
+          "Distance": 21.50,
+          "Is_Interchange": false,
+          "Is_HeadStation": false
+        },
+        {
+          "ID": 20,
+          "Station_Name": "Bahdurgarh City",
+          "Distance": 23,
+          "Is_Interchange": false,
+          "Is_HeadStation": false
+        },
+        {
+          "ID": 21,
+          "Station_Name": "Brigadier Hoshiar Singh",
+          "Distance": 24.80,
+          "Is_Interchange": false,
+          "Is_HeadStation": false
+        }
+      ]
     },
     {
       "Line_Name": "Rapid_Line",
       "Color": "Rapid",
-      "Stations": {
-        "Station_Name": "Sector 55-66 ",
-        "Distance": 0,
-        "Is_Interchange": false,
-        "Is_HeadStation": true
-      },
-      "ID": 1
-    },
-    {
-      "Stations": {
-        "Station_Name": "Sector 54 Chowk ",
-        "Distance": 1.1000000000000001,
-        "Is_Interchange": false,
-        "Is_HeadStation": false
-      },
-      "ID": 2
-    },
-    {
-      "Stations": {
-        "Station_Name": "Sector 53-54 ",
-        "Distance": 2.60,
-        "Is_Interchange": false,
-        "Is_HeadStation": false
-      },
-      "ID": 3
-    },
-    {
-      "Stations": {
-        "Station_Name": "Sector 42-43 ",
-        "Distance": 3.90,
-        "Is_Interchange": false,
-        "Is_HeadStation": false
-      },
-      "ID": 4
-    },
-    {
-      "Stations": {
-        "Station_Name": "DLF Phase 1 ",
-        "Distance": 5.50,
-        "Is_Interchange": false,
-        "Is_HeadStation": false
-      },
-      "ID": 5
-    },
-    {
-      "Stations": {
-        "Station_Name": "Sikandarpur ",
-        "Distance": 6.60,
-        "Is_Interchange": true,
-        "Is_HeadStation": false,
-        "Change Line": "Yellow"
-      },
-      "ID": 6
-    },
-    {
-      "Stations": {
-        "Station_Name": "DLF Phase 2 ",
-        "Distance": 7.30,
-        "Is_Interchange": false,
-        "Is_HeadStation": false
-      },
-      "ID": 7
-    },
-    {
-      "Stations": {
-        "Station_Name": "Belvedere Towers ",
-        "Distance": 8,
-        "Is_Interchange": false,
-        "Is_HeadStation": false
-      },
-      "ID": 8
-    },
-    {
-      "Stations": {
-        "Station_Name": "Cyber City ",
-        "Distance": 8.60,
-        "Is_Interchange": false,
-        "Is_HeadStation": false
-      },
-      "ID": 9
-    },
-    {
-      "Stations": {
-        "Station_Name": "Moulsari Avenue ",
-        "Distance": 9.1999999999999993,
-        "Is_Interchange": false,
-        "Is_HeadStation": false
-      },
-      "ID": 10
-    },
-    {
-      "Stations": {
-        "Station_Name": "DLF Phase 3 ",
-        "Distance": 10,
-        "Is_Interchange": false,
-        "Is_HeadStation": false
-      },
-      "ID": 11
+      "Stations": [
+        {
+          "ID": 1,
+          "Station_Name": "Sector 55-66 ",
+          "Distance": 0,
+          "Is_Interchange": false,
+          "Is_HeadStation": true
+        },
+        {
+          "ID": 2,
+          "Station_Name": "Sector 54 Chowk ",
+          "Distance": 1.1000000000000001,
+          "Is_Interchange": false,
+          "Is_HeadStation": false
+        },
+        {
+          "ID": 3,
+          "Station_Name": "Sector 53-54 ",
+          "Distance": 2.60,
+          "Is_Interchange": false,
+          "Is_HeadStation": false
+        },
+        {
+          "ID": 4,
+          "Station_Name": "Sector 42-43 ",
+          "Distance": 3.90,
+          "Is_Interchange": false,
+          "Is_HeadStation": false
+        },
+        {
+          "ID": 5,
+          "Station_Name": "DLF Phase 1 ",
+          "Distance": 5.50,
+          "Is_Interchange": false,
+          "Is_HeadStation": false
+        },
+        {
+          "ID": 6,
+          "Station_Name": "Sikandarpur ",
+          "Distance": 6.60,
+          "Is_Interchange": true,
+          "Is_HeadStation": false,
+          "Change Line": "Yellow"
+        },
+        {
+          "ID": 7,
+          "Station_Name": "DLF Phase 2 ",
+          "Distance": 7.30,
+          "Is_Interchange": false,
+          "Is_HeadStation": false
+        },
+        {
+          "ID": 8,
+          "Station_Name": "Belvedere Towers ",
+          "Distance": 8,
+          "Is_Interchange": false,
+          "Is_HeadStation": false
+        },
+        {
+          "ID": 9,
+          "Station_Name": "Cyber City ",
+          "Distance": 8.60,
+          "Is_Interchange": false,
+          "Is_HeadStation": false
+        },
+        {
+          "ID": 10,
+          "Station_Name": "Moulsari Avenue ",
+          "Distance": 9.1999999999999993,
+          "Is_Interchange": false,
+          "Is_HeadStation": false
+        },
+        {
+          "ID": 11,
+          "Station_Name": "DLF Phase 3 ",
+          "Distance": 10,
+          "Is_Interchange": false,
+          "Is_HeadStation": false
+        }
+      ]
     },
     {
       "Line_Name": "Violet_Line",
       "Color": "Violet",
-      "Stations": {
-        "Station_Name": "Kashmere Gate",
-        "Distance": 0,
-        "Is_Interchange": true,
-        "Is_HeadStation": true,
-        "Change Line": "Yellow"
-      },
-      "ID": 1
-    },
-    {
-      "Stations": {
-        "Station_Name": "Lal Quila",
-        "Distance": 1.50,
-        "Is_Interchange": false,
-        "Is_HeadStation": false
-      },
-      "ID": 2
-    },
-    {
-      "Stations": {
-        "Station_Name": "Jama Masjid",
-        "Distance": 2.2999999999999998,
-        "Is_Interchange": false,
-        "Is_HeadStation": false
-      },
-      "ID": 3
-    },
-    {
-      "Stations": {
-        "Station_Name": "Delhi Gate",
-        "Distance": 3.70,
-        "Is_Interchange": false,
-        "Is_HeadStation": false
-      },
-      "ID": 4
-    },
-    {
-      "Stations": {
-        "Station_Name": "ITO",
-        "Distance": 5,
-        "Is_Interchange": false,
-        "Is_HeadStation": false
-      },
-      "ID": 5
-    },
-    {
-      "Stations": {
-        "Station_Name": "Mandi House",
-        "Distance": 5.80,
-        "Is_Interchange": false,
-        "Is_HeadStation": true,
-        "Change Line": "Blue"
-      },
-      "ID": 6
-    },
-    {
-      "Stations": {
-        "Station_Name": "Janpath",
-        "Distance": 7.20,
-        "Is_Interchange": false,
-        "Is_HeadStation": false
-      },
-      "ID": 7
-    },
-    {
-      "Stations": {
-        "Station_Name": "Central Secretariat",
-        "Distance": 8.50,
-        "Is_Interchange": false,
-        "Is_HeadStation": true,
-        "Change Line": "Yellow"
-      },
-      "ID": 8
-    },
-    {
-      "Stations": {
-        "Station_Name": "Khan Market",
-        "Distance": 10.60,
-        "Is_Interchange": false,
-        "Is_HeadStation": false
-      },
-      "ID": 9
-    },
-    {
-      "Stations": {
-        "Station_Name": "Jawaharlal Nehru Stadium",
-        "Distance": 12,
-        "Is_Interchange": false,
-        "Is_HeadStation": false
-      },
-      "ID": 10
-    },
-    {
-      "Stations": {
-        "Station_Name": "Jangpura",
-        "Distance": 12.90,
-        "Is_Interchange": false,
-        "Is_HeadStation": false
-      },
-      "ID": 11
-    },
-    {
-      "Stations": {
-        "Station_Name": "Lajpat Nagar",
-        "Distance": 14.40,
-        "Is_Interchange": false,
-        "Is_HeadStation": true,
-        "Change Line": "Pink"
-      },
-      "ID": 12
-    },
-    {
-      "Stations": {
-        "Station_Name": "Moolchand",
-        "Distance": 15.10,
-        "Is_Interchange": false,
-        "Is_HeadStation": false
-      },
-      "ID": 13
-    },
-    {
-      "Stations": {
-        "Station_Name": "Kailash Colony",
-        "Distance": 16.40,
-        "Is_Interchange": false,
-        "Is_HeadStation": false
-      },
-      "ID": 14
-    },
-    {
-      "Stations": {
-        "Station_Name": "Nehru Place",
-        "Distance": 17.40,
-        "Is_Interchange": false,
-        "Is_HeadStation": false
-      },
-      "ID": 15
-    },
-    {
-      "Stations": {
-        "Station_Name": "Kalkaji Mandir",
-        "Distance": 18.20,
-        "Is_Interchange": false,
-        "Is_HeadStation": true,
-        "Change Line": "Magenta"
-      },
-      "ID": 16
-    },
-    {
-      "Stations": {
-        "Station_Name": "Govind Puri",
-        "Distance": 18.90,
-        "Is_Interchange": false,
-        "Is_HeadStation": false
-      },
-      "ID": 17
-    },
-    {
-      "Stations": {
-        "Station_Name": "Okhla",
-        "Distance": 20,
-        "Is_Interchange": false,
-        "Is_HeadStation": false
-      },
-      "ID": 18
-    },
-    {
-      "Stations": {
-        "Station_Name": "Jasola",
-        "Distance": 20.90,
-        "Is_Interchange": false,
-        "Is_HeadStation": false
-      },
-      "ID": 19
-    },
-    {
-      "Stations": {
-        "Station_Name": "Sarita Vihar",
-        "Distance": 22.10,
-        "Is_Interchange": false,
-        "Is_HeadStation": false
-      },
-      "ID": 20
-    },
-    {
-      "Stations": {
-        "Station_Name": "Mohan Estate",
-        "Distance": 23.30,
-        "Is_Interchange": false,
-        "Is_HeadStation": false
-      },
-      "ID": 21
-    },
-    {
-      "Stations": {
-        "Station_Name": "Tughlakabad",
-        "Distance": 25.20,
-        "Is_Interchange": false,
-        "Is_HeadStation": false
-      },
-      "ID": 22
-    },
-    {
-      "Stations": {
-        "Station_Name": "Badarpur Border",
-        "Distance": 26.30,
-        "Is_Interchange": false,
-        "Is_HeadStation": false
-      },
-      "ID": 23
-    },
-    {
-      "Stations": {
-        "Station_Name": "Sarai",
-        "Distance": 28.80,
-        "Is_Interchange": false,
-        "Is_HeadStation": false
-      },
-      "ID": 24
-    },
-    {
-      "Stations": {
-        "Station_Name": "N.H.P.C. Chowk",
-        "Distance": 30.40,
-        "Is_Interchange": false,
-        "Is_HeadStation": false
-      },
-      "ID": 25
-    },
-    {
-      "Stations": {
-        "Station_Name": "Mewala Maharajpur",
-        "Distance": 31.30,
-        "Is_Interchange": false,
-        "Is_HeadStation": false
-      },
-      "ID": 26
-    },
-    {
-      "Stations": {
-        "Station_Name": "Sector 28 Faridabad",
-        "Distance": 32.50,
-        "Is_Interchange": false,
-        "Is_HeadStation": false
-      },
-      "ID": 27
-    },
-    {
-      "Stations": {
-        "Station_Name": "Badkal Mor",
-        "Distance": 34.200000000000003,
-        "Is_Interchange": false,
-        "Is_HeadStation": false
-      },
-      "ID": 28
-    },
-    {
-      "Stations": {
-        "Station_Name": "Old Faridabad",
-        "Distance": 35.40,
-        "Is_Interchange": false,
-        "Is_HeadStation": false
-      },
-      "ID": 29
-    },
-    {
-      "Stations": {
-        "Station_Name": "Neelam Chowk Ajronda",
-        "Distance": 37,
-        "Is_Interchange": false,
-        "Is_HeadStation": false
-      },
-      "ID": 30
-    },
-    {
-      "Stations": {
-        "Station_Name": "Bata Chowk",
-        "Distance": 38.299999999999997,
-        "Is_Interchange": false,
-        "Is_HeadStation": false
-      },
-      "ID": 31
-    },
-    {
-      "Stations": {
-        "Station_Name": "Escorts Mujesar",
-        "Distance": 40.10,
-        "Is_Interchange": false,
-        "Is_HeadStation": false
-      },
-      "ID": 32
-    },
-    {
-      "Stations": {
-        "Station_Name": "Sant Surdas - Sihi",
-        "Distance": 41.80,
-        "Is_Interchange": false,
-        "Is_HeadStation": false
-      },
-      "ID": 33
-    },
-    {
-      "Stations": {
-        "Station_Name": "Raja Nahar Singh",
-        "Distance": 43.50,
-        "Is_Interchange": false,
-        "Is_HeadStation": false
-      },
-      "ID": 34
+      "Stations": [
+        {
+          "ID": 1,
+          "Station_Name": "Kashmere Gate",
+          "Distance": 0,
+          "Is_Interchange": true,
+          "Is_HeadStation": true,
+          "Change Line": "Yellow"
+        },
+        {
+          "ID": 2,
+          "Station_Name": "Lal Quila",
+          "Distance": 1.50,
+          "Is_Interchange": false,
+          "Is_HeadStation": false
+        },
+        {
+          "ID": 3,
+          "Station_Name": "Jama Masjid",
+          "Distance": 2.2999999999999998,
+          "Is_Interchange": false,
+          "Is_HeadStation": false
+        },
+        {
+          "ID": 4,
+          "Station_Name": "Delhi Gate",
+          "Distance": 3.70,
+          "Is_Interchange": false,
+          "Is_HeadStation": false
+        },
+        {
+          "ID": 5,
+          "Station_Name": "ITO",
+          "Distance": 5,
+          "Is_Interchange": false,
+          "Is_HeadStation": false
+        },
+        {
+          "ID": 6,
+          "Station_Name": "Mandi House",
+          "Distance": 5.80,
+          "Is_Interchange": false,
+          "Is_HeadStation": true,
+          "Change Line": "Blue"
+        },
+        {
+          "ID": 7,
+          "Station_Name": "Janpath",
+          "Distance": 7.20,
+          "Is_Interchange": false,
+          "Is_HeadStation": false
+        },
+        {
+          "ID": 8,
+          "Station_Name": "Central Secretariat",
+          "Distance": 8.50,
+          "Is_Interchange": false,
+          "Is_HeadStation": true,
+          "Change Line": "Yellow"
+        },
+        {
+          "ID": 9,
+          "Station_Name": "Khan Market",
+          "Distance": 10.60,
+          "Is_Interchange": false,
+          "Is_HeadStation": false
+        },
+        {
+          "ID": 10,
+          "Station_Name": "Jawaharlal Nehru Stadium",
+          "Distance": 12,
+          "Is_Interchange": false,
+          "Is_HeadStation": false
+        },
+        {
+          "ID": 11,
+          "Station_Name": "Jangpura",
+          "Distance": 12.90,
+          "Is_Interchange": false,
+          "Is_HeadStation": false
+        },
+        {
+          "ID": 12,
+          "Station_Name": "Lajpat Nagar",
+          "Distance": 14.40,
+          "Is_Interchange": false,
+          "Is_HeadStation": true,
+          "Change Line": "Pink"
+        },
+        {
+          "ID": 13,
+          "Station_Name": "Moolchand",
+          "Distance": 15.10,
+          "Is_Interchange": false,
+          "Is_HeadStation": false
+        },
+        {
+          "ID": 14,
+          "Station_Name": "Kailash Colony",
+          "Distance": 16.40,
+          "Is_Interchange": false,
+          "Is_HeadStation": false
+        },
+        {
+          "ID": 15,
+          "Station_Name": "Nehru Place",
+          "Distance": 17.40,
+          "Is_Interchange": false,
+          "Is_HeadStation": false
+        },
+        {
+          "ID": 16,
+          "Station_Name": "Kalkaji Mandir",
+          "Distance": 18.20,
+          "Is_Interchange": false,
+          "Is_HeadStation": true,
+          "Change Line": "Magenta"
+        },
+        {
+          "ID": 17,
+          "Station_Name": "Govind Puri",
+          "Distance": 18.90,
+          "Is_Interchange": false,
+          "Is_HeadStation": false
+        },
+        {
+          "ID": 18,
+          "Station_Name": "Okhla",
+          "Distance": 20,
+          "Is_Interchange": false,
+          "Is_HeadStation": false
+        },
+        {
+          "ID": 19,
+          "Station_Name": "Jasola",
+          "Distance": 20.90,
+          "Is_Interchange": false,
+          "Is_HeadStation": false
+        },
+        {
+          "ID": 20,
+          "Station_Name": "Sarita Vihar",
+          "Distance": 22.10,
+          "Is_Interchange": false,
+          "Is_HeadStation": false
+        },
+        {
+          "ID": 21,
+          "Station_Name": "Mohan Estate",
+          "Distance": 23.30,
+          "Is_Interchange": false,
+          "Is_HeadStation": false
+        },
+        {
+          "ID": 22,
+          "Station_Name": "Tughlakabad",
+          "Distance": 25.20,
+          "Is_Interchange": false,
+          "Is_HeadStation": false
+        },
+        {
+          "ID": 23,
+          "Station_Name": "Badarpur Border",
+          "Distance": 26.30,
+          "Is_Interchange": false,
+          "Is_HeadStation": false
+        },
+        {
+          "ID": 24,
+          "Station_Name": "Sarai",
+          "Distance": 28.80,
+          "Is_Interchange": false,
+          "Is_HeadStation": false
+        },
+        {
+          "ID": 25,
+          "Station_Name": "N.H.P.C. Chowk",
+          "Distance": 30.40,
+          "Is_Interchange": false,
+          "Is_HeadStation": false
+        },
+        {
+          "ID": 26,
+          "Station_Name": "Mewala Maharajpur",
+          "Distance": 31.30,
+          "Is_Interchange": false,
+          "Is_HeadStation": false
+        },
+        {
+          "ID": 27,
+          "Station_Name": "Sector 28 Faridabad",
+          "Distance": 32.50,
+          "Is_Interchange": false,
+          "Is_HeadStation": false
+        },
+        {
+          "ID": 28,
+          "Station_Name": "Badkal Mor",
+          "Distance": 34.200000000000003,
+          "Is_Interchange": false,
+          "Is_HeadStation": false
+        },
+        {
+          "ID": 29,
+          "Station_Name": "Old Faridabad",
+          "Distance": 35.40,
+          "Is_Interchange": false,
+          "Is_HeadStation": false
+        },
+        {
+          "ID": 30,
+          "Station_Name": "Neelam Chowk Ajronda",
+          "Distance": 37,
+          "Is_Interchange": false,
+          "Is_HeadStation": false
+        },
+        {
+          "ID": 31,
+          "Station_Name": "Bata Chowk",
+          "Distance": 38.299999999999997,
+          "Is_Interchange": false,
+          "Is_HeadStation": false
+        },
+        {
+          "ID": 32,
+          "Station_Name": "Escorts Mujesar",
+          "Distance": 40.10,
+          "Is_Interchange": false,
+          "Is_HeadStation": false
+        },
+        {
+          "ID": 33,
+          "Station_Name": "Sant Surdas - Sihi",
+          "Distance": 41.80,
+          "Is_Interchange": false,
+          "Is_HeadStation": false
+        },
+        {
+          "ID": 34,
+          "Station_Name": "Raja Nahar Singh",
+          "Distance": 43.50,
+          "Is_Interchange": false,
+          "Is_HeadStation": false
+        }
+      ]
     },
     {
       "Line_Name": "Magenta_Line",
       "Color": "Magenta",
-      "Stations": {
-        "Station_Name": "Janak Puri West",
-        "Distance": 0,
-        "Is_Interchange": false,
-        "Is_HeadStation": true,
-        "Change Line": "Blue"
-      },
-      "ID": 1
-    },
-    {
-      "Stations": {
-        "Station_Name": "Dabri Mor - Janakpuri South",
-        "Distance": 2,
-        "Is_Interchange": false,
-        "Is_HeadStation": false
-      },
-      "ID": 2
-    },
-    {
-      "Stations": {
-        "Station_Name": "Dashrath Puri",
-        "Distance": 3.10,
-        "Is_Interchange": false,
-        "Is_HeadStation": false
-      },
-      "ID": 3
-    },
-    {
-      "Stations": {
-        "Station_Name": "Palam",
-        "Distance": 4.5999999999999996,
-        "Is_Interchange": false,
-        "Is_HeadStation": false
-      },
-      "ID": 4
-    },
-    {
-      "Stations": {
-        "Station_Name": "Sadar Bazaar Cantonment",
-        "Distance": 7.20,
-        "Is_Interchange": false,
-        "Is_HeadStation": false
-      },
-      "ID": 5
-    },
-    {
-      "Stations": {
-        "Station_Name": "Terminal 1 IGI Airport",
-        "Distance": 8.90,
-        "Is_Interchange": false,
-        "Is_HeadStation": false
-      },
-      "ID": 6
-    },
-    {
-      "Stations": {
-        "Station_Name": "Shankar Vihar",
-        "Distance": 10.70,
-        "Is_Interchange": false,
-        "Is_HeadStation": false
-      },
-      "ID": 7
-    },
-    {
-      "Stations": {
-        "Station_Name": "Vasant Vihar",
-        "Distance": 12.80,
-        "Is_Interchange": false,
-        "Is_HeadStation": false
-      },
-      "ID": 8
-    },
-    {
-      "Stations": {
-        "Station_Name": "Munirka",
-        "Distance": 14,
-        "Is_Interchange": false,
-        "Is_HeadStation": false
-      },
-      "ID": 9
-    },
-    {
-      "Stations": {
-        "Station_Name": "RK Puram",
-        "Distance": 15.40,
-        "Is_Interchange": false,
-        "Is_HeadStation": false
-      },
-      "ID": 10
-    },
-    {
-      "Stations": {
-        "Station_Name": "IIT Delhi",
-        "Distance": 16.30,
-        "Is_Interchange": false,
-        "Is_HeadStation": false
-      },
-      "ID": 11
-    },
-    {
-      "Stations": {
-        "Station_Name": "Hauz Khas",
-        "Distance": 17.50,
-        "Is_Interchange": false,
-        "Is_HeadStation": true,
-        "Change Line": "Yellow"
-      },
-      "ID": 12
-    },
-    {
-      "Stations": {
-        "Station_Name": "Panchsheel Park",
-        "Distance": 19,
-        "Is_Interchange": false,
-        "Is_HeadStation": false
-      },
-      "ID": 13
-    },
-    {
-      "Stations": {
-        "Station_Name": "Chirag Delhi",
-        "Distance": 19.90,
-        "Is_Interchange": false,
-        "Is_HeadStation": false
-      },
-      "ID": 14
-    },
-    {
-      "Stations": {
-        "Station_Name": "Greater Kailash",
-        "Distance": 20.80,
-        "Is_Interchange": false,
-        "Is_HeadStation": false
-      },
-      "ID": 15
-    },
-    {
-      "Stations": {
-        "Station_Name": "Nehru Enclave",
-        "Distance": 22.10,
-        "Is_Interchange": false,
-        "Is_HeadStation": false
-      },
-      "ID": 16
-    },
-    {
-      "Stations": {
-        "Station_Name": "Kalkaji Mandir",
-        "Distance": 23,
-        "Is_Interchange": false,
-        "Is_HeadStation": true,
-        "Change Line": "Violet"
-      },
-      "ID": 17
-    },
-    {
-      "Stations": {
-        "Station_Name": "Okhla NSIC",
-        "Distance": 23.80,
-        "Is_Interchange": false,
-        "Is_HeadStation": false
-      },
-      "ID": 18
-    },
-    {
-      "Stations": {
-        "Station_Name": "Sukhdev Vihar",
-        "Distance": 24.90,
-        "Is_Interchange": false,
-        "Is_HeadStation": false
-      },
-      "ID": 19
-    },
-    {
-      "Stations": {
-        "Station_Name": "JAMIA MILLIA ISLAMIA",
-        "Distance": 26.10,
-        "Is_Interchange": false,
-        "Is_HeadStation": false
-      },
-      "ID": 20
-    },
-    {
-      "Stations": {
-        "Station_Name": "Okhla Vihar",
-        "Distance": 26.60,
-        "Is_Interchange": false,
-        "Is_HeadStation": false
-      },
-      "ID": 21
-    },
-    {
-      "Stations": {
-        "Station_Name": "Jasola Vihar Shaheen Bagh",
-        "Distance": 28.40,
-        "Is_Interchange": false,
-        "Is_HeadStation": false
-      },
-      "ID": 22
-    },
-    {
-      "Stations": {
-        "Station_Name": "Kalindi Kunj",
-        "Distance": 29.80,
-        "Is_Interchange": false,
-        "Is_HeadStation": false
-      },
-      "ID": 23
-    },
-    {
-      "Stations": {
-        "Station_Name": "Okhla Bird Sanctuary",
-        "Distance": 31.40,
-        "Is_Interchange": false,
-        "Is_HeadStation": false
-      },
-      "ID": 24
-    },
-    {
-      "Stations": {
-        "Station_Name": "Botanical Garden",
-        "Distance": 33.10,
-        "Is_Interchange": false,
-        "Is_HeadStation": true,
-        "Change Line": "Blue"
-      },
-      "ID": 25
+      "Stations": [
+        {
+          "ID": 1,
+          "Station_Name": "Janak Puri West",
+          "Distance": 0,
+          "Is_Interchange": false,
+          "Is_HeadStation": true,
+          "Change Line": "Blue"
+        },
+        {
+          "ID": 2,
+          "Station_Name": "Dabri Mor - Janakpuri South",
+          "Distance": 2,
+          "Is_Interchange": false,
+          "Is_HeadStation": false
+        },
+        {
+          "ID": 3,
+          "Station_Name": "Dashrath Puri",
+          "Distance": 3.10,
+          "Is_Interchange": false,
+          "Is_HeadStation": false
+        },
+        {
+          "ID": 4,
+          "Station_Name": "Palam",
+          "Distance": 4.5999999999999996,
+          "Is_Interchange": false,
+          "Is_HeadStation": false
+        },
+        {
+          "ID": 5,
+          "Station_Name": "Sadar Bazaar Cantonment",
+          "Distance": 7.20,
+          "Is_Interchange": false,
+          "Is_HeadStation": false
+        },
+        {
+          "ID": 6,
+          "Station_Name": "Terminal 1 IGI Airport",
+          "Distance": 8.90,
+          "Is_Interchange": false,
+          "Is_HeadStation": false
+        },
+        {
+          "ID": 7,
+          "Station_Name": "Shankar Vihar",
+          "Distance": 10.70,
+          "Is_Interchange": false,
+          "Is_HeadStation": false
+        },
+        {
+          "ID": 8,
+          "Station_Name": "Vasant Vihar",
+          "Distance": 12.80,
+          "Is_Interchange": false,
+          "Is_HeadStation": false
+        },
+        {
+          "ID": 9,
+          "Station_Name": "Munirka",
+          "Distance": 14,
+          "Is_Interchange": false,
+          "Is_HeadStation": false
+        },
+        {
+          "ID": 10,
+          "Station_Name": "RK Puram",
+          "Distance": 15.40,
+          "Is_Interchange": false,
+          "Is_HeadStation": false
+        },
+        {
+          "ID": 11,
+          "Station_Name": "IIT Delhi",
+          "Distance": 16.30,
+          "Is_Interchange": false,
+          "Is_HeadStation": false
+        },
+        {
+          "ID": 12,
+          "Station_Name": "Hauz Khas",
+          "Distance": 17.50,
+          "Is_Interchange": false,
+          "Is_HeadStation": true,
+          "Change Line": "Yellow"
+        },
+        {
+          "ID": 13,
+          "Station_Name": "Panchsheel Park",
+          "Distance": 19,
+          "Is_Interchange": false,
+          "Is_HeadStation": false
+        },
+        {
+          "ID": 14,
+          "Station_Name": "Chirag Delhi",
+          "Distance": 19.90,
+          "Is_Interchange": false,
+          "Is_HeadStation": false
+        },
+        {
+          "ID": 15,
+          "Station_Name": "Greater Kailash",
+          "Distance": 20.80,
+          "Is_Interchange": false,
+          "Is_HeadStation": false
+        },
+        {
+          "ID": 16,
+          "Station_Name": "Nehru Enclave",
+          "Distance": 22.10,
+          "Is_Interchange": false,
+          "Is_HeadStation": false
+        },
+        {
+          "ID": 17,
+          "Station_Name": "Kalkaji Mandir",
+          "Distance": 23,
+          "Is_Interchange": false,
+          "Is_HeadStation": true,
+          "Change Line": "Violet"
+        },
+        {
+          "ID": 18,
+          "Station_Name": "Okhla NSIC",
+          "Distance": 23.80,
+          "Is_Interchange": false,
+          "Is_HeadStation": false
+        },
+        {
+          "ID": 19,
+          "Station_Name": "Sukhdev Vihar",
+          "Distance": 24.90,
+          "Is_Interchange": false,
+          "Is_HeadStation": false
+        },
+        {
+          "ID": 20,
+          "Station_Name": "JAMIA MILLIA ISLAMIA",
+          "Distance": 26.10,
+          "Is_Interchange": false,
+          "Is_HeadStation": false
+        },
+        {
+          "ID": 21,
+          "Station_Name": "Okhla Vihar",
+          "Distance": 26.60,
+          "Is_Interchange": false,
+          "Is_HeadStation": false
+        },
+        {
+          "ID": 22,
+          "Station_Name": "Jasola Vihar Shaheen Bagh",
+          "Distance": 28.40,
+          "Is_Interchange": false,
+          "Is_HeadStation": false
+        },
+        {
+          "ID": 23,
+          "Station_Name": "Kalindi Kunj",
+          "Distance": 29.80,
+          "Is_Interchange": false,
+          "Is_HeadStation": false
+        },
+        {
+          "ID": 24,
+          "Station_Name": "Okhla Bird Sanctuary",
+          "Distance": 31.40,
+          "Is_Interchange": false,
+          "Is_HeadStation": false
+        },
+        {
+          "ID": 25,
+          "Station_Name": "Botanical Garden",
+          "Distance": 33.10,
+          "Is_Interchange": false,
+          "Is_HeadStation": true,
+          "Change Line": "Blue"
+        }
+      ]
     },
     {
       "Line_Name": "Pink_Line",
       "Color": "Pink",
-      "Stations": {
-        "Station_Name": "Majlis Park",
-        "Distance": 0,
-        "Is_Interchange": false,
-        "Is_HeadStation": true
-      },
-      "ID": 1
-    },
-    {
-      "Stations": {
-        "Station_Name": "Azadpur",
-        "Distance": 2.10,
-        "Is_Interchange": true,
-        "Is_HeadStation": false,
-        "Change Line": "Yellow"
-      },
-      "ID": 2
-    },
-    {
-      "Stations": {
-        "Station_Name": "Shalimar Bagh",
-        "Distance": 3.70,
-        "Is_Interchange": false,
-        "Is_HeadStation": false
-      },
-      "ID": 3
-    },
-    {
-      "Stations": {
-        "Station_Name": "Netaji Subash Place",
-        "Distance": 5.0999999999999996,
-        "Is_Interchange": true,
-        "Is_HeadStation": false,
-        "Change Line": "Red"
-      },
-      "ID": 4
-    },
-    {
-      "Stations": {
-        "Station_Name": "Shakurpur",
-        "Distance": 6.30,
-        "Is_Interchange": false,
-        "Is_HeadStation": false
-      },
-      "ID": 5
-    },
-    {
-      "Stations": {
-        "Station_Name": "Punjabi Bagh West",
-        "Distance": 7.70,
-        "Is_Interchange": false,
-        "Is_HeadStation": false
-      },
-      "ID": 6
-    },
-    {
-      "Stations": {
-        "Station_Name": "ESI BASAI DARAPUR",
-        "Distance": 10.199999999999999,
-        "Is_Interchange": false,
-        "Is_HeadStation": false
-      },
-      "ID": 7
-    },
-    {
-      "Stations": {
-        "Station_Name": "Rajouri Garden",
-        "Distance": 11.30,
-        "Is_Interchange": true,
-        "Is_HeadStation": false,
-        "Change Line": "Blue"
-      },
-      "ID": 8
-    },
-    {
-      "Stations": {
-        "Station_Name": "Maya Puri",
-        "Distance": 12.80,
-        "Is_Interchange": false,
-        "Is_HeadStation": false
-      },
-      "ID": 9
-    },
-    {
-      "Stations": {
-        "Station_Name": "Naraina Vihar",
-        "Distance": 14.30,
-        "Is_Interchange": false,
-        "Is_HeadStation": false
-      },
-      "ID": 10
-    },
-    {
-      "Stations": {
-        "Station_Name": "Delhi Cantt",
-        "Distance": 16.10,
-        "Is_Interchange": false,
-        "Is_HeadStation": false
-      },
-      "ID": 11
-    },
-    {
-      "Stations": {
-        "Station_Name": "Durgabai Deshmukh South Campus",
-        "Distance": 19.70,
-        "Is_Interchange": true,
-        "Is_HeadStation": false,
-        "Change Line": "Orange"
-      },
-      "ID": 12
-    },
-    {
-      "Stations": {
-        "Station_Name": "Sir Vishweshwaraiah Moti Bagh",
-        "Distance": 21,
-        "Is_Interchange": false,
-        "Is_HeadStation": false
-      },
-      "ID": 13
-    },
-    {
-      "Stations": {
-        "Station_Name": "Bhikaji Cama Place",
-        "Distance": 22.60,
-        "Is_Interchange": false,
-        "Is_HeadStation": false
-      },
-      "ID": 14
-    },
-    {
-      "Stations": {
-        "Station_Name": "Sarojini Nagar",
-        "Distance": 23.80,
-        "Is_Interchange": false,
-        "Is_HeadStation": false
-      },
-      "ID": 15
-    },
-    {
-      "Stations": {
-        "Station_Name": "Dilli Haat INA",
-        "Distance": 24.90,
-        "Is_Interchange": true,
-        "Is_HeadStation": false,
-        "Change Line": "Yellow"
-      },
-      "ID": 16
-    },
-    {
-      "Stations": {
-        "Station_Name": "South Extension",
-        "Distance": 26.10,
-        "Is_Interchange": false,
-        "Is_HeadStation": false
-      },
-      "ID": 17
-    },
-    {
-      "Stations": {
-        "Station_Name": "Lajpat Nagar",
-        "Distance": 27.70,
-        "Is_Interchange": true,
-        "Is_HeadStation": false,
-        "Change Line": "Violet"
-      },
-      "ID": 18
-    },
-    {
-      "Stations": {
-        "Station_Name": "Vinobapuri",
-        "Distance": 29.10,
-        "Is_Interchange": false,
-        "Is_HeadStation": false
-      },
-      "ID": 19
-    },
-    {
-      "Stations": {
-        "Station_Name": "Ashram",
-        "Distance": 30.30,
-        "Is_Interchange": false,
-        "Is_HeadStation": false
-      },
-      "ID": 20
-    },
-    {
-      "Stations": {
-        "Station_Name": "Sarai Kale Khan Hazrat Nizamuddin",
-        "Distance": 32.200000000000003,
-        "Is_Interchange": false,
-        "Is_HeadStation": false
-      },
-      "ID": 21
-    },
-    {
-      "Stations": {
-        "Station_Name": "Mayur Vihar Phase-1",
-        "Distance": 35.799999999999997,
-        "Is_Interchange": true,
-        "Is_HeadStation": false,
-        "Change Line": "Blue"
-      },
-      "ID": 22
-    },
-    {
-      "Stations": {
-        "Station_Name": "Mayur Vihar Pocket I",
-        "Distance": 36.60,
-        "Is_Interchange": false,
-        "Is_HeadStation": false
-      },
-      "ID": 23
-    },
-    {
-      "Stations": {
-        "Station_Name": "Trilokpuri Sanjay Lake",
-        "Distance": 37.90,
-        "Is_Interchange": false,
-        "Is_HeadStation": false
-      },
-      "ID": 24
-    },
-    {
-      "Stations": {
-        "Station_Name": "Vinod Nagar East",
-        "Distance": 38.700000000000003,
-        "Is_Interchange": false,
-        "Is_HeadStation": false
-      },
-      "ID": 25
-    },
-    {
-      "Stations": {
-        "Station_Name": "Mandawali - West Vinod Nagar",
-        "Distance": 39.299999999999997,
-        "Is_Interchange": false,
-        "Is_HeadStation": false
-      },
-      "ID": 26
-    },
-    {
-      "Stations": {
-        "Station_Name": "IP Extension",
-        "Distance": 40.299999999999997,
-        "Is_Interchange": false,
-        "Is_HeadStation": false
-      },
-      "ID": 27
-    },
-    {
-      "Stations": {
-        "Station_Name": "Anand Vihar",
-        "Distance": 41.90,
-        "Is_Interchange": true,
-        "Is_HeadStation": false,
-        "Change Line": "Blue"
-      },
-      "ID": 28
-    },
-    {
-      "Stations": {
-        "Station_Name": "Karkar Duma",
-        "Distance": 42.90,
-        "Is_Interchange": true,
-        "Is_HeadStation": false,
-        "Change Line": "Blue"
-      },
-      "ID": 29
-    },
-    {
-      "Stations": {
-        "Station_Name": "Karkarduma Court",
-        "Distance": 44,
-        "Is_Interchange": false,
-        "Is_HeadStation": false
-      },
-      "ID": 30
-    },
-    {
-      "Stations": {
-        "Station_Name": "Krishna Nagar",
-        "Distance": 44.70,
-        "Is_Interchange": false,
-        "Is_HeadStation": false
-      },
-      "ID": 31
-    },
-    {
-      "Stations": {
-        "Station_Name": "East Azad Nagar",
-        "Distance": 45.70,
-        "Is_Interchange": false,
-        "Is_HeadStation": false
-      },
-      "ID": 32
-    },
-    {
-      "Stations": {
-        "Station_Name": "Welcome",
-        "Distance": 46.80,
-        "Is_Interchange": true,
-        "Is_HeadStation": false,
-        "Change Line": "Red"
-      },
-      "ID": 33
-    },
-    {
-      "Stations": {
-        "Station_Name": "Jaffrabad",
-        "Distance": 48,
-        "Is_Interchange": false,
-        "Is_HeadStation": false
-      },
-      "ID": 34
-    },
-    {
-      "Stations": {
-        "Station_Name": "Maujpur",
-        "Distance": 49.10,
-        "Is_Interchange": false,
-        "Is_HeadStation": false
-      },
-      "ID": 35
-    },
-    {
-      "Stations": {
-        "Station_Name": "Gokulpuri",
-        "Distance": 50.40,
-        "Is_Interchange": false,
-        "Is_HeadStation": false
-      },
-      "ID": 36
-    },
-    {
-      "Stations": {
-        "Station_Name": "Johri Enclave",
-        "Distance": 51.70,
-        "Is_Interchange": false,
-        "Is_HeadStation": false
-      },
-      "ID": 37
-    },
-    {
-      "Stations": {
-        "Station_Name": "Shiv Vihar",
-        "Distance": 52.60,
-        "Is_Interchange": false,
-        "Is_HeadStation": false
-      },
-      "ID": 38
+      "Stations": [
+        {
+          "ID": 1,
+          "Station_Name": "Majlis Park",
+          "Distance": 0,
+          "Is_Interchange": false,
+          "Is_HeadStation": true
+        },
+        {
+          "ID": 2,
+          "Station_Name": "Azadpur",
+          "Distance": 2.10,
+          "Is_Interchange": true,
+          "Is_HeadStation": false,
+          "Change Line": "Yellow"
+        },
+        {
+          "ID": 3,
+          "Station_Name": "Shalimar Bagh",
+          "Distance": 3.70,
+          "Is_Interchange": false,
+          "Is_HeadStation": false
+        },
+        {
+          "ID": 4,
+          "Station_Name": "Netaji Subash Place",
+          "Distance": 5.0999999999999996,
+          "Is_Interchange": true,
+          "Is_HeadStation": false,
+          "Change Line": "Red"
+        },
+        {
+          "ID": 5,
+          "Station_Name": "Shakurpur",
+          "Distance": 6.30,
+          "Is_Interchange": false,
+          "Is_HeadStation": false
+        },
+        {
+          "ID": 6,
+          "Station_Name": "Punjabi Bagh West",
+          "Distance": 7.70,
+          "Is_Interchange": false,
+          "Is_HeadStation": false
+        },
+        {
+          "ID": 7,
+          "Station_Name": "ESI BASAI DARAPUR",
+          "Distance": 10.199999999999999,
+          "Is_Interchange": false,
+          "Is_HeadStation": false
+        },
+        {
+          "ID": 8,
+          "Station_Name": "Rajouri Garden",
+          "Distance": 11.30,
+          "Is_Interchange": true,
+          "Is_HeadStation": false,
+          "Change Line": "Blue"
+        },
+        {
+          "ID": 9,
+          "Station_Name": "Maya Puri",
+          "Distance": 12.80,
+          "Is_Interchange": false,
+          "Is_HeadStation": false
+        },
+        {
+          "ID": 10,
+          "Station_Name": "Naraina Vihar",
+          "Distance": 14.30,
+          "Is_Interchange": false,
+          "Is_HeadStation": false
+        },
+        {
+          "ID": 11,
+          "Station_Name": "Delhi Cantt",
+          "Distance": 16.10,
+          "Is_Interchange": false,
+          "Is_HeadStation": false
+        },
+        {
+          "ID": 12,
+          "Station_Name": "Durgabai Deshmukh South Campus",
+          "Distance": 19.70,
+          "Is_Interchange": true,
+          "Is_HeadStation": false,
+          "Change Line": "Orange"
+        },
+        {
+          "ID": 13,
+          "Station_Name": "Sir Vishweshwaraiah Moti Bagh",
+          "Distance": 21,
+          "Is_Interchange": false,
+          "Is_HeadStation": false
+        },
+        {
+          "ID": 14,
+          "Station_Name": "Bhikaji Cama Place",
+          "Distance": 22.60,
+          "Is_Interchange": false,
+          "Is_HeadStation": false
+        },
+        {
+          "ID": 15,
+          "Station_Name": "Sarojini Nagar",
+          "Distance": 23.80,
+          "Is_Interchange": false,
+          "Is_HeadStation": false
+        },
+        {
+          "ID": 16,
+          "Station_Name": "Dilli Haat INA",
+          "Distance": 24.90,
+          "Is_Interchange": true,
+          "Is_HeadStation": false,
+          "Change Line": "Yellow"
+        },
+        {
+          "ID": 17,
+          "Station_Name": "South Extension",
+          "Distance": 26.10,
+          "Is_Interchange": false,
+          "Is_HeadStation": false
+        },
+        {
+          "ID": 18,
+          "Station_Name": "Lajpat Nagar",
+          "Distance": 27.70,
+          "Is_Interchange": true,
+          "Is_HeadStation": false,
+          "Change Line": "Violet"
+        },
+        {
+          "ID": 19,
+          "Station_Name": "Vinobapuri",
+          "Distance": 29.10,
+          "Is_Interchange": false,
+          "Is_HeadStation": false
+        },
+        {
+          "ID": 20,
+          "Station_Name": "Ashram",
+          "Distance": 30.30,
+          "Is_Interchange": false,
+          "Is_HeadStation": false
+        },
+        {
+          "ID": 21,
+          "Station_Name": "Sarai Kale Khan Hazrat Nizamuddin",
+          "Distance": 32.200000000000003,
+          "Is_Interchange": false,
+          "Is_HeadStation": false
+        },
+        {
+          "ID": 22,
+          "Station_Name": "Mayur Vihar Phase-1",
+          "Distance": 35.799999999999997,
+          "Is_Interchange": true,
+          "Is_HeadStation": false,
+          "Change Line": "Blue"
+        },
+        {
+          "ID": 23,
+          "Station_Name": "Mayur Vihar Pocket I",
+          "Distance": 36.60,
+          "Is_Interchange": false,
+          "Is_HeadStation": false
+        },
+        {
+          "ID": 24,
+          "Station_Name": "Trilokpuri Sanjay Lake",
+          "Distance": 37.90,
+          "Is_Interchange": false,
+          "Is_HeadStation": false
+        },
+        {
+          "ID": 25,
+          "Station_Name": "Vinod Nagar East",
+          "Distance": 38.700000000000003,
+          "Is_Interchange": false,
+          "Is_HeadStation": false
+        },
+        {
+          "ID": 26,
+          "Station_Name": "Mandawali - West Vinod Nagar",
+          "Distance": 39.299999999999997,
+          "Is_Interchange": false,
+          "Is_HeadStation": false
+        },
+        {
+          "ID": 27,
+          "Station_Name": "IP Extension",
+          "Distance": 40.299999999999997,
+          "Is_Interchange": false,
+          "Is_HeadStation": false
+        },
+        {
+          "ID": 28,
+          "Station_Name": "Anand Vihar",
+          "Distance": 41.90,
+          "Is_Interchange": true,
+          "Is_HeadStation": false,
+          "Change Line": "Blue"
+        },
+        {
+          "ID": 29,
+          "Station_Name": "Karkar Duma",
+          "Distance": 42.90,
+          "Is_Interchange": true,
+          "Is_HeadStation": false,
+          "Change Line": "Blue"
+        },
+        {
+          "ID": 30,
+          "Station_Name": "Karkarduma Court",
+          "Distance": 44,
+          "Is_Interchange": false,
+          "Is_HeadStation": false
+        },
+        {
+          "ID": 31,
+          "Station_Name": "Krishna Nagar",
+          "Distance": 44.70,
+          "Is_Interchange": false,
+          "Is_HeadStation": false
+        },
+        {
+          "ID": 32,
+          "Station_Name": "East Azad Nagar",
+          "Distance": 45.70,
+          "Is_Interchange": false,
+          "Is_HeadStation": false
+        },
+        {
+          "ID": 33,
+          "Station_Name": "Welcome",
+          "Distance": 46.80,
+          "Is_Interchange": true,
+          "Is_HeadStation": false,
+          "Change Line": "Red"
+        },
+        {
+          "ID": 34,
+          "Station_Name": "Jaffrabad",
+          "Distance": 48,
+          "Is_Interchange": false,
+          "Is_HeadStation": false
+        },
+        {
+          "ID": 35,
+          "Station_Name": "Maujpur",
+          "Distance": 49.10,
+          "Is_Interchange": false,
+          "Is_HeadStation": false
+        },
+        {
+          "ID": 36,
+          "Station_Name": "Gokulpuri",
+          "Distance": 50.40,
+          "Is_Interchange": false,
+          "Is_HeadStation": false
+        },
+        {
+          "ID": 37,
+          "Station_Name": "Johri Enclave",
+          "Distance": 51.70,
+          "Is_Interchange": false,
+          "Is_HeadStation": false
+        },
+        {
+          "ID": 38,
+          "Station_Name": "Shiv Vihar",
+          "Distance": 52.60,
+          "Is_Interchange": false,
+          "Is_HeadStation": false
+        }
+      ]
     },
     {
       "Line_Name": "Blue_Branch",
       "Color": "Blue",
-      "Stations": {
-        "Station_Name": "Yamuna Bank",
-        "Distance": 0,
-        "Is_Interchange": false,
-        "Is_HeadStation": true
-      },
-      "ID": 1
-    },
-    {
-      "Stations": {
-        "Station_Name": "Laxmi Nagar",
-        "Distance": 1.30,
-        "Is_Interchange": false,
-        "Is_HeadStation": false
-      },
-      "ID": 2
-    },
-    {
-      "Stations": {
-        "Station_Name": "Nirman Vihar",
-        "Distance": 2.40,
-        "Is_Interchange": false,
-        "Is_HeadStation": false
-      },
-      "ID": 3
-    },
-    {
-      "Stations": {
-        "Station_Name": "Preet Vihar",
-        "Distance": 3.40,
-        "Is_Interchange": false,
-        "Is_HeadStation": false
-      },
-      "ID": 4
-    },
-    {
-      "Stations": {
-        "Station_Name": "Karkar Duma",
-        "Distance": 4.5999999999999996,
-        "Is_Interchange": true,
-        "Is_HeadStation": false,
-        "Change Line": "Pink"
-      },
-      "ID": 5
-    },
-    {
-      "Stations": {
-        "Station_Name": "Anand Vihar",
-        "Distance": 5.70,
-        "Is_Interchange": true,
-        "Is_HeadStation": false,
-        "Change Line": "Pink"
-      },
-      "ID": 6
-    },
-    {
-      "Stations": {
-        "Station_Name": "Kaushambi",
-        "Distance": 6.50,
-        "Is_Interchange": false,
-        "Is_HeadStation": false
-      },
-      "ID": 7
-    },
-    {
-      "Stations": {
-        "Station_Name": "Vaishali",
-        "Distance": 8.10,
-        "Is_Interchange": false,
-        "Is_HeadStation": false
-      },
-      "ID": 8
+      "Stations": [
+        {
+          "ID": 1,
+          "Station_Name": "Yamuna Bank",
+          "Distance": 0,
+          "Is_Interchange": false,
+          "Is_HeadStation": true
+        },
+        {
+          "ID": 2,
+          "Station_Name": "Laxmi Nagar",
+          "Distance": 1.30,
+          "Is_Interchange": false,
+          "Is_HeadStation": false
+        },
+        {
+          "ID": 3,
+          "Station_Name": "Nirman Vihar",
+          "Distance": 2.40,
+          "Is_Interchange": false,
+          "Is_HeadStation": false
+        },
+        {
+          "ID": 4,
+          "Station_Name": "Preet Vihar",
+          "Distance": 3.40,
+          "Is_Interchange": false,
+          "Is_HeadStation": false
+        },
+        {
+          "ID": 5,
+          "Station_Name": "Karkar Duma",
+          "Distance": 4.5999999999999996,
+          "Is_Interchange": true,
+          "Is_HeadStation": false,
+          "Change Line": "Pink"
+        },
+        {
+          "ID": 6,
+          "Station_Name": "Anand Vihar",
+          "Distance": 5.70,
+          "Is_Interchange": true,
+          "Is_HeadStation": false,
+          "Change Line": "Pink"
+        },
+        {
+          "ID": 7,
+          "Station_Name": "Kaushambi",
+          "Distance": 6.50,
+          "Is_Interchange": false,
+          "Is_HeadStation": false
+        },
+        {
+          "ID": 8,
+          "Station_Name": "Vaishali",
+          "Distance": 8.10,
+          "Is_Interchange": false,
+          "Is_HeadStation": false
+        }
+      ]
     },
     {
       "Line_Name": "Green_Line",
       "Color": "Green",
-      "Stations": {
-        "Station_Name": "Ashok Park Main",
-        "Distance": 0,
-        "Is_Interchange": false,
-        "Is_HeadStation": true
-      },
-      "ID": 1
-    },
-    {
-      "Stations": {
-        "Station_Name": "Satguru Ram Singh Marg",
-        "Distance": 1.1000000000000001,
-        "Is_Interchange": false,
-        "Is_HeadStation": false
-      },
-      "ID": 2
-    },
-    {
-      "Stations": {
-        "Station_Name": "Kirti Nagar",
-        "Distance": 2.10,
-        "Is_Interchange": true,
-        "Is_HeadStation": false,
-        "Change Line": "Blue"
-      },
-      "ID": 3
+      "Stations": [
+        {
+          "ID": 1,
+          "Station_Name": "Ashok Park Main",
+          "Distance": 0,
+          "Is_Interchange": false,
+          "Is_HeadStation": true
+        },
+        {
+          "ID": 2,
+          "Station_Name": "Satguru Ram Singh Marg",
+          "Distance": 1.1000000000000001,
+          "Is_Interchange": false,
+          "Is_HeadStation": false
+        },
+        {
+          "ID": 3,
+          "Station_Name": "Kirti Nagar",
+          "Distance": 2.10,
+          "Is_Interchange": true,
+          "Is_HeadStation": false,
+          "Change Line": "Blue"
+        }
+      ]
     },
     {
       "Line_Name": "Aqua_Line",
       "Color": "Aqua",
-      "Stations": {
-        "Station_Name": "Noida Sector 51",
-        "Distance": 0,
-        "Is_Interchange": true,
-        "Is_HeadStation": true,
-        "Change Line": "Blue"
-      },
-      "ID": 1
-    },
-    {
-      "Stations": {
-        "Station_Name": "Noida Sector 50",
-        "Distance": 1.30,
-        "Is_Interchange": false,
-        "Is_HeadStation": false
-      },
-      "ID": 2
-    },
-    {
-      "Stations": {
-        "Station_Name": "Noida Sector 76",
-        "Distance": 2.2999999999999998,
-        "Is_Interchange": false,
-        "Is_HeadStation": false
-      },
-      "ID": 3
-    },
-    {
-      "Stations": {
-        "Station_Name": "Noida Sector 101",
-        "Distance": 3.40,
-        "Is_Interchange": false,
-        "Is_HeadStation": false
-      },
-      "ID": 4
-    },
-    {
-      "Stations": {
-        "Station_Name": "Noida Sector 81",
-        "Distance": 4.30,
-        "Is_Interchange": false,
-        "Is_HeadStation": false
-      },
-      "ID": 5
-    },
-    {
-      "Stations": {
-        "Station_Name": "NSEZ Noida",
-        "Distance": 6.30,
-        "Is_Interchange": false,
-        "Is_HeadStation": false
-      },
-      "ID": 6
-    },
-    {
-      "Stations": {
-        "Station_Name": "Noida Sector 83",
-        "Distance": 7.40,
-        "Is_Interchange": false,
-        "Is_HeadStation": false
-      },
-      "ID": 7
-    },
-    {
-      "Stations": {
-        "Station_Name": "Noida Sector 137",
-        "Distance": 8.90,
-        "Is_Interchange": false,
-        "Is_HeadStation": false
-      },
-      "ID": 8
-    },
-    {
-      "Stations": {
-        "Station_Name": "Noida Sector 142",
-        "Distance": 10.50,
-        "Is_Interchange": false,
-        "Is_HeadStation": false
-      },
-      "ID": 9
-    },
-    {
-      "Stations": {
-        "Station_Name": "Noida Sector 143",
-        "Distance": 11.50,
-        "Is_Interchange": false,
-        "Is_HeadStation": false
-      },
-      "ID": 10
-    },
-    {
-      "Stations": {
-        "Station_Name": "Noida Sector 144",
-        "Distance": 12.90,
-        "Is_Interchange": false,
-        "Is_HeadStation": false
-      },
-      "ID": 11
-    },
-    {
-      "Stations": {
-        "Station_Name": "Noida Sector 145",
-        "Distance": 14.10,
-        "Is_Interchange": false,
-        "Is_HeadStation": false
-      },
-      "ID": 12
-    },
-    {
-      "Stations": {
-        "Station_Name": "Noida Sector 146",
-        "Distance": 15.80,
-        "Is_Interchange": false,
-        "Is_HeadStation": false
-      },
-      "ID": 13
-    },
-    {
-      "Stations": {
-        "Station_Name": "Noida Sector 147",
-        "Distance": 17.30,
-        "Is_Interchange": false,
-        "Is_HeadStation": false
-      },
-      "ID": 14
-    },
-    {
-      "Stations": {
-        "Station_Name": "Noida Sector 148",
-        "Distance": 18.90,
-        "Is_Interchange": false,
-        "Is_HeadStation": false
-      },
-      "ID": 15
-    },
-    {
-      "Stations": {
-        "Station_Name": "Knowledge Park II",
-        "Distance": 21.40,
-        "Is_Interchange": false,
-        "Is_HeadStation": false
-      },
-      "ID": 16
-    },
-    {
-      "Stations": {
-        "Station_Name": "Pari Chowk Greater Noida",
-        "Distance": 22.50,
-        "Is_Interchange": false,
-        "Is_HeadStation": false
-      },
-      "ID": 17
-    },
-    {
-      "Stations": {
-        "Station_Name": "Alpha 1 Greater Noida",
-        "Distance": 23.40,
-        "Is_Interchange": false,
-        "Is_HeadStation": false
-      },
-      "ID": 18
-    },
-    {
-      "Stations": {
-        "Station_Name": "Delta 1 Greater Noida",
-        "Distance": 24.90,
-        "Is_Interchange": false,
-        "Is_HeadStation": false
-      },
-      "ID": 19
-    },
-    {
-      "Stations": {
-        "Station_Name": "GNIDA Office",
-        "Distance": 26.20,
-        "Is_Interchange": false,
-        "Is_HeadStation": false
-      },
-      "ID": 20
-    },
-    {
-      "Stations": {
-        "Station_Name": "Depot Greater Noida",
-        "Distance": 27.10,
-        "Is_Interchange": false,
-        "Is_HeadStation": false
-      },
-      "ID": 21
+      "Stations": [
+        {
+          "ID": 1,
+          "Station_Name": "Noida Sector 51",
+          "Distance": 0,
+          "Is_Interchange": true,
+          "Is_HeadStation": true,
+          "Change Line": "Blue"
+        },
+        {
+          "ID": 2,
+          "Station_Name": "Noida Sector 50",
+          "Distance": 1.30,
+          "Is_Interchange": false,
+          "Is_HeadStation": false
+        },
+        {
+          "ID": 3,
+          "Station_Name": "Noida Sector 76",
+          "Distance": 2.2999999999999998,
+          "Is_Interchange": false,
+          "Is_HeadStation": false
+        },
+        {
+          "ID": 4,
+          "Station_Name": "Noida Sector 101",
+          "Distance": 3.40,
+          "Is_Interchange": false,
+          "Is_HeadStation": false
+        },
+        {
+          "ID": 5,
+          "Station_Name": "Noida Sector 81",
+          "Distance": 4.30,
+          "Is_Interchange": false,
+          "Is_HeadStation": false
+        },
+        {
+          "ID": 6,
+          "Station_Name": "NSEZ Noida",
+          "Distance": 6.30,
+          "Is_Interchange": false,
+          "Is_HeadStation": false
+        },
+        {
+          "ID": 7,
+          "Station_Name": "Noida Sector 83",
+          "Distance": 7.40,
+          "Is_Interchange": false,
+          "Is_HeadStation": false
+        },
+        {
+          "ID": 8,
+          "Station_Name": "Noida Sector 137",
+          "Distance": 8.90,
+          "Is_Interchange": false,
+          "Is_HeadStation": false
+        },
+        {
+          "ID": 9,
+          "Station_Name": "Noida Sector 142",
+          "Distance": 10.50,
+          "Is_Interchange": false,
+          "Is_HeadStation": false
+        },
+        {
+          "ID": 10,
+          "Station_Name": "Noida Sector 143",
+          "Distance": 11.50,
+          "Is_Interchange": false,
+          "Is_HeadStation": false
+        },
+        {
+          "ID": 11,
+          "Station_Name": "Noida Sector 144",
+          "Distance": 12.90,
+          "Is_Interchange": false,
+          "Is_HeadStation": false
+        },
+        {
+          "ID": 12,
+          "Station_Name": "Noida Sector 145",
+          "Distance": 14.10,
+          "Is_Interchange": false,
+          "Is_HeadStation": false
+        },
+        {
+          "ID": 13,
+          "Station_Name": "Noida Sector 146",
+          "Distance": 15.80,
+          "Is_Interchange": false,
+          "Is_HeadStation": false
+        },
+        {
+          "ID": 14,
+          "Station_Name": "Noida Sector 147",
+          "Distance": 17.30,
+          "Is_Interchange": false,
+          "Is_HeadStation": false
+        },
+        {
+          "ID": 15,
+          "Station_Name": "Noida Sector 148",
+          "Distance": 18.90,
+          "Is_Interchange": false,
+          "Is_HeadStation": false
+        },
+        {
+          "ID": 16,
+          "Station_Name": "Knowledge Park II",
+          "Distance": 21.40,
+          "Is_Interchange": false,
+          "Is_HeadStation": false
+        },
+        {
+          "ID": 17,
+          "Station_Name": "Pari Chowk Greater Noida",
+          "Distance": 22.50,
+          "Is_Interchange": false,
+          "Is_HeadStation": false
+        },
+        {
+          "ID": 18,
+          "Station_Name": "Alpha 1 Greater Noida",
+          "Distance": 23.40,
+          "Is_Interchange": false,
+          "Is_HeadStation": false
+        },
+        {
+          "ID": 19,
+          "Station_Name": "Delta 1 Greater Noida",
+          "Distance": 24.90,
+          "Is_Interchange": false,
+          "Is_HeadStation": false
+        },
+        {
+          "ID": 20,
+          "Station_Name": "GNIDA Office",
+          "Distance": 26.20,
+          "Is_Interchange": false,
+          "Is_HeadStation": false
+        },
+        {
+          "ID": 21,
+          "Station_Name": "Depot Greater Noida",
+          "Distance": 27.10,
+          "Is_Interchange": false,
+          "Is_HeadStation": false
+        }
+      ]
     },
     {
       "Line_Name": "Gray_Line",
       "Color": "Gray",
-      "Stations": {
-        "Station_Name": "Dwarka",
-        "Distance": 0,
-        "Is_Interchange": true,
-        "Is_HeadStation": true,
-        "Change Line": "Blue"
-      },
-      "ID": 1
-    },
-    {
-      "Stations": {
-        "Station_Name": "Nangli",
-        "Distance": 1.50,
-        "Is_Interchange": false,
-        "Is_HeadStation": false
-      },
-      "ID": 2
-    },
-    {
-      "Stations": {
-        "Station_Name": "Najafgarh",
-        "Distance": 3.90,
-        "Is_Interchange": false,
-        "Is_HeadStation": false
-      },
-      "ID": 3
+      "Stations": [
+        {
+          "ID": 1,
+          "Station_Name": "Dwarka",
+          "Distance": 0,
+          "Is_Interchange": true,
+          "Is_HeadStation": true,
+          "Change Line": "Blue"
+        },
+        {
+          "ID": 2,
+          "Station_Name": "Nangli",
+          "Distance": 1.50,
+          "Is_Interchange": false,
+          "Is_HeadStation": false
+        },
+        {
+          "ID": 3,
+          "Station_Name": "Najafgarh",
+          "Distance": 3.90,
+          "Is_Interchange": false,
+          "Is_HeadStation": false
+        }
+      ]
     }
   ]
 }
