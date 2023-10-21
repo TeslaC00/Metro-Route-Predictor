@@ -1,22 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="AnalysisUIOptions">
-    <option name="ANALYZE_INJECTED_CODE" value="false" />
-  </component>
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="90e901e3-0cad-4e1e-a0b4-6f115233eccd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+    <list default="true" id="edf3c9be-f362-4786-b13d-c01d7334d744" name="Changes" comment="extract json success, app icon">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/metro/prediction/metroroutepredictor/Line.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/metro/prediction/metroroutepredictor/MetroDataLoader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/metro/prediction/metroroutepredictor/Station.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/com/metro/prediction/metroroutepredictor/Metro_Stations(Copy).json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/com/metro/prediction/metroroutepredictor/train_icon.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/metro/prediction/metroroutepredictor/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/metro/prediction/metroroutepredictor/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/metro/prediction/metroroutepredictor/MainController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/metro/prediction/metroroutepredictor/MainController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/metro/prediction/metroroutepredictor/MapController.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/module-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/module-info.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/com/metro/prediction/metroroutepredictor/main.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/metro/prediction/metroroutepredictor/main.fxml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/com/metro/prediction/metroroutepredictor/map.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/com/metro/prediction/metroroutepredictor/Metro_Stations.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/metro/prediction/metroroutepredictor/Metro_Stations.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/com/metro/prediction/metroroutepredictor/Modified_DMRC_Stations.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/metro/prediction/metroroutepredictor/Modified_DMRC_Stations.xlsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,79 +26,48 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
-        <option value="FxmlFile" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_BRANCH_BY_REPOSITORY">
-      <map>
-        <entry key="$PROJECT_DIR$" value="main" />
-      </map>
-    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="GitHubPullRequestSearchHistory">{
-  &quot;lastFilter&quot;: {
-    &quot;state&quot;: &quot;OPEN&quot;,
-    &quot;assignee&quot;: &quot;TeslaC00&quot;
-  }
-}</component>
-  <component name="GithubPullRequestsUISettings">
-    <option name="selectedUrlAndAccountId">
-      <UrlAndAccount>
-        <option name="accountId" value="802ad034-bd25-4d0a-9fc2-ae6c591491e5" />
-        <option name="url" value="https://github.com/TeslaC00/Metro-Route-Predictor.git" />
-      </UrlAndAccount>
-    </option>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="MavenImportPreferences">
-    <option name="generalSettings">
-      <MavenGeneralSettings>
-        <option name="mavenHome" value="Use Maven wrapper" />
-      </MavenGeneralSettings>
-    </option>
-  </component>
   <component name="ProjectColorInfo">{
   &quot;customColor&quot;: &quot;&quot;,
-  &quot;associatedIndex&quot;: 0
+  &quot;associatedIndex&quot;: 1
 }</component>
-  <component name="ProjectId" id="2WvD8pLwSgthUJrwOEFHk7bygs6" />
+  <component name="ProjectId" id="2XClIgxk0p5FFQhA0UNnG8XWuEG" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "GUI",
-    "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/vikas/.m2/repository/com/fasterxml/jackson/core/jackson-core/2.15.3",
-    "project.structure.last.edited": "Libraries",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "run.code.analysis.last.selected.profile": "pProject Default",
-    "settings.editor.selected.configurable": "preferences.keymap"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;full.screen.before.presentation.mode&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;GUI&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/vikas/IdeaProjects/MetroRoutePredictor/src/main/resources/com/metro/prediction/metroroutepredictor&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Libraries&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\vikas\IdeaProjects\MetroRoutePredictor\src\main\resources\com\metro\prediction\metroroutepredictor" />
+      <recent name="C:\Users\vikas\IdeaProjects\MetroRoutePredictor\src\main\resources" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\vikas\IdeaProjects\MetroRoutePredictor\src\main\resources\com\metro\prediction\metroroutepredictor" />
     </key>
-    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
-      <recent name="com.metro.prediction.metroroutepredictor" />
-    </key>
   </component>
   <component name="RunManager">
-    <configuration name="main" type="Application" factoryName="Application">
+    <configuration name="Main" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="com.metro.prediction.metroroutepredictor.Main" />
       <module name="MetroRoutePredictor" />
       <method v="2">
@@ -110,63 +78,17 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="90e901e3-0cad-4e1e-a0b4-6f115233eccd" name="Changes" comment="" />
-      <created>1697604005730</created>
+      <changelist id="edf3c9be-f362-4786-b13d-c01d7334d744" name="Changes" comment="" />
+      <created>1698140869578</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1697604005730</updated>
+      <updated>1698140869578</updated>
     </task>
-    <task id="LOCAL-00001" summary="Initial main UI">
-      <option name="closed" value="true" />
-      <created>1697608173077</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1697608173077</updated>
-    </task>
-    <task id="LOCAL-00002" summary="Clean up stations data">
-      <option name="closed" value="true" />
-      <created>1697634369284</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1697634369284</updated>
-    </task>
-    <task id="LOCAL-00003" summary="??">
-      <option name="closed" value="true" />
-      <created>1697634506085</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1697634506085</updated>
-    </task>
-    <task id="LOCAL-00004" summary="minor change to stations json">
-      <option name="closed" value="true" />
-      <created>1697643374121</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1697643374121</updated>
-    </task>
-    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State />
-          </value>
-        </entry>
-      </map>
-    </option>
-  </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Initial main UI" />
-    <MESSAGE value="Clean up stations data" />
-    <MESSAGE value="??" />
-    <MESSAGE value="minor change to stations json" />
-    <option name="LAST_COMMIT_MESSAGE" value="minor change to stations json" />
+    <MESSAGE value="workspace changes" />
+    <MESSAGE value="extract json success, app icon" />
+    <option name="LAST_COMMIT_MESSAGE" value="extract json success, app icon" />
   </component>
 </project>
