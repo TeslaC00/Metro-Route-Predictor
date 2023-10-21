@@ -1,14 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="ANALYZE_INJECTED_CODE" value="false" />
+  </component>
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="90e901e3-0cad-4e1e-a0b4-6f115233eccd" name="Changes" comment="??" />
+    <list default="true" id="90e901e3-0cad-4e1e-a0b4-6f115233eccd" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/metro/prediction/metroroutepredictor/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/metro/prediction/metroroutepredictor/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/metro/prediction/metroroutepredictor/MainController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/metro/prediction/metroroutepredictor/MainController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/metro/prediction/metroroutepredictor/MapController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/module-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/module-info.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/com/metro/prediction/metroroutepredictor/main.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/metro/prediction/metroroutepredictor/main.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/com/metro/prediction/metroroutepredictor/map.fxml" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="FxmlFile" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
@@ -55,9 +76,14 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "GUI",
     "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/vikas/IdeaProjects/MetroRoutePredictor/src/main/resources/com/metro/prediction/metroroutepredictor",
+    "last_opened_file_path": "C:/Users/vikas/.m2/repository/com/fasterxml/jackson/core/jackson-core/2.15.3",
+    "project.structure.last.edited": "Libraries",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "run.code.analysis.last.selected.profile": "pProject Default",
     "settings.editor.selected.configurable": "preferences.keymap"
   }
 }]]></component>
@@ -68,6 +94,18 @@
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\vikas\IdeaProjects\MetroRoutePredictor\src\main\resources\com\metro\prediction\metroroutepredictor" />
     </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.metro.prediction.metroroutepredictor" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="main" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="com.metro.prediction.metroroutepredictor.Main" />
+      <module name="MetroRoutePredictor" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -102,7 +140,15 @@
       <option name="project" value="LOCAL" />
       <updated>1697634506085</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="minor change to stations json">
+      <option name="closed" value="true" />
+      <created>1697643374121</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1697643374121</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -120,6 +166,7 @@
     <MESSAGE value="Initial main UI" />
     <MESSAGE value="Clean up stations data" />
     <MESSAGE value="??" />
-    <option name="LAST_COMMIT_MESSAGE" value="??" />
+    <MESSAGE value="minor change to stations json" />
+    <option name="LAST_COMMIT_MESSAGE" value="minor change to stations json" />
   </component>
 </project>
