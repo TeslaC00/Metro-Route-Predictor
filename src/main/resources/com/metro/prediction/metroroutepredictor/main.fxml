@@ -1,35 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<?import javafx.scene.canvas.*?>
-<?import javafx.scene.control.*?>
-<?import javafx.scene.layout.*?>
+<?import javafx.scene.canvas.Canvas?>
+<?import javafx.scene.control.ComboBox?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.Pane?>
 <?import javafx.scene.paint.*?>
-<?import javafx.scene.text.*?>
-
-<Pane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/17.0.2-ea" xmlns:fx="http://javafx.com/fxml/1">
-   <children>
-      <Label alignment="CENTER" contentDisplay="CENTER" layoutX="150.0" layoutY="23.0" prefHeight="40.0" prefWidth="300.0" text="Metro Route Predictor" textAlignment="CENTER">
-         <font>
-            <Font name="Calibri" size="24.0" />
-         </font>
-         <textFill>
-            <LinearGradient endX="1.0" endY="1.0">
-               <stops>
-                  <Stop>
-                     <color>
-                        <Color red="0.11479999870061874" green="0.3604041635990143" blue="0.8199999928474426" />
-                     </color>
-                  </Stop>
-                  <Stop offset="1.0">
-                     <color>
-                        <Color red="0.10220000147819519" green="0.7300000190734863" blue="0.6076871752738953" />
-                     </color>
-                  </Stop>
-               </stops>
+<?import javafx.scene.text.Font?>
+<Pane xmlns:fx="http://javafx.com/fxml/1" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity"
+      prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/17.0.2-ea"
+      fx:controller="com.metro.prediction.metroroutepredictor.MainController">
+    <Label alignment="CENTER" contentDisplay="CENTER" layoutX="150.0" layoutY="23.0" prefHeight="40.0" prefWidth="300.0"
+           text="Metro Route Predictor" textAlignment="CENTER">
+        <font>
+            <Font name="Calibri" size="24.0"/>
+        </font>
+        <textFill>
+            <LinearGradient>
+                <stops>
+                    <Stop>
+                        <color>
+                            <Color red="0.11479999870061874" green="0.3604041635990143" blue="0.8199999928474426"/>
+                        </color>
+                    </Stop>
+                    <Stop offset="1.0">
+                        <color>
+                            <Color red="0.10220000147819519" green="0.7300000190734863" blue="0.6076871752738953"/>
+                        </color>
+                    </Stop>
+                </stops>
             </LinearGradient>
-         </textFill></Label>
-      <ComboBox layoutX="75.0" layoutY="83.0" prefWidth="150.0" promptText="Start Station" />
-      <ComboBox layoutX="375.0" layoutY="83.0" prefWidth="150.0" promptText="Stop Station" />
-      <Canvas height="200.0" layoutX="85.0" layoutY="154.0" width="430.0" />
-   </children>
+        </textFill>
+    </Label>
+    <ComboBox fx:id="startStation" layoutX="75.0" layoutY="83.0" prefWidth="150.0" promptText="Start Station"/>
+    <ComboBox fx:id="stopStation" layoutX="375.0" layoutY="83.0" prefWidth="150.0" promptText="Stop Station"/>
+    <Canvas fx:id="metroMap" height="200.0" layoutX="100.0" layoutY="155.0" width="400.0"/>
 </Pane>
