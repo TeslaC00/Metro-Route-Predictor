@@ -7,6 +7,7 @@ import java.io.File;
 import java.util.List;
 
 public class MetroDataLoader {
+    public final static int TOTAL_STATIONS = 262;
     private static MetroDataLoader instance;
     List<Line> lines;
 
