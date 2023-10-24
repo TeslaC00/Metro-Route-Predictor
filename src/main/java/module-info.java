@@ -4,6 +4,6 @@ module com.metro.prediction.metroroutepredictor {
     requires com.fasterxml.jackson.databind;
     requires com.fasterxml.jackson.core;
 
-    opens com.metro.prediction.metroroutepredictor to javafx.fxml;
+    opens com.metro.prediction.metroroutepredictor to javafx.fxml, com.fasterxml.jackson.databind;
     exports com.metro.prediction.metroroutepredictor;
 }
