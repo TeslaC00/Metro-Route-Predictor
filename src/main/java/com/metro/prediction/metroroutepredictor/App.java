@@ -21,6 +21,7 @@ public class App extends Application {
         stage.setTitle("Metro Route Predictor");
         stage.getIcons().add(new Image(Objects.requireNonNull(getClass().getResourceAsStream("/Images/train_icon.png"))));
         stage.setScene(scene);
+        stage.setResizable(false);
 
         stage.show();
     }

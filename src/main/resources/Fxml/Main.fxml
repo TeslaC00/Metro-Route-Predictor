@@ -3,8 +3,8 @@
 <?import javafx.scene.layout.*?>
 
 <VBox xmlns="http://javafx.com/javafx"
-            xmlns:fx="http://javafx.com/fxml"
-            fx:controller="com.metro.prediction.metroroutepredictor.Controllers.MainController">
+      xmlns:fx="http://javafx.com/fxml"
+      fx:controller="com.metro.prediction.metroroutepredictor.Controllers.MainController">
     <fx:include source="Selection.fxml"/>
     <fx:include source="MetroMap.fxml"/>
 
