@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.ComboBox?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.shape.Line?>
+<?import javafx.scene.text.Text?>
+
+<AnchorPane prefHeight="200.0" prefWidth="600.0" styleClass="selection" stylesheets="@../Style/Selection.css"
+            xmlns="http://javafx.com/javafx/21" xmlns:fx="http://javafx.com/fxml/1"
+            fx:controller="com.metro.prediction.metroroutepredictor.Controllers.SelectionController">
+    <Text layoutX="184.0" layoutY="55.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Metro Route Predictor"
+          AnchorPane.topAnchor="29.1015625"/>
+    <ComboBox fx:id="startStation_box" layoutX="67.0" layoutY="91.0" prefWidth="150.0" promptText="Start Station"
+              AnchorPane.leftAnchor="50.0" AnchorPane.topAnchor="100.0"/>
+    <ComboBox fx:id="endStation_box" layoutX="390.0" layoutY="91.0" prefWidth="150.0" promptText="Stop Station"
+              AnchorPane.rightAnchor="50.0" AnchorPane.topAnchor="100.0"/>
+    <Line endX="312.4000244140625" endY="10.399993896484375" layoutX="278.0" layoutY="156.0"
+          startX="-270.79998779296875" startY="10.399993896484375" AnchorPane.bottomAnchor="15.0"
+          AnchorPane.leftAnchor="10.0" AnchorPane.rightAnchor="10.0"/>
+</AnchorPane>

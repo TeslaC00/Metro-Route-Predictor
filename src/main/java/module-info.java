@@ -6,4 +6,8 @@ module com.metro.prediction.metroroutepredictor {
 
     opens com.metro.prediction.metroroutepredictor to javafx.fxml, com.fasterxml.jackson.databind;
     exports com.metro.prediction.metroroutepredictor;
+    exports com.metro.prediction.metroroutepredictor.Controllers;
+    exports com.metro.prediction.metroroutepredictor.Models;
+    exports com.metro.prediction.metroroutepredictor.Views;
+    opens com.metro.prediction.metroroutepredictor.Models to com.fasterxml.jackson.databind, javafx.fxml;
 }

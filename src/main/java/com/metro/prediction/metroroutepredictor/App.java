@@ -9,18 +9,19 @@ import javafx.stage.Stage;
 import java.io.IOException;
 import java.util.Objects;
 
-public class Main extends Application {
+public class App extends Application {
     public static void main(String[] args) {
         launch();
     }
 
     @Override
     public void start(Stage stage) throws IOException {
-        FXMLLoader fxmlLoader = new FXMLLoader(Main.class.getResource("main.fxml"));
-        Scene scene = new Scene(fxmlLoader.load(), 600, 400);
+        FXMLLoader fxmlLoader = new FXMLLoader(getClass().getResource("/Fxml/Main.fxml"));
+        Scene scene = new Scene(fxmlLoader.load());
         stage.setTitle("Metro Route Predictor");
-        stage.getIcons().add(new Image(Objects.requireNonNull(getClass().getResourceAsStream("train_icon.png"))));
+        stage.getIcons().add(new Image(Objects.requireNonNull(getClass().getResourceAsStream("/Images/train_icon.png"))));
         stage.setScene(scene);
+        stage.setResizable(false);
 
         stage.show();
     }
