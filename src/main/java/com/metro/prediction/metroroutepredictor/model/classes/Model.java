@@ -1,4 +1,4 @@
-package com.metro.prediction.metroroutepredictor.Models;
+package com.metro.prediction.metroroutepredictor.model.classes;
 
 import java.util.ArrayList;
 import java.util.HashSet;

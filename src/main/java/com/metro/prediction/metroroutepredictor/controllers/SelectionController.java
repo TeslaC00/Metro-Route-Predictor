@@ -1,7 +1,7 @@
-package com.metro.prediction.metroroutepredictor.Controllers;
+package com.metro.prediction.metroroutepredictor.controllers;
 
-import com.metro.prediction.metroroutepredictor.Models.MetroStation;
-import com.metro.prediction.metroroutepredictor.Models.Model;
+import com.metro.prediction.metroroutepredictor.model.classes.MetroStation;
+import com.metro.prediction.metroroutepredictor.model.classes.Model;
 import javafx.fxml.Initializable;
 import javafx.scene.control.ComboBox;
 
