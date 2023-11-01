@@ -1,4 +1,7 @@
-package com.metro.prediction.metroroutepredictor.Models;
+package com.metro.prediction.metroroutepredictor.model.interfaces;
+
+import com.metro.prediction.metroroutepredictor.model.classes.MetroRoute;
+import com.metro.prediction.metroroutepredictor.model.classes.MetroStation;
 
 public interface MetroRouteFinder {
 

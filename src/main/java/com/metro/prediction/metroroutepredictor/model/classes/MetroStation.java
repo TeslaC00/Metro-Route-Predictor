@@ -1,8 +1,9 @@
-package com.metro.prediction.metroroutepredictor.Models;
+package com.metro.prediction.metroroutepredictor.model.classes;
 
 import com.fasterxml.jackson.annotation.JsonProperty;
+import com.metro.prediction.metroroutepredictor.model.interfaces.Station;
 
-public class MetroStation {
+public class MetroStation implements Station {
     @JsonProperty("Station_Name")
     private String stationName;
 

@@ -1,4 +1,4 @@
-package com.metro.prediction.metroroutepredictor.Models;
+package com.metro.prediction.metroroutepredictor.model.classes;
 
 import com.fasterxml.jackson.core.type.TypeReference;
 import com.fasterxml.jackson.databind.ObjectMapper;

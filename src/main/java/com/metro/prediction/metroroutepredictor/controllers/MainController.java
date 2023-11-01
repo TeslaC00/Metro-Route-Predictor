@@ -1,8 +1,8 @@
-package com.metro.prediction.metroroutepredictor.Controllers;
+package com.metro.prediction.metroroutepredictor.controllers;
 
-import com.metro.prediction.metroroutepredictor.Models.MetroDataLoader;
-import com.metro.prediction.metroroutepredictor.Models.MetroRoute;
-import com.metro.prediction.metroroutepredictor.Models.MetroStation;
+import com.metro.prediction.metroroutepredictor.model.classes.MetroDataLoader;
+import com.metro.prediction.metroroutepredictor.model.classes.MetroRoute;
+import com.metro.prediction.metroroutepredictor.model.classes.MetroStation;
 import javafx.fxml.Initializable;
 
 import java.net.URL;

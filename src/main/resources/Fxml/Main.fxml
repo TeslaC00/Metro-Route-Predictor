@@ -4,7 +4,7 @@
 
 <VBox xmlns="http://javafx.com/javafx"
       xmlns:fx="http://javafx.com/fxml"
-      fx:controller="com.metro.prediction.metroroutepredictor.Controllers.MainController">
+      fx:controller="com.metro.prediction.metroroutepredictor.controllers.MainController">
     <fx:include source="Selection.fxml"/>
     <fx:include source="MetroMap.fxml"/>
 

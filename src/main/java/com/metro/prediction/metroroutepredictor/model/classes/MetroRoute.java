@@ -1,10 +1,11 @@
-package com.metro.prediction.metroroutepredictor.Models;
+package com.metro.prediction.metroroutepredictor.model.classes;
 
 import com.fasterxml.jackson.annotation.JsonProperty;
+import com.metro.prediction.metroroutepredictor.model.interfaces.Route;
 
 import java.util.List;
 
-public class MetroRoute {
+public class MetroRoute implements Route {
     @JsonProperty("Line_Name")
     private String lineName;
     @JsonProperty("Stations")
@@ -14,6 +15,12 @@ public class MetroRoute {
 
     public List<MetroStation> getStations() {
         return stations;
+    }
+
+    @Override
+    public List<StationConnection> getConnections() {
+        return null;
+//        TODO add get connections
     }
 
     public String getLineName() {
