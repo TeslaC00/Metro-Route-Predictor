@@ -22,7 +22,7 @@ public class Model {
         return model;
     }
 
-    public List<MetroStation> getAllStations() {
+    public List<MetroStation> getAllUniqueStations() {
         return uniqueMetroStations;
     }
 
