@@ -1,42 +1,54 @@
 package com.metro.prediction.metroroutepredictor.model.classes;
 
+import com.fasterxml.jackson.annotation.JsonProperty;
 import com.metro.prediction.metroroutepredictor.model.interfaces.Connection;
-import com.metro.prediction.metroroutepredictor.model.interfaces.Station;
 
 public class StationConnection implements Connection {
+    @JsonProperty("source")
+    private String source;
+    @JsonProperty("destination")
+    private String destination;
+    @JsonProperty("route_name")
+    private String routeName;
+    @JsonProperty("color")
+    private String color;
+    @JsonProperty("distance")
+    private double distance;
+    @JsonProperty("time")
+    private double timeInSeconds;
     @Override
-    public Station getSource() {
-        return null;
+    public String getSource() {
+        return source;
 //        TODO add code
     }
 
     @Override
-    public Station getDestination() {
-        return null;
+    public String getDestination() {
+        return destination;
 //        TODO add code
     }
 
     @Override
     public String getColor() {
-        return null;
+        return color;
 //        TODO add code
     }
 
     @Override
     public String getRouteName() {
-        return null;
+        return routeName;
 //        TODO add code
     }
 
     @Override
     public double getDistance() {
-        return 0;
+        return distance;
 //        TODO add code
     }
 
     @Override
     public double getTimeInSeconds() {
-        return 0;
+        return timeInSeconds;
 //        TODO add code
     }
 }

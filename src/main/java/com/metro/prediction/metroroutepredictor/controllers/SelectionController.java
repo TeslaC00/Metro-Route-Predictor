@@ -21,7 +21,9 @@ public class SelectionController implements Initializable {
         startStation_box.setVisibleRowCount(12);
         endStation_box.setVisibleRowCount(12);
         System.out.println(startStation_box.getVisibleRowCount());
-        startStation_box.getItems().addAll(Model.getInstance().getAllStations());
-        endStation_box.getItems().addAll(Model.getInstance().getAllStations());
+//        Todo correct code
+//        startStation_box.getItems().addAll(Model.getInstance().getAllStations());
+//        endStation_box.getItems().addAll(Model.getInstance().getAllStations());
     }
+
 }
