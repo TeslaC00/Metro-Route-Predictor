@@ -16,39 +16,58 @@ public class StationConnection implements Connection {
     private double distance;
     @JsonProperty("time")
     private double timeInSeconds;
+
     @Override
     public String getSource() {
         return source;
-//        TODO add code
+    }
+
+    public void setSource(String source) {
+        this.source = source;
     }
 
     @Override
     public String getDestination() {
         return destination;
-//        TODO add code
+    }
+
+    public void setDestination(String destination) {
+        this.destination = destination;
     }
 
     @Override
     public String getColor() {
         return color;
-//        TODO add code
+    }
+
+    public void setColor(String color) {
+        this.color = color;
     }
 
     @Override
     public String getRouteName() {
         return routeName;
-//        TODO add code
+    }
+
+    public void setRouteName(String routeName) {
+        this.routeName = routeName;
     }
 
     @Override
     public double getDistance() {
         return distance;
-//        TODO add code
+    }
+
+    public void setDistance(double distance) {
+        this.distance = distance;
     }
 
     @Override
     public double getTimeInSeconds() {
         return timeInSeconds;
-//        TODO add code
+    }
+
+    public void setTimeInSeconds(double timeInSeconds) {
+        this.timeInSeconds = timeInSeconds;
     }
 }
