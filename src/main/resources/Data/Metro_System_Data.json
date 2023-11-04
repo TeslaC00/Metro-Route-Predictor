@@ -1,0 +1,5106 @@
+{
+  "stations": [
+    {
+      "name": "Shaheed Sthal (New Bus Adda)",
+      "longitude": 28.670593910947598,
+      "latitude": 77.415469061654505
+    },
+    {
+      "name": "Hindon",
+      "longitude": 28.6733730227946,
+      "latitude": 77.406349420331097
+    },
+    {
+      "name": "Arthala",
+      "longitude": 28.6769274238256,
+      "latitude": 77.391773136760094
+    },
+    {
+      "name": "Mohan Nagar",
+      "longitude": 28.678480409442699,
+      "latitude": 77.383933979643999
+    },
+    {
+      "name": "Shyam park",
+      "longitude": 28.6781998204046,
+      "latitude": 77.370239485523499
+    },
+    {
+      "name": "Major Mohit Sharma",
+      "longitude": 28.677619116927701,
+      "latitude": 77.3582786096663
+    },
+    {
+      "name": "Raj Bagh",
+      "longitude": 28.677029050929701,
+      "latitude": 77.346580426536306
+    },
+    {
+      "name": "Shaheed Nagar",
+      "longitude": 28.676631096753201,
+      "latitude": 77.333759308189798
+    },
+    {
+      "name": "Dilshad Garden",
+      "longitude": 28.6758980839654,
+      "latitude": 77.321515019239001
+    },
+    {
+      "name": "Jhilmil",
+      "longitude": 28.675761111430401,
+      "latitude": 77.3124271720651
+    },
+    {
+      "name": "Mansarovar Park",
+      "longitude": 28.6753988865831,
+      "latitude": 77.300982474683593
+    },
+    {
+      "name": "Shahdara",
+      "longitude": 28.673450237077599,
+      "latitude": 77.289881298205898
+    },
+    {
+      "name": "Welcome",
+      "longitude": 28.671761084388901,
+      "latitude": 77.277658479388805
+    },
+    {
+      "name": "Seelampur",
+      "longitude": 28.669799494015901,
+      "latitude": 77.266810621124705
+    },
+    {
+      "name": "Shastri Park",
+      "longitude": 28.668299850905498,
+      "latitude": 77.250266827214901
+    },
+    {
+      "name": "Kashmere Gate",
+      "longitude": 28.667469566255601,
+      "latitude": 77.228241207677101
+    },
+    {
+      "name": "Tis Hazari",
+      "longitude": 28.667188417322901,
+      "latitude": 77.216661324675798
+    },
+    {
+      "name": "Pul Bangash",
+      "longitude": 28.666401596549999,
+      "latitude": 77.207370891429704
+    },
+    {
+      "name": "Pratap Nagar",
+      "longitude": 28.6666134521282,
+      "latitude": 77.198884205116897
+    },
+    {
+      "name": "Shastri Nagar",
+      "longitude": 28.670048079977398,
+      "latitude": 77.181856953180898
+    },
+    {
+      "name": "Inderlok",
+      "longitude": 28.673568339869899,
+      "latitude": 77.170298814755299
+    },
+    {
+      "name": "Kanhiya Nagar",
+      "longitude": 28.682368777843301,
+      "latitude": 77.164810981207395
+    },
+    {
+      "name": "Keshav Puram",
+      "longitude": 28.688828043037802,
+      "latitude": 77.1616760397484
+    },
+    {
+      "name": "Netaji Subhash Place",
+      "longitude": 28.696050582990299,
+      "latitude": 77.152590652426397
+    },
+    {
+      "name": "Kohat Enclave",
+      "longitude": 28.697989110750498,
+      "latitude": 77.1406397212386
+    },
+    {
+      "name": "Pitam Pura",
+      "longitude": 28.703107561202,
+      "latitude": 77.132469682025004
+    },
+    {
+      "name": "Rohini East",
+      "longitude": 28.7076646717518,
+      "latitude": 77.125945126467499
+    },
+    {
+      "name": "Rohini West",
+      "longitude": 28.7148675428943,
+      "latitude": 77.115484352481204
+    },
+    {
+      "name": "Rithala",
+      "longitude": 28.720768418751199,
+      "latitude": 77.107159513062498
+    },
+    {
+      "name": "Samaypur Badli",
+      "longitude": 28.7446378417057,
+      "latitude": 77.138301923265402
+    },
+    {
+      "name": "Rohini Sector 18, 19",
+      "longitude": 28.738379696792698,
+      "latitude": 77.1398595616742
+    },
+    {
+      "name": "Haiderpur Badli Mor",
+      "longitude": 28.730001080477798,
+      "latitude": 77.149178259029497
+    },
+    {
+      "name": "Jahangirpuri",
+      "longitude": 28.725859256953999,
+      "latitude": 77.162789103743194
+    },
+    {
+      "name": "Adarsh Nagar",
+      "longitude": 28.716450897042598,
+      "latitude": 77.170578204024906
+    },
+    {
+      "name": "Model Town",
+      "longitude": 28.702856848405801,
+      "latitude": 77.193712635975402
+    },
+    {
+      "name": "GTB Nagar",
+      "longitude": 28.698383769457799,
+      "latitude": 77.205879264918295
+    },
+    {
+      "name": "Viswavidyalaya",
+      "longitude": 28.695188077089099,
+      "latitude": 77.214510287142602
+    },
+    {
+      "name": "Vidhan Sabha",
+      "longitude": 28.687213388920998,
+      "latitude": 77.221728228746699
+    },
+    {
+      "name": "Civil Lines",
+      "longitude": 28.677337910620299,
+      "latitude": 77.224811093755704
+    },
+    {
+      "name": "Chandhni Chowk",
+      "longitude": 28.658826722290499,
+      "latitude": 77.230356104299702
+    },
+    {
+      "name": "Chawri Bazar",
+      "longitude": 28.648800165390998,
+      "latitude": 77.2263007408188
+    },
+    {
+      "name": "NewDelhi",
+      "longitude": 28.643721680018999,
+      "latitude": 77.222991097534702
+    },
+    {
+      "name": "Patel Chowk",
+      "longitude": 28.623350504979499,
+      "latitude": 77.214508120105805
+    },
+    {
+      "name": "Central Secretariat",
+      "longitude": 28.6151513673286,
+      "latitude": 77.212263415491904
+    },
+    {
+      "name": "Udyog Bhawan",
+      "longitude": 28.610709339302002,
+      "latitude": 77.211881866970998
+    },
+    {
+      "name": "Lok Kalyan Marg",
+      "longitude": 28.5976559905465,
+      "latitude": 77.2111753147569
+    },
+    {
+      "name": "Jorbagh",
+      "longitude": 28.585887691418201,
+      "latitude": 77.212510728205899
+    },
+    {
+      "name": "INA",
+      "longitude": 28.5744485641743,
+      "latitude": 77.209623783504199
+    },
+    {
+      "name": "AIIMS",
+      "longitude": 28.567800555611701,
+      "latitude": 77.207759982508904
+    },
+    {
+      "name": "Green Park",
+      "longitude": 28.559820911682799,
+      "latitude": 77.206829850808305
+    },
+    {
+      "name": "Hauz Khas",
+      "longitude": 28.543949735241899,
+      "latitude": 77.2062402425382
+    },
+    {
+      "name": "MalviaNagar",
+      "longitude": 28.528988096353299,
+      "latitude": 77.204991220641006
+    },
+    {
+      "name": "Saket",
+      "longitude": 28.521130210440599,
+      "latitude": 77.202180427118805
+    },
+    {
+      "name": "Qutab Minar",
+      "longitude": 28.513019785996001,
+      "latitude": 77.186400611549502
+    },
+    {
+      "name": "Chhattarpur",
+      "longitude": 28.506792858417398,
+      "latitude": 77.175026511693503
+    },
+    {
+      "name": "Sultanpur",
+      "longitude": 28.499152242649402,
+      "latitude": 77.161536752928399
+    },
+    {
+      "name": "Ghotorni",
+      "longitude": 28.493814210798298,
+      "latitude": 77.149174853487906
+    },
+    {
+      "name": "Arjan Garh",
+      "longitude": 28.4808777371906,
+      "latitude": 77.125850668097399
+    },
+    {
+      "name": "Gurudronacharya",
+      "longitude": 28.481949531523,
+      "latitude": 77.102251322097501
+    },
+    {
+      "name": "Sikandarpur.",
+      "longitude": 28.481308576797201,
+      "latitude": 77.093118677973195
+    },
+    {
+      "name": "MG Road",
+      "longitude": 28.479570018235101,
+      "latitude": 77.080060966573996
+    },
+    {
+      "name": "IFFCO Chowk",
+      "longitude": 28.472239422067801,
+      "latitude": 77.072399591572093
+    },
+    {
+      "name": "Huda City Centre",
+      "longitude": 28.459198447634201,
+      "latitude": 77.072480927578397
+    },
+    {
+      "name": "Noida Electronic City",
+      "longitude": 28.627941651175199,
+      "latitude": 77.374931005109801
+    },
+    {
+      "name": "Noida Sector 62",
+      "longitude": 28.616996235641,
+      "latitude": 77.373610851992893
+    },
+    {
+      "name": "Noida Sector 59",
+      "longitude": 28.6064935182097,
+      "latitude": 77.372723809811006
+    },
+    {
+      "name": "Noida Sector 61",
+      "longitude": 28.597630605063198,
+      "latitude": 77.372300481976893
+    },
+    {
+      "name": "Noida Sector 52",
+      "longitude": 28.5866997280344,
+      "latitude": 77.372839101422798
+    },
+    {
+      "name": "Noida Sector 34",
+      "longitude": 28.580118102895099,
+      "latitude": 77.363487259603801
+    },
+    {
+      "name": "Noida City Centre",
+      "longitude": 28.5746701138224,
+      "latitude": 77.356050762406497
+    },
+    {
+      "name": "Golf Course",
+      "longitude": 28.567190661055399,
+      "latitude": 77.3459713962162
+    },
+    {
+      "name": "Botanical Garden",
+      "longitude": 28.564031310067801,
+      "latitude": 77.334281259654105
+    },
+    {
+      "name": "Noida Sect 18",
+      "longitude": 28.570749578225598,
+      "latitude": 77.3261861280061
+    },
+    {
+      "name": "Noida Sect 16",
+      "longitude": 28.578235360780202,
+      "latitude": 77.317721267357001
+    },
+    {
+      "name": "Noida Sect 15",
+      "longitude": 28.5850880881497,
+      "latitude": 77.311591878090894
+    },
+    {
+      "name": "New Ashok Nagar",
+      "longitude": 28.589156773171101,
+      "latitude": 77.302140939762296
+    },
+    {
+      "name": "Mayur Vihar Ext",
+      "longitude": 28.594221445474702,
+      "latitude": 77.294739212602906
+    },
+    {
+      "name": "Mayur Vihar-I",
+      "longitude": 28.604224136350702,
+      "latitude": 77.289608238750503
+    },
+    {
+      "name": "Akshardham",
+      "longitude": 28.617960082673701,
+      "latitude": 77.279377518788905
+    },
+    {
+      "name": "Indraprasta",
+      "longitude": 28.620549903044001,
+      "latitude": 77.249950207612599
+    },
+    {
+      "name": "Supreme Court",
+      "longitude": 28.6231765741394,
+      "latitude": 77.242929487668505
+    },
+    {
+      "name": "Mandi House",
+      "longitude": 28.625688812805802,
+      "latitude": 77.233759050745405
+    },
+    {
+      "name": "Barakhamba",
+      "longitude": 28.629940063410501,
+      "latitude": 77.224500151890297
+    },
+    {
+      "name": "Rajiv Chowk",
+      "longitude": 28.632985106660598,
+      "latitude": 77.2193735926963
+    },
+    {
+      "name": "RK Ashram Marg",
+      "longitude": 28.639239625355,
+      "latitude": 77.208558047156799
+    },
+    {
+      "name": "Jhandewalan",
+      "longitude": 28.644289665842798,
+      "latitude": 77.199922094152797
+    },
+    {
+      "name": "Karol Bagh",
+      "longitude": 28.643985033122199,
+      "latitude": 77.188496042332901
+    },
+    {
+      "name": "Rajendra Place",
+      "longitude": 28.642528673360999,
+      "latitude": 77.178240252245004
+    },
+    {
+      "name": "Patel Nagar",
+      "longitude": 28.6450299610899,
+      "latitude": 77.169270754988702
+    },
+    {
+      "name": "Shadi Pur",
+      "longitude": 28.651620855967899,
+      "latitude": 77.158230867122299
+    },
+    {
+      "name": "Kirti Nagar",
+      "longitude": 28.655676544109799,
+      "latitude": 77.150815272263401
+    },
+    {
+      "name": "Moti Nagar",
+      "longitude": 28.657959448458701,
+      "latitude": 77.142668760422296
+    },
+    {
+      "name": "Ramesh Nagar",
+      "longitude": 28.652750318583301,
+      "latitude": 77.131641449311999
+    },
+    {
+      "name": "Tagore Garden",
+      "longitude": 28.643755470130799,
+      "latitude": 77.112880009227297
+    },
+    {
+      "name": "Subash Nagar",
+      "longitude": 28.6403902007835,
+      "latitude": 77.104952560723405
+    },
+    {
+      "name": "Tilak Nagar",
+      "longitude": 28.636568624578601,
+      "latitude": 77.096479721920204
+    },
+    {
+      "name": "Janak Puri East",
+      "longitude": 28.633059130156202,
+      "latitude": 77.086719375082595
+    },
+    {
+      "name": "Janak Puri West",
+      "longitude": 28.629469757911199,
+      "latitude": 77.077769616252496
+    },
+    {
+      "name": "Uttam Nagar East",
+      "longitude": 28.624802661965202,
+      "latitude": 77.0653079835526
+    },
+    {
+      "name": "Uttam Nagar West",
+      "longitude": 28.621753892048801,
+      "latitude": 77.055809982665394
+    },
+    {
+      "name": "Nawada",
+      "longitude": 28.6202603175965,
+      "latitude": 77.045068476201294
+    },
+    {
+      "name": "Dwaraka Mor",
+      "longitude": 28.619292156878,
+      "latitude": 77.0333273157202
+    },
+    {
+      "name": "Dwarka Sector - 14",
+      "longitude": 28.6022201694547,
+      "latitude": 77.025940108476703
+    },
+    {
+      "name": "Dwarka Sector - 13",
+      "longitude": 28.597199979300601,
+      "latitude": 77.033329850863097
+    },
+    {
+      "name": "Dwarka Sector - 12",
+      "longitude": 28.592309606260699,
+      "latitude": 77.040628011386303
+    },
+    {
+      "name": "Dwarka Sector - 11",
+      "longitude": 28.5864966874082,
+      "latitude": 77.049473963931604
+    },
+    {
+      "name": "Dwarka Sector - 10",
+      "longitude": 28.581124304636301,
+      "latitude": 77.057510216573107
+    },
+    {
+      "name": "Dwarka Sector - 9",
+      "longitude": 28.574280225021099,
+      "latitude": 77.065280259247103
+    },
+    {
+      "name": "Dwarka Sector - 8",
+      "longitude": 28.565678011228201,
+      "latitude": 77.067103598958496
+    },
+    {
+      "name": "Dwarka Sector - 21",
+      "longitude": 28.552206443483499,
+      "latitude": 77.058304071046706
+    },
+    {
+      "name": "New Delhi",
+      "longitude": 28.643720361876198,
+      "latitude": 77.222991077753306
+    },
+    {
+      "name": "Shivaji Stadium",
+      "longitude": 28.628770302013798,
+      "latitude": 77.211411281736602
+    },
+    {
+      "name": "Dhaula Kuan",
+      "longitude": 28.5918906792391,
+      "latitude": 77.161670649185893
+    },
+    {
+      "name": "Delhi Aerocity",
+      "longitude": 28.548879207757899,
+      "latitude": 77.120771046906199
+    },
+    {
+      "name": "IGI Airport",
+      "longitude": 28.557092193121601,
+      "latitude": 77.0868403847564
+    },
+    {
+      "name": "Dwarka Sector 21",
+      "longitude": 28.552205393381598,
+      "latitude": 77.058304779260496
+    },
+    {
+      "name": "Satguru Ram Singh Marg",
+      "longitude": 28.662130562366499,
+      "latitude": 77.157660899970196
+    },
+    {
+      "name": "Ashok Park Main",
+      "longitude": 28.671616181016699,
+      "latitude": 77.155225039928098
+    },
+    {
+      "name": "Punjabi Bagh",
+      "longitude": 28.672929594814601,
+      "latitude": 77.146059203532801
+    },
+    {
+      "name": "Punjabi Bagh West",
+      "longitude": 28.672739521396402,
+      "latitude": 77.139179704688601
+    },
+    {
+      "name": "Shivaji Park",
+      "longitude": 28.6749374600302,
+      "latitude": 77.130583844176201
+    },
+    {
+      "name": "Madipur",
+      "longitude": 28.676339040177201,
+      "latitude": 77.119741306913198
+    },
+    {
+      "name": "Paschim Vihar East",
+      "longitude": 28.6772690470989,
+      "latitude": 77.112410941917204
+    },
+    {
+      "name": "Paschim Vihar West",
+      "longitude": 28.678601042768101,
+      "latitude": 77.102309531720095
+    },
+    {
+      "name": "Peera Garhi",
+      "longitude": 28.679652421819799,
+      "latitude": 77.092776962491698
+    },
+    {
+      "name": "Udyog Nagar",
+      "longitude": 28.681047888529001,
+      "latitude": 77.080864811371498
+    },
+    {
+      "name": "Surajmal Stadium",
+      "longitude": 28.681820552374901,
+      "latitude": 77.073958819728702
+    },
+    {
+      "name": "Nangloi",
+      "longitude": 28.682330578624398,
+      "latitude": 77.064811238709595
+    },
+    {
+      "name": "Nangloi Railway Station",
+      "longitude": 28.682133322840698,
+      "latitude": 77.056220869321805
+    },
+    {
+      "name": "Rajdhani Park",
+      "longitude": 28.682279401084902,
+      "latitude": 77.044007199850597
+    },
+    {
+      "name": "Mundka",
+      "longitude": 28.682390423868899,
+      "latitude": 77.030339330316593
+    },
+    {
+      "name": "Mundka Industrial Area (MIA)",
+      "longitude": 28.6834262375694,
+      "latitude": 77.017160462350006
+    },
+    {
+      "name": "Ghevra",
+      "longitude": 28.685237422605798,
+      "latitude": 76.996104161659204
+    },
+    {
+      "name": "Tikri Kalan",
+      "longitude": 28.6868806432371,
+      "latitude": 76.977270141771299
+    },
+    {
+      "name": "Tikri Border",
+      "longitude": 28.688019991474398,
+      "latitude": 76.964099063490806
+    },
+    {
+      "name": "Pandit Shree Ram Sharma",
+      "longitude": 28.6892409043414,
+      "latitude": 76.951146665673804
+    },
+    {
+      "name": "Bahadurgarh City",
+      "longitude": 28.690739832981301,
+      "latitude": 76.935379165790494
+    },
+    {
+      "name": "Brigadier Hoshiyar Singh",
+      "longitude": 28.697409334400302,
+      "latitude": 76.919270891978201
+    },
+    {
+      "name": "Yamuna Bank",
+      "longitude": 28.6233297481776,
+      "latitude": 77.267919640441406
+    },
+    {
+      "name": "Laxmi Nagar",
+      "longitude": 28.630679432771299,
+      "latitude": 77.277620312446004
+    },
+    {
+      "name": "Nirman Vihar",
+      "longitude": 28.636629548609001,
+      "latitude": 77.286830185019397
+    },
+    {
+      "name": "Preet Vihar",
+      "longitude": 28.6417092412096,
+      "latitude": 77.295430104275297
+    },
+    {
+      "name": "Karkar Duma",
+      "longitude": 28.648490927029201,
+      "latitude": 77.305580443624194
+    },
+    {
+      "name": "Anand Vihar",
+      "longitude": 28.6469535188082,
+      "latitude": 77.315914564594706
+    },
+    {
+      "name": "Kaushambi",
+      "longitude": 28.645481854355999,
+      "latitude": 77.324360455161099
+    },
+    {
+      "name": "Vaishali",
+      "longitude": 28.6498397665314,
+      "latitude": 77.339680435649896
+    },
+    {
+      "name": "Lal Qila",
+      "longitude": 28.656855046855298,
+      "latitude": 77.236811500252003
+    },
+    {
+      "name": "Jama Masjid",
+      "longitude": 28.649550154223899,
+      "latitude": 77.238020475375507
+    },
+    {
+      "name": "Delhi Gate",
+      "longitude": 28.6400787453825,
+      "latitude": 77.240510337156095
+    },
+    {
+      "name": "ITO",
+      "longitude": 28.6283900472928,
+      "latitude": 77.241180497270605
+    },
+    {
+      "name": "Janpath",
+      "longitude": 28.625059274534699,
+      "latitude": 77.219186035839897
+    },
+    {
+      "name": "Khan Market",
+      "longitude": 28.6021528203323,
+      "latitude": 77.229019098919693
+    },
+    {
+      "name": "Jawaharlal Nehru Stadium",
+      "longitude": 28.589361412844099,
+      "latitude": 77.233562311572399
+    },
+    {
+      "name": "Jangpura",
+      "longitude": 28.583310106945,
+      "latitude": 77.239659478788397
+    },
+    {
+      "name": "Moolchand",
+      "longitude": 28.56401304273,
+      "latitude": 77.234244842207502
+    },
+    {
+      "name": "Kailash Colony",
+      "longitude": 28.555386570871601,
+      "latitude": 77.241954775686807
+    },
+    {
+      "name": "Nehru Place",
+      "longitude": 28.551402794891199,
+      "latitude": 77.251765547569704
+    },
+    {
+      "name": "Govind Puri",
+      "longitude": 28.5443980877813,
+      "latitude": 77.264350887547806
+    },
+    {
+      "name": "Harkesh Nagar",
+      "longitude": 28.5429211710495,
+      "latitude": 77.275039134540293
+    },
+    {
+      "name": "Jasola Apollo",
+      "longitude": 28.538129918547899,
+      "latitude": 77.283300269850798
+    },
+    {
+      "name": "Sarita Vihar",
+      "longitude": 28.528729799210801,
+      "latitude": 77.288219957303497
+    },
+    {
+      "name": "Mohan Estate",
+      "longitude": 28.519520178670501,
+      "latitude": 77.294561275071999
+    },
+    {
+      "name": "Tughlakabad",
+      "longitude": 28.5025396916053,
+      "latitude": 77.299300379445498
+    },
+    {
+      "name": "Badarpur",
+      "longitude": 28.4932481926256,
+      "latitude": 77.302970201886794
+    },
+    {
+      "name": "Sarai",
+      "longitude": 28.478069719434,
+      "latitude": 77.304899543916093
+    },
+    {
+      "name": "NHPC Chowk",
+      "longitude": 28.457701052176699,
+      "latitude": 77.307442449950301
+    },
+    {
+      "name": "Mewla Maharajpur",
+      "longitude": 28.448566699781001,
+      "latitude": 77.308053953337904
+    },
+    {
+      "name": "Sector 28",
+      "longitude": 28.4380097428886,
+      "latitude": 77.308990581401503
+    },
+    {
+      "name": "Badkhal Mor",
+      "longitude": 28.422753372562799,
+      "latitude": 77.310357510441705
+    },
+    {
+      "name": "Faridabad Old",
+      "longitude": 28.4107709763285,
+      "latitude": 77.311506870205704
+    },
+    {
+      "name": "Neelam Chowk Ajronda",
+      "longitude": 28.3976672686073,
+      "latitude": 77.312365745611999
+    },
+    {
+      "name": "Bata Chowk",
+      "longitude": 28.385988653548999,
+      "latitude": 77.313420553715005
+    },
+    {
+      "name": "Escorts Mujesar",
+      "longitude": 28.370159590446502,
+      "latitude": 77.314940323286507
+    },
+    {
+      "name": "Sant Surdas — Sihi (NCB Colony)",
+      "longitude": 28.354672735977001,
+      "latitude": 77.316218987572597
+    },
+    {
+      "name": "Raja Nahar Singh (Ballabhgarh)",
+      "longitude": 28.339801287463999,
+      "latitude": 77.316446234849096
+    },
+    {
+      "name": "Janakpuri West",
+      "longitude": 28.629469921823301,
+      "latitude": 77.0777690378155
+    },
+    {
+      "name": "Dabri Mor",
+      "longitude": 28.615903596054402,
+      "latitude": 77.085257352505195
+    },
+    {
+      "name": "Dashrath Puri",
+      "longitude": 28.602349160543699,
+      "latitude": 77.082540780412003
+    },
+    {
+      "name": "Palam",
+      "longitude": 28.589068987330499,
+      "latitude": 77.082959337262807
+    },
+    {
+      "name": "Sadaar Bazaar Cantonment",
+      "longitude": 28.577110092991301,
+      "latitude": 77.111300145604801
+    },
+    {
+      "name": "Terminal 1 IGI Airport",
+      "longitude": 28.565298856604102,
+      "latitude": 77.122380223283599
+    },
+    {
+      "name": "Shankar Vihar",
+      "longitude": 28.560813098146301,
+      "latitude": 77.140345119389707
+    },
+    {
+      "name": "Vasant Vihar",
+      "longitude": 28.557829391908498,
+      "latitude": 77.160990976941306
+    },
+    {
+      "name": "Munirka",
+      "longitude": 28.5578921824175,
+      "latitude": 77.1739692727852
+    },
+    {
+      "name": "R.K Puram",
+      "longitude": 28.5503479810769,
+      "latitude": 77.185147594707402
+    },
+    {
+      "name": "IIT Delhi",
+      "longitude": 28.547199587198701,
+      "latitude": 77.193817402223203
+    },
+    {
+      "name": "Panchsheel Park",
+      "longitude": 28.5423379050509,
+      "latitude": 77.220508311316493
+    },
+    {
+      "name": "Chirag Delhi",
+      "longitude": 28.541229104353,
+      "latitude": 77.229381924649601
+    },
+    {
+      "name": "Greater Kailash",
+      "longitude": 28.541831639041298,
+      "latitude": 77.238248363896403
+    },
+    {
+      "name": "Nehru Enclave",
+      "longitude": 28.545851298999999,
+      "latitude": 77.251167888477994
+    },
+    {
+      "name": "Kalkaji Mandir",
+      "longitude": 28.549448648028601,
+      "latitude": 77.259220451360207
+    },
+    {
+      "name": "Okhla NSIC",
+      "longitude": 28.5544251656586,
+      "latitude": 77.264884225102605
+    },
+    {
+      "name": "Sukhdev Vihar",
+      "longitude": 28.559774777569899,
+      "latitude": 77.275126684787395
+    },
+    {
+      "name": "Jamia Millia Islamia",
+      "longitude": 28.5629492801487,
+      "latitude": 77.286220013057701
+    },
+    {
+      "name": "Okhla Vihar",
+      "longitude": 28.561089095012399,
+      "latitude": 77.291890219025106
+    },
+    {
+      "name": "Jasola Vihar Shaheen Bagh",
+      "longitude": 28.545978516428399,
+      "latitude": 77.296648171073102
+    },
+    {
+      "name": "Kalindi Kunj",
+      "longitude": 28.542834687771499,
+      "latitude": 77.310176122803696
+    },
+    {
+      "name": "Okhla Bird Sanctuary",
+      "longitude": 28.552862322747099,
+      "latitude": 77.321651224969798
+    },
+    {
+      "name": "Shiv Vihar",
+      "longitude": 28.721613473524801,
+      "latitude": 77.289493759556393
+    },
+    {
+      "name": "Johri Enclave",
+      "longitude": 28.713180821817101,
+      "latitude": 77.290060393714299
+    },
+    {
+      "name": "Gokulpuri",
+      "longitude": 28.702409627163401,
+      "latitude": 77.285979944577505
+    },
+    {
+      "name": "Maujpur Babarpur",
+      "longitude": 28.692102704718501,
+      "latitude": 77.279611805001096
+    },
+    {
+      "name": "Jafrabad",
+      "longitude": 28.682757940643,
+      "latitude": 77.274747925911498
+    },
+    {
+      "name": "East Azad Nagar",
+      "longitude": 28.664789263425199,
+      "latitude": 77.284799516904798
+    },
+    {
+      "name": "Krishna Nagar",
+      "longitude": 28.658039111388,
+      "latitude": 77.290030957244895
+    },
+    {
+      "name": "Karkarduma Court",
+      "longitude": 28.6535882873339,
+      "latitude": 77.295589290013496
+    },
+    {
+      "name": "Karkarduma",
+      "longitude": 28.6484903117755,
+      "latitude": 77.305579946048098
+    },
+    {
+      "name": "IP Extension",
+      "longitude": 28.631934962036802,
+      "latitude": 77.310758168767194
+    },
+    {
+      "name": "Mandawali West Vinod Nagar",
+      "longitude": 28.624877238436699,
+      "latitude": 77.304373069171703
+    },
+    {
+      "name": "East Vinod Nagar Mayur Vihar II",
+      "longitude": 28.620056382275401,
+      "latitude": 77.305271078311904
+    },
+    {
+      "name": "Trilokpuri Sanjay Lake",
+      "longitude": 28.613588930403601,
+      "latitude": 77.308839187919702
+    },
+    {
+      "name": "Mayur Vihar Pocket I",
+      "longitude": 28.605793597260799,
+      "latitude": 77.298703718584804
+    },
+    {
+      "name": "Mayur Vihar I",
+      "longitude": 28.604226021226999,
+      "latitude": 77.289609195602793
+    },
+    {
+      "name": "Hazrat Nizamuddin",
+      "longitude": 28.589359088063901,
+      "latitude": 77.257130659049196
+    },
+    {
+      "name": "Ashram",
+      "longitude": 28.572163808779099,
+      "latitude": 77.258510436393294
+    },
+    {
+      "name": "Vinobapuri",
+      "longitude": 28.565943512492201,
+      "latitude": 77.250500445360103
+    },
+    {
+      "name": "Lajpat Nagar",
+      "longitude": 28.570557014911,
+      "latitude": 77.236450540505899
+    },
+    {
+      "name": "South Extension",
+      "longitude": 28.568608756246601,
+      "latitude": 77.220265959474204
+    },
+    {
+      "name": "Delhi Haat INA",
+      "longitude": 28.574448036879399,
+      "latitude": 77.209622014560395
+    },
+    {
+      "name": "Sarojini Nagar",
+      "longitude": 28.5758067143584,
+      "latitude": 77.198571662873206
+    },
+    {
+      "name": "Bhikaji Cama Place",
+      "longitude": 28.570210100240601,
+      "latitude": 77.187888168719695
+    },
+    {
+      "name": "Sir M. Vishweshwaraiah Moti Bagh",
+      "longitude": 28.578503232375098,
+      "latitude": 77.175724913223803
+    },
+    {
+      "name": "Durgabai Deshmukh South Campus",
+      "longitude": 28.589379212162701,
+      "latitude": 77.169518459722298
+    },
+    {
+      "name": "Delhi Cantt",
+      "longitude": 28.6087783604228,
+      "latitude": 77.140340309977503
+    },
+    {
+      "name": "Naraina Vihar",
+      "longitude": 28.6241247739203,
+      "latitude": 77.136489735532905
+    },
+    {
+      "name": "Mayapuri",
+      "longitude": 28.6370978386072,
+      "latitude": 77.129741999686004
+    },
+    {
+      "name": "Rajouri Garden",
+      "longitude": 28.649017630375202,
+      "latitude": 77.122708003357999
+    },
+    {
+      "name": "ESI Basaidarapur",
+      "longitude": 28.658159612364798,
+      "latitude": 77.127320771564101
+    },
+    {
+      "name": "Shakurpur",
+      "longitude": 28.6857797103671,
+      "latitude": 77.149627094061799
+    },
+    {
+      "name": "Shalimar Bagh",
+      "longitude": 28.701818716562901,
+      "latitude": 77.165191000128303
+    },
+    {
+      "name": "Azadpur",
+      "longitude": 28.7070207026944,
+      "latitude": 77.180520146902097
+    },
+    {
+      "name": "Majlis Park",
+      "longitude": 28.724159068637199,
+      "latitude": 77.182049745323894
+    },
+    {
+      "name": "Dwarka",
+      "longitude": 28.6149213991858,
+      "latitude": 77.022719507362694
+    },
+    {
+      "name": "Nangli",
+      "longitude": 28.6172393372767,
+      "latitude": 77.010401277784396
+    },
+    {
+      "name": "Najafgarh",
+      "longitude": 28.612676316443899,
+      "latitude": 76.986543061126397
+    },
+    {
+      "name": "Dhansa Bus Stand",
+      "longitude": 28.611899028160099,
+      "latitude": 76.978001469249307
+    }
+  ],
+  "connections": [
+    {
+      "source": "Shaheed Sthal (New Bus Adda)",
+      "destination": "Hindon",
+      "route_name": "red_line",
+      "color": "red",
+      "distance": 942,
+      "time": 113.04452178087124
+    },
+    {
+      "source": "Hindon",
+      "destination": "Arthala",
+      "route_name": "red_line",
+      "color": "red",
+      "distance": 1480,
+      "time": 177.60710428417136
+    },
+    {
+      "source": "Arthala",
+      "destination": "Mohan Nagar",
+      "route_name": "red_line",
+      "color": "red",
+      "distance": 792,
+      "time": 95.043801752070081
+    },
+    {
+      "source": "Mohan Nagar",
+      "destination": "Shyam park",
+      "route_name": "red_line",
+      "color": "red",
+      "distance": 1340,
+      "time": 160.80643225729028
+    },
+    {
+      "source": "Shyam park",
+      "destination": "Major Mohit Sharma",
+      "route_name": "red_line",
+      "color": "red",
+      "distance": 1160,
+      "time": 139.20556822272891
+    },
+    {
+      "source": "Major Mohit Sharma",
+      "destination": "Raj Bagh",
+      "route_name": "red_line",
+      "color": "red",
+      "distance": 1150,
+      "time": 138.00552022080882
+    },
+    {
+      "source": "Raj Bagh",
+      "destination": "Shaheed Nagar",
+      "route_name": "red_line",
+      "color": "red",
+      "distance": 1250,
+      "time": 150.0060002400096
+    },
+    {
+      "source": "Shaheed Nagar",
+      "destination": "Dilshad Garden",
+      "route_name": "red_line",
+      "color": "red",
+      "distance": 1200,
+      "time": 144.00576023040921
+    },
+    {
+      "source": "Dilshad Garden",
+      "destination": "Jhilmil",
+      "route_name": "red_line",
+      "color": "red",
+      "distance": 890,
+      "time": 106.80427217088683
+    },
+    {
+      "source": "Jhilmil",
+      "destination": "Mansarovar Park",
+      "route_name": "red_line",
+      "color": "red",
+      "distance": 1120,
+      "time": 134.40537621504859
+    },
+    {
+      "source": "Mansarovar Park",
+      "destination": "Shahdara",
+      "route_name": "red_line",
+      "color": "red",
+      "distance": 1110,
+      "time": 133.20532821312852
+    },
+    {
+      "source": "Shahdara",
+      "destination": "Welcome",
+      "route_name": "red_line",
+      "color": "red",
+      "distance": 1210,
+      "time": 145.2058082323293
+    },
+    {
+      "source": "Welcome",
+      "destination": "Seelampur",
+      "route_name": "red_line",
+      "color": "red",
+      "distance": 1080,
+      "time": 129.6051842073683
+    },
+    {
+      "source": "Seelampur",
+      "destination": "Shastri Park",
+      "route_name": "red_line",
+      "color": "red",
+      "distance": 1680,
+      "time": 201.60806432257289
+    },
+    {
+      "source": "Shastri Park",
+      "destination": "Kashmere Gate",
+      "route_name": "red_line",
+      "color": "red",
+      "distance": 2340,
+      "time": 280.81123244929796
+    },
+    {
+      "source": "Kashmere Gate",
+      "destination": "Tis Hazari",
+      "route_name": "red_line",
+      "color": "red",
+      "distance": 1150,
+      "time": 138.00552022080882
+    },
+    {
+      "source": "Tis Hazari",
+      "destination": "Pul Bangash",
+      "route_name": "red_line",
+      "color": "red",
+      "distance": 946.50,
+      "time": 113.58454338173527
+    },
+    {
+      "source": "Pul Bangash",
+      "destination": "Pratap Nagar",
+      "route_name": "red_line",
+      "color": "red",
+      "distance": 849,
+      "time": 101.88407536301452
+    },
+    {
+      "source": "Pratap Nagar",
+      "destination": "Shastri Nagar",
+      "route_name": "red_line",
+      "color": "red",
+      "distance": 1720,
+      "time": 206.40825633025321
+    },
+    {
+      "source": "Shastri Nagar",
+      "destination": "Inderlok",
+      "route_name": "red_line",
+      "color": "red",
+      "distance": 1210,
+      "time": 145.2058082323293
+    },
+    {
+      "source": "Inderlok",
+      "destination": "Kanhiya Nagar",
+      "route_name": "red_line",
+      "color": "red",
+      "distance": 1120,
+      "time": 134.40537621504859
+    },
+    {
+      "source": "Kanhiya Nagar",
+      "destination": "Keshav Puram",
+      "route_name": "red_line",
+      "color": "red",
+      "distance": 786,
+      "time": 94.323772950918041
+    },
+    {
+      "source": "Keshav Puram",
+      "destination": "Netaji Subhash Place",
+      "route_name": "red_line",
+      "color": "red",
+      "distance": 1470,
+      "time": 176.40705628225129
+    },
+    {
+      "source": "Netaji Subhash Place",
+      "destination": "Kohat Enclave",
+      "route_name": "red_line",
+      "color": "red",
+      "distance": 1280,
+      "time": 153.60614424576983
+    },
+    {
+      "source": "Kohat Enclave",
+      "destination": "Pitam Pura",
+      "route_name": "red_line",
+      "color": "red",
+      "distance": 979,
+      "time": 117.48469938797551
+    },
+    {
+      "source": "Pitam Pura",
+      "destination": "Rohini East",
+      "route_name": "red_line",
+      "color": "red",
+      "distance": 813.50,
+      "time": 97.623904956198245
+    },
+    {
+      "source": "Rohini East",
+      "destination": "Rohini West",
+      "route_name": "red_line",
+      "color": "red",
+      "distance": 1300,
+      "time": 156.00624024960999
+    },
+    {
+      "source": "Rohini West",
+      "destination": "Rithala",
+      "route_name": "red_line",
+      "color": "red",
+      "distance": 1050,
+      "time": 126.00504020160807
+    },
+    {
+      "source": "Hindon",
+      "destination": "Shaheed Sthal (New Bus Adda)",
+      "route_name": "red_line",
+      "color": "red",
+      "distance": 942,
+      "time": 113.04452178087124
+    },
+    {
+      "source": "Arthala",
+      "destination": "Hindon",
+      "route_name": "red_line",
+      "color": "red",
+      "distance": 1480,
+      "time": 177.60710428417136
+    },
+    {
+      "source": "Mohan Nagar",
+      "destination": "Arthala",
+      "route_name": "red_line",
+      "color": "red",
+      "distance": 792,
+      "time": 95.043801752070081
+    },
+    {
+      "source": "Shyam park",
+      "destination": "Mohan Nagar",
+      "route_name": "red_line",
+      "color": "red",
+      "distance": 1340,
+      "time": 160.80643225729028
+    },
+    {
+      "source": "Major Mohit Sharma",
+      "destination": "Shyam park",
+      "route_name": "red_line",
+      "color": "red",
+      "distance": 1160,
+      "time": 139.20556822272891
+    },
+    {
+      "source": "Raj Bagh",
+      "destination": "Major Mohit Sharma",
+      "route_name": "red_line",
+      "color": "red",
+      "distance": 1150,
+      "time": 138.00552022080882
+    },
+    {
+      "source": "Shaheed Nagar",
+      "destination": "Raj Bagh",
+      "route_name": "red_line",
+      "color": "red",
+      "distance": 1250,
+      "time": 150.0060002400096
+    },
+    {
+      "source": "Dilshad Garden",
+      "destination": "Shaheed Nagar",
+      "route_name": "red_line",
+      "color": "red",
+      "distance": 1200,
+      "time": 144.00576023040921
+    },
+    {
+      "source": "Jhilmil",
+      "destination": "Dilshad Garden",
+      "route_name": "red_line",
+      "color": "red",
+      "distance": 890,
+      "time": 106.80427217088683
+    },
+    {
+      "source": "Mansarovar Park",
+      "destination": "Jhilmil",
+      "route_name": "red_line",
+      "color": "red",
+      "distance": 1120,
+      "time": 134.40537621504859
+    },
+    {
+      "source": "Shahdara",
+      "destination": "Mansarovar Park",
+      "route_name": "red_line",
+      "color": "red",
+      "distance": 1110,
+      "time": 133.20532821312852
+    },
+    {
+      "source": "Welcome",
+      "destination": "Shahdara",
+      "route_name": "red_line",
+      "color": "red",
+      "distance": 1210,
+      "time": 145.2058082323293
+    },
+    {
+      "source": "Seelampur",
+      "destination": "Welcome",
+      "route_name": "red_line",
+      "color": "red",
+      "distance": 1080,
+      "time": 129.6051842073683
+    },
+    {
+      "source": "Shastri Park",
+      "destination": "Seelampur",
+      "route_name": "red_line",
+      "color": "red",
+      "distance": 1680,
+      "time": 201.60806432257289
+    },
+    {
+      "source": "Kashmere Gate",
+      "destination": "Shastri Park",
+      "route_name": "red_line",
+      "color": "red",
+      "distance": 2340,
+      "time": 280.81123244929796
+    },
+    {
+      "source": "Tis Hazari",
+      "destination": "Kashmere Gate",
+      "route_name": "red_line",
+      "color": "red",
+      "distance": 1150,
+      "time": 138.00552022080882
+    },
+    {
+      "source": "Pul Bangash",
+      "destination": "Tis Hazari",
+      "route_name": "red_line",
+      "color": "red",
+      "distance": 946.50,
+      "time": 113.58454338173527
+    },
+    {
+      "source": "Pratap Nagar",
+      "destination": "Pul Bangash",
+      "route_name": "red_line",
+      "color": "red",
+      "distance": 849,
+      "time": 101.88407536301452
+    },
+    {
+      "source": "Shastri Nagar",
+      "destination": "Pratap Nagar",
+      "route_name": "red_line",
+      "color": "red",
+      "distance": 1720,
+      "time": 206.40825633025321
+    },
+    {
+      "source": "Inderlok",
+      "destination": "Shastri Nagar",
+      "route_name": "red_line",
+      "color": "red",
+      "distance": 1210,
+      "time": 145.2058082323293
+    },
+    {
+      "source": "Kanhiya Nagar",
+      "destination": "Inderlok",
+      "route_name": "red_line",
+      "color": "red",
+      "distance": 1120,
+      "time": 134.40537621504859
+    },
+    {
+      "source": "Keshav Puram",
+      "destination": "Kanhiya Nagar",
+      "route_name": "red_line",
+      "color": "red",
+      "distance": 786,
+      "time": 94.323772950918041
+    },
+    {
+      "source": "Netaji Subhash Place",
+      "destination": "Keshav Puram",
+      "route_name": "red_line",
+      "color": "red",
+      "distance": 1470,
+      "time": 176.40705628225129
+    },
+    {
+      "source": "Kohat Enclave",
+      "destination": "Netaji Subhash Place",
+      "route_name": "red_line",
+      "color": "red",
+      "distance": 1280,
+      "time": 153.60614424576983
+    },
+    {
+      "source": "Pitam Pura",
+      "destination": "Kohat Enclave",
+      "route_name": "red_line",
+      "color": "red",
+      "distance": 979,
+      "time": 117.48469938797551
+    },
+    {
+      "source": "Rohini East",
+      "destination": "Pitam Pura",
+      "route_name": "red_line",
+      "color": "red",
+      "distance": 813.50,
+      "time": 97.623904956198245
+    },
+    {
+      "source": "Rohini West",
+      "destination": "Rohini East",
+      "route_name": "red_line",
+      "color": "red",
+      "distance": 1300,
+      "time": 156.00624024960999
+    },
+    {
+      "source": "Rithala",
+      "destination": "Rohini West",
+      "route_name": "red_line",
+      "color": "red",
+      "distance": 1050,
+      "time": 126.00504020160807
+    },
+    {
+      "source": "Samaypur Badli",
+      "destination": "Rohini Sector 18, 19",
+      "route_name": "yellow_line",
+      "color": "yellow",
+      "distance": 805.45,
+      "time": 96.657866314652594
+    },
+    {
+      "source": "Rohini Sector 18, 19",
+      "destination": "Haiderpur Badli Mor",
+      "route_name": "yellow_line",
+      "color": "yellow",
+      "distance": 1860,
+      "time": 223.20892835713428
+    },
+    {
+      "source": "Haiderpur Badli Mor",
+      "destination": "Jahangirpuri",
+      "route_name": "yellow_line",
+      "color": "yellow",
+      "distance": 1790,
+      "time": 214.80859234369373
+    },
+    {
+      "source": "Jahangirpuri",
+      "destination": "Adarsh Nagar",
+      "route_name": "yellow_line",
+      "color": "yellow",
+      "distance": 1300,
+      "time": 156.00624024960999
+    },
+    {
+      "source": "Adarsh Nagar",
+      "destination": "Azadpur",
+      "route_name": "yellow_line",
+      "color": "yellow",
+      "distance": 1440,
+      "time": 172.80691227649106
+    },
+    {
+      "source": "Azadpur",
+      "destination": "Model Town",
+      "route_name": "yellow_line",
+      "color": "yellow",
+      "distance": 1370,
+      "time": 164.40657626305051
+    },
+    {
+      "source": "Model Town",
+      "destination": "GTB Nagar",
+      "route_name": "yellow_line",
+      "color": "yellow",
+      "distance": 1290,
+      "time": 154.80619224768989
+    },
+    {
+      "source": "GTB Nagar",
+      "destination": "Viswavidyalaya",
+      "route_name": "yellow_line",
+      "color": "yellow",
+      "distance": 908,
+      "time": 108.96435857434297
+    },
+    {
+      "source": "Viswavidyalaya",
+      "destination": "Vidhan Sabha",
+      "route_name": "yellow_line",
+      "color": "yellow",
+      "distance": 1280,
+      "time": 153.60614424576983
+    },
+    {
+      "source": "Vidhan Sabha",
+      "destination": "Civil Lines",
+      "route_name": "yellow_line",
+      "color": "yellow",
+      "distance": 1150,
+      "time": 138.00552022080882
+    },
+    {
+      "source": "Civil Lines",
+      "destination": "Kashmere Gate",
+      "route_name": "yellow_line",
+      "color": "yellow",
+      "distance": 1160,
+      "time": 139.20556822272891
+    },
+    {
+      "source": "Kashmere Gate",
+      "destination": "Chandhni Chowk",
+      "route_name": "yellow_line",
+      "color": "yellow",
+      "distance": 1010,
+      "time": 121.20484819392776
+    },
+    {
+      "source": "Chandhni Chowk",
+      "destination": "Chawri Bazar",
+      "route_name": "yellow_line",
+      "color": "yellow",
+      "distance": 1200,
+      "time": 144.00576023040921
+    },
+    {
+      "source": "Chawri Bazar",
+      "destination": "NewDelhi",
+      "route_name": "yellow_line",
+      "color": "yellow",
+      "distance": 666.88,
+      "time": 80.028801152046086
+    },
+    {
+      "source": "NewDelhi",
+      "destination": "Rajiv Chowk",
+      "route_name": "yellow_line",
+      "color": "yellow",
+      "distance": 1290,
+      "time": 154.80619224768989
+    },
+    {
+      "source": "Rajiv Chowk",
+      "destination": "Patel Chowk",
+      "route_name": "yellow_line",
+      "color": "yellow",
+      "distance": 1200,
+      "time": 144.00576023040921
+    },
+    {
+      "source": "Patel Chowk",
+      "destination": "Central Secretariat",
+      "route_name": "yellow_line",
+      "color": "yellow",
+      "distance": 958,
+      "time": 114.96459858394336
+    },
+    {
+      "source": "Central Secretariat",
+      "destination": "Udyog Bhawan",
+      "route_name": "yellow_line",
+      "color": "yellow",
+      "distance": 493.67,
+      "time": 59.24276971078843
+    },
+    {
+      "source": "Udyog Bhawan",
+      "destination": "Lok Kalyan Marg",
+      "route_name": "yellow_line",
+      "color": "yellow",
+      "distance": 1450,
+      "time": 174.00696027841113
+    },
+    {
+      "source": "Lok Kalyan Marg",
+      "destination": "Jorbagh",
+      "route_name": "yellow_line",
+      "color": "yellow",
+      "distance": 1330,
+      "time": 159.60638425537022
+    },
+    {
+      "source": "Jorbagh",
+      "destination": "INA",
+      "route_name": "yellow_line",
+      "color": "yellow",
+      "distance": 1310,
+      "time": 157.20628825153005
+    },
+    {
+      "source": "INA",
+      "destination": "AIIMS",
+      "route_name": "yellow_line",
+      "color": "yellow",
+      "distance": 765,
+      "time": 91.803672146885873
+    },
+    {
+      "source": "AIIMS",
+      "destination": "Green Park",
+      "route_name": "yellow_line",
+      "color": "yellow",
+      "distance": 900,
+      "time": 108.00432017280691
+    },
+    {
+      "source": "Green Park",
+      "destination": "Hauz Khas",
+      "route_name": "yellow_line",
+      "color": "yellow",
+      "distance": 1850,
+      "time": 222.00888035521422
+    },
+    {
+      "source": "Hauz Khas",
+      "destination": "MalviaNagar",
+      "route_name": "yellow_line",
+      "color": "yellow",
+      "distance": 1650,
+      "time": 198.00792031681266
+    },
+    {
+      "source": "MalviaNagar",
+      "destination": "Saket",
+      "route_name": "yellow_line",
+      "color": "yellow",
+      "distance": 945,
+      "time": 113.40453618144726
+    },
+    {
+      "source": "Saket",
+      "destination": "Qutab Minar",
+      "route_name": "yellow_line",
+      "color": "yellow",
+      "distance": 1880,
+      "time": 225.60902436097444
+    },
+    {
+      "source": "Qutab Minar",
+      "destination": "Chhattarpur",
+      "route_name": "yellow_line",
+      "color": "yellow",
+      "distance": 1350,
+      "time": 162.00648025921038
+    },
+    {
+      "source": "Chhattarpur",
+      "destination": "Sultanpur",
+      "route_name": "yellow_line",
+      "color": "yellow",
+      "distance": 1600,
+      "time": 192.0076803072123
+    },
+    {
+      "source": "Sultanpur",
+      "destination": "Ghotorni",
+      "route_name": "yellow_line",
+      "color": "yellow",
+      "distance": 1350,
+      "time": 162.00648025921038
+    },
+    {
+      "source": "Ghotorni",
+      "destination": "Arjan Garh",
+      "route_name": "yellow_line",
+      "color": "yellow",
+      "distance": 2710,
+      "time": 325.21300852034079
+    },
+    {
+      "source": "Arjan Garh",
+      "destination": "Gurudronacharya",
+      "route_name": "yellow_line",
+      "color": "yellow",
+      "distance": 2500,
+      "time": 300.0120004800192
+    },
+    {
+      "source": "Gurudronacharya",
+      "destination": "Sikandarpur.",
+      "route_name": "yellow_line",
+      "color": "yellow",
+      "distance": 900,
+      "time": 108.00432017280691
+    },
+    {
+      "source": "Sikandarpur.",
+      "destination": "MG Road",
+      "route_name": "yellow_line",
+      "color": "yellow",
+      "distance": 1290,
+      "time": 154.80619224768989
+    },
+    {
+      "source": "MG Road",
+      "destination": "IFFCO Chowk",
+      "route_name": "yellow_line",
+      "color": "yellow",
+      "distance": 1400,
+      "time": 168.00672026881074
+    },
+    {
+      "source": "IFFCO Chowk",
+      "destination": "Huda City Centre",
+      "route_name": "yellow_line",
+      "color": "yellow",
+      "distance": 1500,
+      "time": 180.00720028801152
+    },
+    {
+      "source": "Rohini Sector 18, 19",
+      "destination": "Samaypur Badli",
+      "route_name": "yellow_line",
+      "color": "yellow",
+      "distance": 805.45,
+      "time": 96.657866314652594
+    },
+    {
+      "source": "Haiderpur Badli Mor",
+      "destination": "Rohini Sector 18, 19",
+      "route_name": "yellow_line",
+      "color": "yellow",
+      "distance": 1860,
+      "time": 223.20892835713428
+    },
+    {
+      "source": "Jahangirpuri",
+      "destination": "Haiderpur Badli Mor",
+      "route_name": "yellow_line",
+      "color": "yellow",
+      "distance": 1790,
+      "time": 214.80859234369373
+    },
+    {
+      "source": "Adarsh Nagar",
+      "destination": "Jahangirpuri",
+      "route_name": "yellow_line",
+      "color": "yellow",
+      "distance": 1300,
+      "time": 156.00624024960999
+    },
+    {
+      "source": "Azadpur",
+      "destination": "Adarsh Nagar",
+      "route_name": "yellow_line",
+      "color": "yellow",
+      "distance": 1440,
+      "time": 172.80691227649106
+    },
+    {
+      "source": "Model Town",
+      "destination": "Azadpur",
+      "route_name": "yellow_line",
+      "color": "yellow",
+      "distance": 1370,
+      "time": 164.40657626305051
+    },
+    {
+      "source": "GTB Nagar",
+      "destination": "Model Town",
+      "route_name": "yellow_line",
+      "color": "yellow",
+      "distance": 1290,
+      "time": 154.80619224768989
+    },
+    {
+      "source": "Viswavidyalaya",
+      "destination": "GTB Nagar",
+      "route_name": "yellow_line",
+      "color": "yellow",
+      "distance": 908,
+      "time": 108.96435857434297
+    },
+    {
+      "source": "Vidhan Sabha",
+      "destination": "Viswavidyalaya",
+      "route_name": "yellow_line",
+      "color": "yellow",
+      "distance": 1280,
+      "time": 153.60614424576983
+    },
+    {
+      "source": "Civil Lines",
+      "destination": "Vidhan Sabha",
+      "route_name": "yellow_line",
+      "color": "yellow",
+      "distance": 1150,
+      "time": 138.00552022080882
+    },
+    {
+      "source": "Kashmere Gate",
+      "destination": "Civil Lines",
+      "route_name": "yellow_line",
+      "color": "yellow",
+      "distance": 1160,
+      "time": 139.20556822272891
+    },
+    {
+      "source": "Chandhni Chowk",
+      "destination": "Kashmere Gate",
+      "route_name": "yellow_line",
+      "color": "yellow",
+      "distance": 1010,
+      "time": 121.20484819392776
+    },
+    {
+      "source": "Chawri Bazar",
+      "destination": "Chandhni Chowk",
+      "route_name": "yellow_line",
+      "color": "yellow",
+      "distance": 1200,
+      "time": 144.00576023040921
+    },
+    {
+      "source": "NewDelhi",
+      "destination": "Chawri Bazar",
+      "route_name": "yellow_line",
+      "color": "yellow",
+      "distance": 666.88,
+      "time": 80.028801152046086
+    },
+    {
+      "source": "Rajiv Chowk",
+      "destination": "NewDelhi",
+      "route_name": "yellow_line",
+      "color": "yellow",
+      "distance": 1290,
+      "time": 154.80619224768989
+    },
+    {
+      "source": "Patel Chowk",
+      "destination": "Rajiv Chowk",
+      "route_name": "yellow_line",
+      "color": "yellow",
+      "distance": 1200,
+      "time": 144.00576023040921
+    },
+    {
+      "source": "Central Secretariat",
+      "destination": "Patel Chowk",
+      "route_name": "yellow_line",
+      "color": "yellow",
+      "distance": 958,
+      "time": 114.96459858394336
+    },
+    {
+      "source": "Udyog Bhawan",
+      "destination": "Central Secretariat",
+      "route_name": "yellow_line",
+      "color": "yellow",
+      "distance": 493.67,
+      "time": 59.24276971078843
+    },
+    {
+      "source": "Lok Kalyan Marg",
+      "destination": "Udyog Bhawan",
+      "route_name": "yellow_line",
+      "color": "yellow",
+      "distance": 1450,
+      "time": 174.00696027841113
+    },
+    {
+      "source": "Jorbagh",
+      "destination": "Lok Kalyan Marg",
+      "route_name": "yellow_line",
+      "color": "yellow",
+      "distance": 1330,
+      "time": 159.60638425537022
+    },
+    {
+      "source": "INA",
+      "destination": "Jorbagh",
+      "route_name": "yellow_line",
+      "color": "yellow",
+      "distance": 1310,
+      "time": 157.20628825153005
+    },
+    {
+      "source": "AIIMS",
+      "destination": "INA",
+      "route_name": "yellow_line",
+      "color": "yellow",
+      "distance": 765,
+      "time": 91.803672146885873
+    },
+    {
+      "source": "Green Park",
+      "destination": "AIIMS",
+      "route_name": "yellow_line",
+      "color": "yellow",
+      "distance": 900,
+      "time": 108.00432017280691
+    },
+    {
+      "source": "Hauz Khas",
+      "destination": "Green Park",
+      "route_name": "yellow_line",
+      "color": "yellow",
+      "distance": 1850,
+      "time": 222.00888035521422
+    },
+    {
+      "source": "MalviaNagar",
+      "destination": "Hauz Khas",
+      "route_name": "yellow_line",
+      "color": "yellow",
+      "distance": 1650,
+      "time": 198.00792031681266
+    },
+    {
+      "source": "Saket",
+      "destination": "MalviaNagar",
+      "route_name": "yellow_line",
+      "color": "yellow",
+      "distance": 945,
+      "time": 113.40453618144726
+    },
+    {
+      "source": "Qutab Minar",
+      "destination": "Saket",
+      "route_name": "yellow_line",
+      "color": "yellow",
+      "distance": 1880,
+      "time": 225.60902436097444
+    },
+    {
+      "source": "Chhattarpur",
+      "destination": "Qutab Minar",
+      "route_name": "yellow_line",
+      "color": "yellow",
+      "distance": 1350,
+      "time": 162.00648025921038
+    },
+    {
+      "source": "Sultanpur",
+      "destination": "Chhattarpur",
+      "route_name": "yellow_line",
+      "color": "yellow",
+      "distance": 1600,
+      "time": 192.0076803072123
+    },
+    {
+      "source": "Ghotorni",
+      "destination": "Sultanpur",
+      "route_name": "yellow_line",
+      "color": "yellow",
+      "distance": 1350,
+      "time": 162.00648025921038
+    },
+    {
+      "source": "Arjan Garh",
+      "destination": "Ghotorni",
+      "route_name": "yellow_line",
+      "color": "yellow",
+      "distance": 2710,
+      "time": 325.21300852034079
+    },
+    {
+      "source": "Gurudronacharya",
+      "destination": "Arjan Garh",
+      "route_name": "yellow_line",
+      "color": "yellow",
+      "distance": 2500,
+      "time": 300.0120004800192
+    },
+    {
+      "source": "Sikandarpur.",
+      "destination": "Gurudronacharya",
+      "route_name": "yellow_line",
+      "color": "yellow",
+      "distance": 900,
+      "time": 108.00432017280691
+    },
+    {
+      "source": "MG Road",
+      "destination": "Sikandarpur.",
+      "route_name": "yellow_line",
+      "color": "yellow",
+      "distance": 1290,
+      "time": 154.80619224768989
+    },
+    {
+      "source": "IFFCO Chowk",
+      "destination": "MG Road",
+      "route_name": "yellow_line",
+      "color": "yellow",
+      "distance": 1400,
+      "time": 168.00672026881074
+    },
+    {
+      "source": "Huda City Centre",
+      "destination": "IFFCO Chowk",
+      "route_name": "yellow_line",
+      "color": "yellow",
+      "distance": 1500,
+      "time": 180.00720028801152
+    },
+    {
+      "source": "Noida Electronic City",
+      "destination": "Noida Sector 62",
+      "route_name": "blue_line",
+      "color": "blue",
+      "distance": 1220,
+      "time": 146.40585623424937
+    },
+    {
+      "source": "Noida Sector 62",
+      "destination": "Noida Sector 59",
+      "route_name": "blue_line",
+      "color": "blue",
+      "distance": 1170,
+      "time": 140.40561622464898
+    },
+    {
+      "source": "Noida Sector 59",
+      "destination": "Noida Sector 61",
+      "route_name": "blue_line",
+      "color": "blue",
+      "distance": 991,
+      "time": 118.9247569902796
+    },
+    {
+      "source": "Noida Sector 61",
+      "destination": "Noida Sector 52",
+      "route_name": "blue_line",
+      "color": "blue",
+      "distance": 1380,
+      "time": 165.60662426497061
+    },
+    {
+      "source": "Noida Sector 52",
+      "destination": "Noida Sector 34",
+      "route_name": "blue_line",
+      "color": "blue",
+      "distance": 1180,
+      "time": 141.60566422656905
+    },
+    {
+      "source": "Noida Sector 34",
+      "destination": "Noida City Centre",
+      "route_name": "blue_line",
+      "color": "blue",
+      "distance": 942,
+      "time": 113.04452178087124
+    },
+    {
+      "source": "Noida City Centre",
+      "destination": "Golf Course",
+      "route_name": "blue_line",
+      "color": "blue",
+      "distance": 1300,
+      "time": 156.00624024960999
+    },
+    {
+      "source": "Golf Course",
+      "destination": "Botanical Garden",
+      "route_name": "blue_line",
+      "color": "blue",
+      "distance": 1450,
+      "time": 174.00696027841113
+    },
+    {
+      "source": "Botanical Garden",
+      "destination": "Noida Sect 18",
+      "route_name": "blue_line",
+      "color": "blue",
+      "distance": 1080,
+      "time": 129.6051842073683
+    },
+    {
+      "source": "Noida Sect 18",
+      "destination": "Noida Sect 16",
+      "route_name": "blue_line",
+      "color": "blue",
+      "distance": 1180,
+      "time": 141.60566422656905
+    },
+    {
+      "source": "Noida Sect 16",
+      "destination": "Noida Sect 15",
+      "route_name": "blue_line",
+      "color": "blue",
+      "distance": 967.87,
+      "time": 116.14904596183847
+    },
+    {
+      "source": "Noida Sect 15",
+      "destination": "New Ashok Nagar",
+      "route_name": "blue_line",
+      "color": "blue",
+      "distance": 1160,
+      "time": 139.20556822272891
+    },
+    {
+      "source": "New Ashok Nagar",
+      "destination": "Mayur Vihar Ext",
+      "route_name": "blue_line",
+      "color": "blue",
+      "distance": 1040,
+      "time": 124.80499219968799
+    },
+    {
+      "source": "Mayur Vihar Ext",
+      "destination": "Mayur Vihar-I",
+      "route_name": "blue_line",
+      "color": "blue",
+      "distance": 1230,
+      "time": 147.60590423616944
+    },
+    {
+      "source": "Mayur Vihar-I",
+      "destination": "Akshardham",
+      "route_name": "blue_line",
+      "color": "blue",
+      "distance": 1840,
+      "time": 220.80883235329412
+    },
+    {
+      "source": "Akshardham",
+      "destination": "Yamuna Bank",
+      "route_name": "blue_line",
+      "color": "blue",
+      "distance": 1550,
+      "time": 186.00744029761191
+    },
+    {
+      "source": "Yamuna Bank",
+      "destination": "Indraprasta",
+      "route_name": "blue_line",
+      "color": "blue",
+      "distance": 1830,
+      "time": 219.60878435137406
+    },
+    {
+      "source": "Indraprasta",
+      "destination": "Supreme Court",
+      "route_name": "blue_line",
+      "color": "blue",
+      "distance": 780.30,
+      "time": 93.63974558982359
+    },
+    {
+      "source": "Supreme Court",
+      "destination": "Mandi House",
+      "route_name": "blue_line",
+      "color": "blue",
+      "distance": 1000,
+      "time": 120.00480019200768
+    },
+    {
+      "source": "Mandi House",
+      "destination": "Barakhamba",
+      "route_name": "blue_line",
+      "color": "blue",
+      "distance": 1020,
+      "time": 122.40489619584783
+    },
+    {
+      "source": "Barakhamba",
+      "destination": "Rajiv Chowk",
+      "route_name": "blue_line",
+      "color": "blue",
+      "distance": 569.33000000000004,
+      "time": 68.322332893315732
+    },
+    {
+      "source": "Rajiv Chowk",
+      "destination": "RK Ashram Marg",
+      "route_name": "blue_line",
+      "color": "blue",
+      "distance": 1310,
+      "time": 157.20628825153005
+    },
+    {
+      "source": "RK Ashram Marg",
+      "destination": "Jhandewalan",
+      "route_name": "blue_line",
+      "color": "blue",
+      "distance": 1020,
+      "time": 122.40489619584783
+    },
+    {
+      "source": "Jhandewalan",
+      "destination": "Karol Bagh",
+      "route_name": "blue_line",
+      "color": "blue",
+      "distance": 1150,
+      "time": 138.00552022080882
+    },
+    {
+      "source": "Karol Bagh",
+      "destination": "Rajendra Place",
+      "route_name": "blue_line",
+      "color": "blue",
+      "distance": 1010,
+      "time": 121.20484819392776
+    },
+    {
+      "source": "Rajendra Place",
+      "destination": "Patel Nagar",
+      "route_name": "blue_line",
+      "color": "blue",
+      "distance": 979.36,
+      "time": 117.52790111604465
+    },
+    {
+      "source": "Patel Nagar",
+      "destination": "Shadi Pur",
+      "route_name": "blue_line",
+      "color": "blue",
+      "distance": 1290,
+      "time": 154.80619224768989
+    },
+    {
+      "source": "Shadi Pur",
+      "destination": "Kirti Nagar",
+      "route_name": "blue_line",
+      "color": "blue",
+      "distance": 855,
+      "time": 102.60410416416657
+    },
+    {
+      "source": "Kirti Nagar",
+      "destination": "Moti Nagar",
+      "route_name": "blue_line",
+      "color": "blue",
+      "distance": 913.60,
+      "time": 109.63638545541822
+    },
+    {
+      "source": "Moti Nagar",
+      "destination": "Ramesh Nagar",
+      "route_name": "blue_line",
+      "color": "blue",
+      "distance": 1230,
+      "time": 147.60590423616944
+    },
+    {
+      "source": "Ramesh Nagar",
+      "destination": "Rajouri Garden",
+      "route_name": "blue_line",
+      "color": "blue",
+      "distance": 977.54,
+      "time": 117.30949237969519
+    },
+    {
+      "source": "Rajouri Garden",
+      "destination": "Tagore Garden",
+      "route_name": "blue_line",
+      "color": "blue",
+      "distance": 1130,
+      "time": 135.60542421696869
+    },
+    {
+      "source": "Tagore Garden",
+      "destination": "Subash Nagar",
+      "route_name": "blue_line",
+      "color": "blue",
+      "distance": 867.57,
+      "time": 104.11256450258011
+    },
+    {
+      "source": "Subash Nagar",
+      "destination": "Tilak Nagar",
+      "route_name": "blue_line",
+      "color": "blue",
+      "distance": 930.47,
+      "time": 111.66086643465739
+    },
+    {
+      "source": "Tilak Nagar",
+      "destination": "Janak Puri East",
+      "route_name": "blue_line",
+      "color": "blue",
+      "distance": 1030,
+      "time": 123.60494419776791
+    },
+    {
+      "source": "Janak Puri East",
+      "destination": "Janak Puri West",
+      "route_name": "blue_line",
+      "color": "blue",
+      "distance": 960.98,
+      "time": 115.32221288851554
+    },
+    {
+      "source": "Janak Puri West",
+      "destination": "Uttam Nagar East",
+      "route_name": "blue_line",
+      "color": "blue",
+      "distance": 1310,
+      "time": 157.20628825153005
+    },
+    {
+      "source": "Uttam Nagar East",
+      "destination": "Uttam Nagar West",
+      "route_name": "blue_line",
+      "color": "blue",
+      "distance": 994.92,
+      "time": 119.39517580703227
+    },
+    {
+      "source": "Uttam Nagar West",
+      "destination": "Nawada",
+      "route_name": "blue_line",
+      "color": "blue",
+      "distance": 1060,
+      "time": 127.20508820352813
+    },
+    {
+      "source": "Nawada",
+      "destination": "Dwaraka Mor",
+      "route_name": "blue_line",
+      "color": "blue",
+      "distance": 1150,
+      "time": 138.00552022080882
+    },
+    {
+      "source": "Dwaraka Mor",
+      "destination": "Dwarka",
+      "route_name": "blue_line",
+      "color": "blue",
+      "distance": 1350,
+      "time": 162.00648025921038
+    },
+    {
+      "source": "Dwarka",
+      "destination": "Dwarka Sector - 14",
+      "route_name": "blue_line",
+      "color": "blue",
+      "distance": 1540,
+      "time": 184.80739229569181
+    },
+    {
+      "source": "Dwarka Sector - 14",
+      "destination": "Dwarka Sector - 13",
+      "route_name": "blue_line",
+      "color": "blue",
+      "distance": 910.61,
+      "time": 109.27757110284411
+    },
+    {
+      "source": "Dwarka Sector - 13",
+      "destination": "Dwarka Sector - 12",
+      "route_name": "blue_line",
+      "color": "blue",
+      "distance": 895.31,
+      "time": 107.44149765990639
+    },
+    {
+      "source": "Dwarka Sector - 12",
+      "destination": "Dwarka Sector - 11",
+      "route_name": "blue_line",
+      "color": "blue",
+      "distance": 1080,
+      "time": 129.6051842073683
+    },
+    {
+      "source": "Dwarka Sector - 11",
+      "destination": "Dwarka Sector - 10",
+      "route_name": "blue_line",
+      "color": "blue",
+      "distance": 988,
+      "time": 118.56474258970358
+    },
+    {
+      "source": "Dwarka Sector - 10",
+      "destination": "Dwarka Sector - 9",
+      "route_name": "blue_line",
+      "color": "blue",
+      "distance": 1090,
+      "time": 130.80523220928836
+    },
+    {
+      "source": "Dwarka Sector - 9",
+      "destination": "Dwarka Sector - 8",
+      "route_name": "blue_line",
+      "color": "blue",
+      "distance": 988.85,
+      "time": 118.6667466698668
+    },
+    {
+      "source": "Dwarka Sector - 8",
+      "destination": "Dwarka Sector - 21",
+      "route_name": "blue_line",
+      "color": "blue",
+      "distance": 1750,
+      "time": 210.00840033601344
+    },
+    {
+      "source": "Noida Sector 62",
+      "destination": "Noida Electronic City",
+      "route_name": "blue_line",
+      "color": "blue",
+      "distance": 1220,
+      "time": 146.40585623424937
+    },
+    {
+      "source": "Noida Sector 59",
+      "destination": "Noida Sector 62",
+      "route_name": "blue_line",
+      "color": "blue",
+      "distance": 1170,
+      "time": 140.40561622464898
+    },
+    {
+      "source": "Noida Sector 61",
+      "destination": "Noida Sector 59",
+      "route_name": "blue_line",
+      "color": "blue",
+      "distance": 991,
+      "time": 118.9247569902796
+    },
+    {
+      "source": "Noida Sector 52",
+      "destination": "Noida Sector 61",
+      "route_name": "blue_line",
+      "color": "blue",
+      "distance": 1380,
+      "time": 165.60662426497061
+    },
+    {
+      "source": "Noida Sector 34",
+      "destination": "Noida Sector 52",
+      "route_name": "blue_line",
+      "color": "blue",
+      "distance": 1180,
+      "time": 141.60566422656905
+    },
+    {
+      "source": "Noida City Centre",
+      "destination": "Noida Sector 34",
+      "route_name": "blue_line",
+      "color": "blue",
+      "distance": 942,
+      "time": 113.04452178087124
+    },
+    {
+      "source": "Golf Course",
+      "destination": "Noida City Centre",
+      "route_name": "blue_line",
+      "color": "blue",
+      "distance": 1300,
+      "time": 156.00624024960999
+    },
+    {
+      "source": "Botanical Garden",
+      "destination": "Golf Course",
+      "route_name": "blue_line",
+      "color": "blue",
+      "distance": 1450,
+      "time": 174.00696027841113
+    },
+    {
+      "source": "Noida Sect 18",
+      "destination": "Botanical Garden",
+      "route_name": "blue_line",
+      "color": "blue",
+      "distance": 1080,
+      "time": 129.6051842073683
+    },
+    {
+      "source": "Noida Sect 16",
+      "destination": "Noida Sect 18",
+      "route_name": "blue_line",
+      "color": "blue",
+      "distance": 1180,
+      "time": 141.60566422656905
+    },
+    {
+      "source": "Noida Sect 15",
+      "destination": "Noida Sect 16",
+      "route_name": "blue_line",
+      "color": "blue",
+      "distance": 967.87,
+      "time": 116.14904596183847
+    },
+    {
+      "source": "New Ashok Nagar",
+      "destination": "Noida Sect 15",
+      "route_name": "blue_line",
+      "color": "blue",
+      "distance": 1160,
+      "time": 139.20556822272891
+    },
+    {
+      "source": "Mayur Vihar Ext",
+      "destination": "New Ashok Nagar",
+      "route_name": "blue_line",
+      "color": "blue",
+      "distance": 1040,
+      "time": 124.80499219968799
+    },
+    {
+      "source": "Mayur Vihar-I",
+      "destination": "Mayur Vihar Ext",
+      "route_name": "blue_line",
+      "color": "blue",
+      "distance": 1230,
+      "time": 147.60590423616944
+    },
+    {
+      "source": "Akshardham",
+      "destination": "Mayur Vihar-I",
+      "route_name": "blue_line",
+      "color": "blue",
+      "distance": 1840,
+      "time": 220.80883235329412
+    },
+    {
+      "source": "Yamuna Bank",
+      "destination": "Akshardham",
+      "route_name": "blue_line",
+      "color": "blue",
+      "distance": 1550,
+      "time": 186.00744029761191
+    },
+    {
+      "source": "Indraprasta",
+      "destination": "Yamuna Bank",
+      "route_name": "blue_line",
+      "color": "blue",
+      "distance": 1830,
+      "time": 219.60878435137406
+    },
+    {
+      "source": "Supreme Court",
+      "destination": "Indraprasta",
+      "route_name": "blue_line",
+      "color": "blue",
+      "distance": 780.30,
+      "time": 93.63974558982359
+    },
+    {
+      "source": "Mandi House",
+      "destination": "Supreme Court",
+      "route_name": "blue_line",
+      "color": "blue",
+      "distance": 1000,
+      "time": 120.00480019200768
+    },
+    {
+      "source": "Barakhamba",
+      "destination": "Mandi House",
+      "route_name": "blue_line",
+      "color": "blue",
+      "distance": 1020,
+      "time": 122.40489619584783
+    },
+    {
+      "source": "Rajiv Chowk",
+      "destination": "Barakhamba",
+      "route_name": "blue_line",
+      "color": "blue",
+      "distance": 569.33000000000004,
+      "time": 68.322332893315732
+    },
+    {
+      "source": "RK Ashram Marg",
+      "destination": "Rajiv Chowk",
+      "route_name": "blue_line",
+      "color": "blue",
+      "distance": 1310,
+      "time": 157.20628825153005
+    },
+    {
+      "source": "Jhandewalan",
+      "destination": "RK Ashram Marg",
+      "route_name": "blue_line",
+      "color": "blue",
+      "distance": 1020,
+      "time": 122.40489619584783
+    },
+    {
+      "source": "Karol Bagh",
+      "destination": "Jhandewalan",
+      "route_name": "blue_line",
+      "color": "blue",
+      "distance": 1150,
+      "time": 138.00552022080882
+    },
+    {
+      "source": "Rajendra Place",
+      "destination": "Karol Bagh",
+      "route_name": "blue_line",
+      "color": "blue",
+      "distance": 1010,
+      "time": 121.20484819392776
+    },
+    {
+      "source": "Patel Nagar",
+      "destination": "Rajendra Place",
+      "route_name": "blue_line",
+      "color": "blue",
+      "distance": 979.36,
+      "time": 117.52790111604465
+    },
+    {
+      "source": "Shadi Pur",
+      "destination": "Patel Nagar",
+      "route_name": "blue_line",
+      "color": "blue",
+      "distance": 1290,
+      "time": 154.80619224768989
+    },
+    {
+      "source": "Kirti Nagar",
+      "destination": "Shadi Pur",
+      "route_name": "blue_line",
+      "color": "blue",
+      "distance": 855,
+      "time": 102.60410416416657
+    },
+    {
+      "source": "Moti Nagar",
+      "destination": "Kirti Nagar",
+      "route_name": "blue_line",
+      "color": "blue",
+      "distance": 913.60,
+      "time": 109.63638545541822
+    },
+    {
+      "source": "Ramesh Nagar",
+      "destination": "Moti Nagar",
+      "route_name": "blue_line",
+      "color": "blue",
+      "distance": 1230,
+      "time": 147.60590423616944
+    },
+    {
+      "source": "Rajouri Garden",
+      "destination": "Ramesh Nagar",
+      "route_name": "blue_line",
+      "color": "blue",
+      "distance": 977.54,
+      "time": 117.30949237969519
+    },
+    {
+      "source": "Tagore Garden",
+      "destination": "Rajouri Garden",
+      "route_name": "blue_line",
+      "color": "blue",
+      "distance": 1130,
+      "time": 135.60542421696869
+    },
+    {
+      "source": "Subash Nagar",
+      "destination": "Tagore Garden",
+      "route_name": "blue_line",
+      "color": "blue",
+      "distance": 867.57,
+      "time": 104.11256450258011
+    },
+    {
+      "source": "Tilak Nagar",
+      "destination": "Subash Nagar",
+      "route_name": "blue_line",
+      "color": "blue",
+      "distance": 930.47,
+      "time": 111.66086643465739
+    },
+    {
+      "source": "Janak Puri East",
+      "destination": "Tilak Nagar",
+      "route_name": "blue_line",
+      "color": "blue",
+      "distance": 1030,
+      "time": 123.60494419776791
+    },
+    {
+      "source": "Janak Puri West",
+      "destination": "Janak Puri East",
+      "route_name": "blue_line",
+      "color": "blue",
+      "distance": 960.98,
+      "time": 115.32221288851554
+    },
+    {
+      "source": "Uttam Nagar East",
+      "destination": "Janak Puri West",
+      "route_name": "blue_line",
+      "color": "blue",
+      "distance": 1310,
+      "time": 157.20628825153005
+    },
+    {
+      "source": "Uttam Nagar West",
+      "destination": "Uttam Nagar East",
+      "route_name": "blue_line",
+      "color": "blue",
+      "distance": 994.92,
+      "time": 119.39517580703227
+    },
+    {
+      "source": "Nawada",
+      "destination": "Uttam Nagar West",
+      "route_name": "blue_line",
+      "color": "blue",
+      "distance": 1060,
+      "time": 127.20508820352813
+    },
+    {
+      "source": "Dwaraka Mor",
+      "destination": "Nawada",
+      "route_name": "blue_line",
+      "color": "blue",
+      "distance": 1150,
+      "time": 138.00552022080882
+    },
+    {
+      "source": "Dwarka",
+      "destination": "Dwaraka Mor",
+      "route_name": "blue_line",
+      "color": "blue",
+      "distance": 1350,
+      "time": 162.00648025921038
+    },
+    {
+      "source": "Dwarka Sector - 14",
+      "destination": "Dwarka",
+      "route_name": "blue_line",
+      "color": "blue",
+      "distance": 1540,
+      "time": 184.80739229569181
+    },
+    {
+      "source": "Dwarka Sector - 13",
+      "destination": "Dwarka Sector - 14",
+      "route_name": "blue_line",
+      "color": "blue",
+      "distance": 910.61,
+      "time": 109.27757110284411
+    },
+    {
+      "source": "Dwarka Sector - 12",
+      "destination": "Dwarka Sector - 13",
+      "route_name": "blue_line",
+      "color": "blue",
+      "distance": 895.31,
+      "time": 107.44149765990639
+    },
+    {
+      "source": "Dwarka Sector - 11",
+      "destination": "Dwarka Sector - 12",
+      "route_name": "blue_line",
+      "color": "blue",
+      "distance": 1080,
+      "time": 129.6051842073683
+    },
+    {
+      "source": "Dwarka Sector - 10",
+      "destination": "Dwarka Sector - 11",
+      "route_name": "blue_line",
+      "color": "blue",
+      "distance": 988,
+      "time": 118.56474258970358
+    },
+    {
+      "source": "Dwarka Sector - 9",
+      "destination": "Dwarka Sector - 10",
+      "route_name": "blue_line",
+      "color": "blue",
+      "distance": 1090,
+      "time": 130.80523220928836
+    },
+    {
+      "source": "Dwarka Sector - 8",
+      "destination": "Dwarka Sector - 9",
+      "route_name": "blue_line",
+      "color": "blue",
+      "distance": 988.85,
+      "time": 118.6667466698668
+    },
+    {
+      "source": "Dwarka Sector - 21",
+      "destination": "Dwarka Sector - 8",
+      "route_name": "blue_line",
+      "color": "blue",
+      "distance": 1750,
+      "time": 210.00840033601344
+    },
+    {
+      "source": "New Delhi",
+      "destination": "Shivaji Stadium",
+      "route_name": "airport_express",
+      "color": "orange",
+      "distance": 1930,
+      "time": 231.60926437057481
+    },
+    {
+      "source": "Shivaji Stadium",
+      "destination": "Dhaula Kuan",
+      "route_name": "airport_express",
+      "color": "orange",
+      "distance": 6730,
+      "time": 807.63230529221164
+    },
+    {
+      "source": "Dhaula Kuan",
+      "destination": "Delhi Aerocity",
+      "route_name": "airport_express",
+      "color": "orange",
+      "distance": 6910,
+      "time": 829.23316932677301
+    },
+    {
+      "source": "Delhi Aerocity",
+      "destination": "IGI Airport",
+      "route_name": "airport_express",
+      "color": "orange",
+      "distance": 3420,
+      "time": 410.41641665666629
+    },
+    {
+      "source": "IGI Airport",
+      "destination": "Dwarka Sector 21",
+      "route_name": "airport_express",
+      "color": "orange",
+      "distance": 3280,
+      "time": 393.61574462978518
+    },
+    {
+      "source": "Shivaji Stadium",
+      "destination": "New Delhi",
+      "route_name": "airport_express",
+      "color": "orange",
+      "distance": 1930,
+      "time": 231.60926437057481
+    },
+    {
+      "source": "Dhaula Kuan",
+      "destination": "Shivaji Stadium",
+      "route_name": "airport_express",
+      "color": "orange",
+      "distance": 6730,
+      "time": 807.63230529221164
+    },
+    {
+      "source": "Delhi Aerocity",
+      "destination": "Dhaula Kuan",
+      "route_name": "airport_express",
+      "color": "orange",
+      "distance": 6910,
+      "time": 829.23316932677301
+    },
+    {
+      "source": "IGI Airport",
+      "destination": "Delhi Aerocity",
+      "route_name": "airport_express",
+      "color": "orange",
+      "distance": 3420,
+      "time": 410.41641665666629
+    },
+    {
+      "source": "Dwarka Sector 21",
+      "destination": "IGI Airport",
+      "route_name": "airport_express",
+      "color": "orange",
+      "distance": 3280,
+      "time": 393.61574462978518
+    },
+    {
+      "source": "Kirti Nagar",
+      "destination": "Satguru Ram Singh Marg",
+      "route_name": "green_line",
+      "color": "green",
+      "distance": 981.41,
+      "time": 117.77391095643826
+    },
+    {
+      "source": "Satguru Ram Singh Marg",
+      "destination": "Ashok Park Main",
+      "route_name": "green_line",
+      "color": "green",
+      "distance": 1990,
+      "time": 238.80955238209529
+    },
+    {
+      "source": "Ashok Park Main",
+      "destination": "Punjabi Bagh",
+      "route_name": "green_line",
+      "color": "green",
+      "distance": 907.34,
+      "time": 108.88515540621626
+    },
+    {
+      "source": "Punjabi Bagh",
+      "destination": "Punjabi Bagh West",
+      "route_name": "green_line",
+      "color": "green",
+      "distance": 651.37,
+      "time": 78.167526701068041
+    },
+    {
+      "source": "Punjabi Bagh West",
+      "destination": "Shivaji Park",
+      "route_name": "green_line",
+      "color": "green",
+      "distance": 877.10,
+      "time": 105.25621024840994
+    },
+    {
+      "source": "Shivaji Park",
+      "destination": "Madipur",
+      "route_name": "green_line",
+      "color": "green",
+      "distance": 1070,
+      "time": 128.4051362054482
+    },
+    {
+      "source": "Madipur",
+      "destination": "Paschim Vihar East",
+      "route_name": "green_line",
+      "color": "green",
+      "distance": 724.30,
+      "time": 86.919476779071161
+    },
+    {
+      "source": "Paschim Vihar East",
+      "destination": "Paschim Vihar West",
+      "route_name": "green_line",
+      "color": "green",
+      "distance": 994.45,
+      "time": 119.33877355094204
+    },
+    {
+      "source": "Paschim Vihar West",
+      "destination": "Peera Garhi",
+      "route_name": "green_line",
+      "color": "green",
+      "distance": 939,
+      "time": 112.68450738029522
+    },
+    {
+      "source": "Peera Garhi",
+      "destination": "Udyog Nagar",
+      "route_name": "green_line",
+      "color": "green",
+      "distance": 1170,
+      "time": 140.40561622464898
+    },
+    {
+      "source": "Udyog Nagar",
+      "destination": "Surajmal Stadium",
+      "route_name": "green_line",
+      "color": "green",
+      "distance": 686,
+      "time": 82.323292931717262
+    },
+    {
+      "source": "Surajmal Stadium",
+      "destination": "Nangloi",
+      "route_name": "green_line",
+      "color": "green",
+      "distance": 899.22,
+      "time": 107.91071642865715
+    },
+    {
+      "source": "Nangloi",
+      "destination": "Nangloi Railway Station",
+      "route_name": "green_line",
+      "color": "green",
+      "distance": 832.37,
+      "time": 99.888395535821431
+    },
+    {
+      "source": "Nangloi Railway Station",
+      "destination": "Rajdhani Park",
+      "route_name": "green_line",
+      "color": "green",
+      "distance": 1190,
+      "time": 142.80571222848914
+    },
+    {
+      "source": "Rajdhani Park",
+      "destination": "Mundka",
+      "route_name": "green_line",
+      "color": "green",
+      "distance": 1330,
+      "time": 159.60638425537022
+    },
+    {
+      "source": "Mundka",
+      "destination": "Mundka Industrial Area (MIA)",
+      "route_name": "green_line",
+      "color": "green",
+      "distance": 1290,
+      "time": 154.80619224768989
+    },
+    {
+      "source": "Mundka Industrial Area (MIA)",
+      "destination": "Ghevra",
+      "route_name": "green_line",
+      "color": "green",
+      "distance": 2060,
+      "time": 247.20988839553581
+    },
+    {
+      "source": "Ghevra",
+      "destination": "Tikri Kalan",
+      "route_name": "green_line",
+      "color": "green",
+      "distance": 1850,
+      "time": 222.00888035521422
+    },
+    {
+      "source": "Tikri Kalan",
+      "destination": "Tikri Border",
+      "route_name": "green_line",
+      "color": "green",
+      "distance": 1290,
+      "time": 154.80619224768989
+    },
+    {
+      "source": "Tikri Border",
+      "destination": "Pandit Shree Ram Sharma",
+      "route_name": "green_line",
+      "color": "green",
+      "distance": 1270,
+      "time": 152.40609624384976
+    },
+    {
+      "source": "Pandit Shree Ram Sharma",
+      "destination": "Bahadurgarh City",
+      "route_name": "green_line",
+      "color": "green",
+      "distance": 1550,
+      "time": 186.00744029761191
+    },
+    {
+      "source": "Bahadurgarh City",
+      "destination": "Brigadier Hoshiyar Singh",
+      "route_name": "green_line",
+      "color": "green",
+      "distance": 1760,
+      "time": 211.2084483379335
+    },
+    {
+      "source": "Satguru Ram Singh Marg",
+      "destination": "Kirti Nagar",
+      "route_name": "green_line",
+      "color": "green",
+      "distance": 981.41,
+      "time": 117.77391095643826
+    },
+    {
+      "source": "Ashok Park Main",
+      "destination": "Satguru Ram Singh Marg",
+      "route_name": "green_line",
+      "color": "green",
+      "distance": 1990,
+      "time": 238.80955238209529
+    },
+    {
+      "source": "Punjabi Bagh",
+      "destination": "Ashok Park Main",
+      "route_name": "green_line",
+      "color": "green",
+      "distance": 907.34,
+      "time": 108.88515540621626
+    },
+    {
+      "source": "Punjabi Bagh West",
+      "destination": "Punjabi Bagh",
+      "route_name": "green_line",
+      "color": "green",
+      "distance": 651.37,
+      "time": 78.167526701068041
+    },
+    {
+      "source": "Shivaji Park",
+      "destination": "Punjabi Bagh West",
+      "route_name": "green_line",
+      "color": "green",
+      "distance": 877.10,
+      "time": 105.25621024840994
+    },
+    {
+      "source": "Madipur",
+      "destination": "Shivaji Park",
+      "route_name": "green_line",
+      "color": "green",
+      "distance": 1070,
+      "time": 128.4051362054482
+    },
+    {
+      "source": "Paschim Vihar East",
+      "destination": "Madipur",
+      "route_name": "green_line",
+      "color": "green",
+      "distance": 724.30,
+      "time": 86.919476779071161
+    },
+    {
+      "source": "Paschim Vihar West",
+      "destination": "Paschim Vihar East",
+      "route_name": "green_line",
+      "color": "green",
+      "distance": 994.45,
+      "time": 119.33877355094204
+    },
+    {
+      "source": "Peera Garhi",
+      "destination": "Paschim Vihar West",
+      "route_name": "green_line",
+      "color": "green",
+      "distance": 939,
+      "time": 112.68450738029522
+    },
+    {
+      "source": "Udyog Nagar",
+      "destination": "Peera Garhi",
+      "route_name": "green_line",
+      "color": "green",
+      "distance": 1170,
+      "time": 140.40561622464898
+    },
+    {
+      "source": "Surajmal Stadium",
+      "destination": "Udyog Nagar",
+      "route_name": "green_line",
+      "color": "green",
+      "distance": 686,
+      "time": 82.323292931717262
+    },
+    {
+      "source": "Nangloi",
+      "destination": "Surajmal Stadium",
+      "route_name": "green_line",
+      "color": "green",
+      "distance": 899.22,
+      "time": 107.91071642865715
+    },
+    {
+      "source": "Nangloi Railway Station",
+      "destination": "Nangloi",
+      "route_name": "green_line",
+      "color": "green",
+      "distance": 832.37,
+      "time": 99.888395535821431
+    },
+    {
+      "source": "Rajdhani Park",
+      "destination": "Nangloi Railway Station",
+      "route_name": "green_line",
+      "color": "green",
+      "distance": 1190,
+      "time": 142.80571222848914
+    },
+    {
+      "source": "Mundka",
+      "destination": "Rajdhani Park",
+      "route_name": "green_line",
+      "color": "green",
+      "distance": 1330,
+      "time": 159.60638425537022
+    },
+    {
+      "source": "Mundka Industrial Area (MIA)",
+      "destination": "Mundka",
+      "route_name": "green_line",
+      "color": "green",
+      "distance": 1290,
+      "time": 154.80619224768989
+    },
+    {
+      "source": "Ghevra",
+      "destination": "Mundka Industrial Area (MIA)",
+      "route_name": "green_line",
+      "color": "green",
+      "distance": 2060,
+      "time": 247.20988839553581
+    },
+    {
+      "source": "Tikri Kalan",
+      "destination": "Ghevra",
+      "route_name": "green_line",
+      "color": "green",
+      "distance": 1850,
+      "time": 222.00888035521422
+    },
+    {
+      "source": "Tikri Border",
+      "destination": "Tikri Kalan",
+      "route_name": "green_line",
+      "color": "green",
+      "distance": 1290,
+      "time": 154.80619224768989
+    },
+    {
+      "source": "Pandit Shree Ram Sharma",
+      "destination": "Tikri Border",
+      "route_name": "green_line",
+      "color": "green",
+      "distance": 1270,
+      "time": 152.40609624384976
+    },
+    {
+      "source": "Bahadurgarh City",
+      "destination": "Pandit Shree Ram Sharma",
+      "route_name": "green_line",
+      "color": "green",
+      "distance": 1550,
+      "time": 186.00744029761191
+    },
+    {
+      "source": "Brigadier Hoshiyar Singh",
+      "destination": "Bahadurgarh City",
+      "route_name": "green_line",
+      "color": "green",
+      "distance": 1760,
+      "time": 211.2084483379335
+    },
+    {
+      "source": "Ashok Park Main",
+      "destination": "Inderlok",
+      "route_name": "green_line",
+      "color": "green",
+      "distance": 1600,
+      "time": 192.0076803072123
+    },
+    {
+      "source": "Inderlok",
+      "destination": "Ashok Park Main",
+      "route_name": "green_line",
+      "color": "green",
+      "distance": 1600,
+      "time": 192.0076803072123
+    },
+    {
+      "source": "Yamuna Bank",
+      "destination": "Laxmi Nagar",
+      "route_name": "blue_line_branch",
+      "color": "blue",
+      "distance": 1300,
+      "time": 156.00624024960999
+    },
+    {
+      "source": "Laxmi Nagar",
+      "destination": "Nirman Vihar",
+      "route_name": "blue_line_branch",
+      "color": "blue",
+      "distance": 1120,
+      "time": 134.40537621504859
+    },
+    {
+      "source": "Nirman Vihar",
+      "destination": "Preet Vihar",
+      "route_name": "blue_line_branch",
+      "color": "blue",
+      "distance": 1010,
+      "time": 121.20484819392776
+    },
+    {
+      "source": "Preet Vihar",
+      "destination": "Karkar Duma",
+      "route_name": "blue_line_branch",
+      "color": "blue",
+      "distance": 1260,
+      "time": 151.20604824192966
+    },
+    {
+      "source": "Karkar Duma",
+      "destination": "Anand Vihar",
+      "route_name": "blue_line_branch",
+      "color": "blue",
+      "distance": 1040,
+      "time": 124.80499219968799
+    },
+    {
+      "source": "Anand Vihar",
+      "destination": "Kaushambi",
+      "route_name": "blue_line_branch",
+      "color": "blue",
+      "distance": 874.72,
+      "time": 104.97059882395295
+    },
+    {
+      "source": "Kaushambi",
+      "destination": "Vaishali",
+      "route_name": "blue_line_branch",
+      "color": "blue",
+      "distance": 1630,
+      "time": 195.60782431297253
+    },
+    {
+      "source": "Laxmi Nagar",
+      "destination": "Yamuna Bank",
+      "route_name": "blue_line_branch",
+      "color": "blue",
+      "distance": 1300,
+      "time": 156.00624024960999
+    },
+    {
+      "source": "Nirman Vihar",
+      "destination": "Laxmi Nagar",
+      "route_name": "blue_line_branch",
+      "color": "blue",
+      "distance": 1120,
+      "time": 134.40537621504859
+    },
+    {
+      "source": "Preet Vihar",
+      "destination": "Nirman Vihar",
+      "route_name": "blue_line_branch",
+      "color": "blue",
+      "distance": 1010,
+      "time": 121.20484819392776
+    },
+    {
+      "source": "Karkar Duma",
+      "destination": "Preet Vihar",
+      "route_name": "blue_line_branch",
+      "color": "blue",
+      "distance": 1260,
+      "time": 151.20604824192966
+    },
+    {
+      "source": "Anand Vihar",
+      "destination": "Karkar Duma",
+      "route_name": "blue_line_branch",
+      "color": "blue",
+      "distance": 1040,
+      "time": 124.80499219968799
+    },
+    {
+      "source": "Kaushambi",
+      "destination": "Anand Vihar",
+      "route_name": "blue_line_branch",
+      "color": "blue",
+      "distance": 874.72,
+      "time": 104.97059882395295
+    },
+    {
+      "source": "Vaishali",
+      "destination": "Kaushambi",
+      "route_name": "blue_line_branch",
+      "color": "blue",
+      "distance": 1630,
+      "time": 195.60782431297253
+    },
+    {
+      "source": "Kashmere Gate",
+      "destination": "Lal Qila",
+      "route_name": "violet_line",
+      "color": "violet",
+      "distance": 1490,
+      "time": 178.80715228609145
+    },
+    {
+      "source": "Lal Qila",
+      "destination": "Jama Masjid",
+      "route_name": "violet_line",
+      "color": "violet",
+      "distance": 859.13,
+      "time": 103.09972398895955
+    },
+    {
+      "source": "Jama Masjid",
+      "destination": "Delhi Gate",
+      "route_name": "violet_line",
+      "color": "violet",
+      "distance": 1130,
+      "time": 135.60542421696869
+    },
+    {
+      "source": "Delhi Gate",
+      "destination": "ITO",
+      "route_name": "violet_line",
+      "color": "violet",
+      "distance": 1310,
+      "time": 157.20628825153005
+    },
+    {
+      "source": "ITO",
+      "destination": "Mandi House",
+      "route_name": "violet_line",
+      "color": "violet",
+      "distance": 916.60,
+      "time": 109.99639985599424
+    },
+    {
+      "source": "Mandi House",
+      "destination": "Janpath",
+      "route_name": "violet_line",
+      "color": "violet",
+      "distance": 1470,
+      "time": 176.40705628225129
+    },
+    {
+      "source": "Janpath",
+      "destination": "Central Secretariat",
+      "route_name": "violet_line",
+      "color": "violet",
+      "distance": 1440,
+      "time": 172.80691227649106
+    },
+    {
+      "source": "Central Secretariat",
+      "destination": "Khan Market",
+      "route_name": "violet_line",
+      "color": "violet",
+      "distance": 2430,
+      "time": 291.61166446657865
+    },
+    {
+      "source": "Khan Market",
+      "destination": "Jawaharlal Nehru Stadium",
+      "route_name": "violet_line",
+      "color": "violet",
+      "distance": 1500,
+      "time": 180.00720028801152
+    },
+    {
+      "source": "Jawaharlal Nehru Stadium",
+      "destination": "Jangpura",
+      "route_name": "violet_line",
+      "color": "violet",
+      "distance": 976.17,
+      "time": 117.14508580343212
+    },
+    {
+      "source": "Jangpura",
+      "destination": "Lajpat Nagar",
+      "route_name": "violet_line",
+      "color": "violet",
+      "distance": 1490,
+      "time": 178.80715228609145
+    },
+    {
+      "source": "Lajpat Nagar",
+      "destination": "Moolchand",
+      "route_name": "violet_line",
+      "color": "violet",
+      "distance": 755.46,
+      "time": 90.658826353054124
+    },
+    {
+      "source": "Moolchand",
+      "destination": "Kailash Colony",
+      "route_name": "violet_line",
+      "color": "violet",
+      "distance": 1300,
+      "time": 156.00624024960999
+    },
+    {
+      "source": "Kailash Colony",
+      "destination": "Nehru Place",
+      "route_name": "violet_line",
+      "color": "violet",
+      "distance": 1090,
+      "time": 130.80523220928836
+    },
+    {
+      "source": "Nehru Place",
+      "destination": "Kalkaji Mandir",
+      "route_name": "violet_line",
+      "color": "violet",
+      "distance": 864.58,
+      "time": 103.753750150006
+    },
+    {
+      "source": "Kalkaji Mandir",
+      "destination": "Govind Puri",
+      "route_name": "violet_line",
+      "color": "violet",
+      "distance": 769.77,
+      "time": 92.376095043801755
+    },
+    {
+      "source": "Govind Puri",
+      "destination": "Harkesh Nagar",
+      "route_name": "violet_line",
+      "color": "violet",
+      "distance": 1380,
+      "time": 165.60662426497061
+    },
+    {
+      "source": "Harkesh Nagar",
+      "destination": "Jasola Apollo",
+      "route_name": "violet_line",
+      "color": "violet",
+      "distance": 1170,
+      "time": 140.40561622464898
+    },
+    {
+      "source": "Jasola Apollo",
+      "destination": "Sarita Vihar",
+      "route_name": "violet_line",
+      "color": "violet",
+      "distance": 1140,
+      "time": 136.80547221888875
+    },
+    {
+      "source": "Sarita Vihar",
+      "destination": "Mohan Estate",
+      "route_name": "violet_line",
+      "color": "violet",
+      "distance": 1220,
+      "time": 146.40585623424937
+    },
+    {
+      "source": "Mohan Estate",
+      "destination": "Tughlakabad",
+      "route_name": "violet_line",
+      "color": "violet",
+      "distance": 2020,
+      "time": 242.40969638785552
+    },
+    {
+      "source": "Tughlakabad",
+      "destination": "Badarpur",
+      "route_name": "violet_line",
+      "color": "violet",
+      "distance": 1190,
+      "time": 142.80571222848914
+    },
+    {
+      "source": "Badarpur",
+      "destination": "Sarai",
+      "route_name": "violet_line",
+      "color": "violet",
+      "distance": 1690,
+      "time": 202.80811232449298
+    },
+    {
+      "source": "Sarai",
+      "destination": "NHPC Chowk",
+      "route_name": "violet_line",
+      "color": "violet",
+      "distance": 2300,
+      "time": 276.01104044161764
+    },
+    {
+      "source": "NHPC Chowk",
+      "destination": "Mewla Maharajpur",
+      "route_name": "violet_line",
+      "color": "violet",
+      "distance": 1020,
+      "time": 122.40489619584783
+    },
+    {
+      "source": "Mewla Maharajpur",
+      "destination": "Sector 28",
+      "route_name": "violet_line",
+      "color": "violet",
+      "distance": 1170,
+      "time": 140.40561622464898
+    },
+    {
+      "source": "Sector 28",
+      "destination": "Badkhal Mor",
+      "route_name": "violet_line",
+      "color": "violet",
+      "distance": 1710,
+      "time": 205.20820832833314
+    },
+    {
+      "source": "Badkhal Mor",
+      "destination": "Faridabad Old",
+      "route_name": "violet_line",
+      "color": "violet",
+      "distance": 1320,
+      "time": 158.40633625345012
+    },
+    {
+      "source": "Faridabad Old",
+      "destination": "Neelam Chowk Ajronda",
+      "route_name": "violet_line",
+      "color": "violet",
+      "distance": 1460,
+      "time": 175.20700828033122
+    },
+    {
+      "source": "Neelam Chowk Ajronda",
+      "destination": "Bata Chowk",
+      "route_name": "violet_line",
+      "color": "violet",
+      "distance": 1300,
+      "time": 156.00624024960999
+    },
+    {
+      "source": "Bata Chowk",
+      "destination": "Escorts Mujesar",
+      "route_name": "violet_line",
+      "color": "violet",
+      "distance": 1760,
+      "time": 211.2084483379335
+    },
+    {
+      "source": "Escorts Mujesar",
+      "destination": "Sant Surdas — Sihi (NCB Colony)",
+      "route_name": "violet_line",
+      "color": "violet",
+      "distance": 1730,
+      "time": 207.60830433217328
+    },
+    {
+      "source": "Sant Surdas — Sihi (NCB Colony)",
+      "destination": "Raja Nahar Singh (Ballabhgarh)",
+      "route_name": "violet_line",
+      "color": "violet",
+      "distance": 1660,
+      "time": 199.20796831873275
+    },
+    {
+      "source": "Lal Qila",
+      "destination": "Kashmere Gate",
+      "route_name": "violet_line",
+      "color": "violet",
+      "distance": 1490,
+      "time": 178.80715228609145
+    },
+    {
+      "source": "Jama Masjid",
+      "destination": "Lal Qila",
+      "route_name": "violet_line",
+      "color": "violet",
+      "distance": 859.13,
+      "time": 103.09972398895955
+    },
+    {
+      "source": "Delhi Gate",
+      "destination": "Jama Masjid",
+      "route_name": "violet_line",
+      "color": "violet",
+      "distance": 1130,
+      "time": 135.60542421696869
+    },
+    {
+      "source": "ITO",
+      "destination": "Delhi Gate",
+      "route_name": "violet_line",
+      "color": "violet",
+      "distance": 1310,
+      "time": 157.20628825153005
+    },
+    {
+      "source": "Mandi House",
+      "destination": "ITO",
+      "route_name": "violet_line",
+      "color": "violet",
+      "distance": 916.60,
+      "time": 109.99639985599424
+    },
+    {
+      "source": "Janpath",
+      "destination": "Mandi House",
+      "route_name": "violet_line",
+      "color": "violet",
+      "distance": 1470,
+      "time": 176.40705628225129
+    },
+    {
+      "source": "Central Secretariat",
+      "destination": "Janpath",
+      "route_name": "violet_line",
+      "color": "violet",
+      "distance": 1440,
+      "time": 172.80691227649106
+    },
+    {
+      "source": "Khan Market",
+      "destination": "Central Secretariat",
+      "route_name": "violet_line",
+      "color": "violet",
+      "distance": 2430,
+      "time": 291.61166446657865
+    },
+    {
+      "source": "Jawaharlal Nehru Stadium",
+      "destination": "Khan Market",
+      "route_name": "violet_line",
+      "color": "violet",
+      "distance": 1500,
+      "time": 180.00720028801152
+    },
+    {
+      "source": "Jangpura",
+      "destination": "Jawaharlal Nehru Stadium",
+      "route_name": "violet_line",
+      "color": "violet",
+      "distance": 976.17,
+      "time": 117.14508580343212
+    },
+    {
+      "source": "Lajpat Nagar",
+      "destination": "Jangpura",
+      "route_name": "violet_line",
+      "color": "violet",
+      "distance": 1490,
+      "time": 178.80715228609145
+    },
+    {
+      "source": "Moolchand",
+      "destination": "Lajpat Nagar",
+      "route_name": "violet_line",
+      "color": "violet",
+      "distance": 755.46,
+      "time": 90.658826353054124
+    },
+    {
+      "source": "Kailash Colony",
+      "destination": "Moolchand",
+      "route_name": "violet_line",
+      "color": "violet",
+      "distance": 1300,
+      "time": 156.00624024960999
+    },
+    {
+      "source": "Nehru Place",
+      "destination": "Kailash Colony",
+      "route_name": "violet_line",
+      "color": "violet",
+      "distance": 1090,
+      "time": 130.80523220928836
+    },
+    {
+      "source": "Kalkaji Mandir",
+      "destination": "Nehru Place",
+      "route_name": "violet_line",
+      "color": "violet",
+      "distance": 864.58,
+      "time": 103.753750150006
+    },
+    {
+      "source": "Govind Puri",
+      "destination": "Kalkaji Mandir",
+      "route_name": "violet_line",
+      "color": "violet",
+      "distance": 769.77,
+      "time": 92.376095043801755
+    },
+    {
+      "source": "Harkesh Nagar",
+      "destination": "Govind Puri",
+      "route_name": "violet_line",
+      "color": "violet",
+      "distance": 1380,
+      "time": 165.60662426497061
+    },
+    {
+      "source": "Jasola Apollo",
+      "destination": "Harkesh Nagar",
+      "route_name": "violet_line",
+      "color": "violet",
+      "distance": 1170,
+      "time": 140.40561622464898
+    },
+    {
+      "source": "Sarita Vihar",
+      "destination": "Jasola Apollo",
+      "route_name": "violet_line",
+      "color": "violet",
+      "distance": 1140,
+      "time": 136.80547221888875
+    },
+    {
+      "source": "Mohan Estate",
+      "destination": "Sarita Vihar",
+      "route_name": "violet_line",
+      "color": "violet",
+      "distance": 1220,
+      "time": 146.40585623424937
+    },
+    {
+      "source": "Tughlakabad",
+      "destination": "Mohan Estate",
+      "route_name": "violet_line",
+      "color": "violet",
+      "distance": 2020,
+      "time": 242.40969638785552
+    },
+    {
+      "source": "Badarpur",
+      "destination": "Tughlakabad",
+      "route_name": "violet_line",
+      "color": "violet",
+      "distance": 1190,
+      "time": 142.80571222848914
+    },
+    {
+      "source": "Sarai",
+      "destination": "Badarpur",
+      "route_name": "violet_line",
+      "color": "violet",
+      "distance": 1690,
+      "time": 202.80811232449298
+    },
+    {
+      "source": "NHPC Chowk",
+      "destination": "Sarai",
+      "route_name": "violet_line",
+      "color": "violet",
+      "distance": 2300,
+      "time": 276.01104044161764
+    },
+    {
+      "source": "Mewla Maharajpur",
+      "destination": "NHPC Chowk",
+      "route_name": "violet_line",
+      "color": "violet",
+      "distance": 1020,
+      "time": 122.40489619584783
+    },
+    {
+      "source": "Sector 28",
+      "destination": "Mewla Maharajpur",
+      "route_name": "violet_line",
+      "color": "violet",
+      "distance": 1170,
+      "time": 140.40561622464898
+    },
+    {
+      "source": "Badkhal Mor",
+      "destination": "Sector 28",
+      "route_name": "violet_line",
+      "color": "violet",
+      "distance": 1710,
+      "time": 205.20820832833314
+    },
+    {
+      "source": "Faridabad Old",
+      "destination": "Badkhal Mor",
+      "route_name": "violet_line",
+      "color": "violet",
+      "distance": 1320,
+      "time": 158.40633625345012
+    },
+    {
+      "source": "Neelam Chowk Ajronda",
+      "destination": "Faridabad Old",
+      "route_name": "violet_line",
+      "color": "violet",
+      "distance": 1460,
+      "time": 175.20700828033122
+    },
+    {
+      "source": "Bata Chowk",
+      "destination": "Neelam Chowk Ajronda",
+      "route_name": "violet_line",
+      "color": "violet",
+      "distance": 1300,
+      "time": 156.00624024960999
+    },
+    {
+      "source": "Escorts Mujesar",
+      "destination": "Bata Chowk",
+      "route_name": "violet_line",
+      "color": "violet",
+      "distance": 1760,
+      "time": 211.2084483379335
+    },
+    {
+      "source": "Sant Surdas — Sihi (NCB Colony)",
+      "destination": "Escorts Mujesar",
+      "route_name": "violet_line",
+      "color": "violet",
+      "distance": 1730,
+      "time": 207.60830433217328
+    },
+    {
+      "source": "Raja Nahar Singh (Ballabhgarh)",
+      "destination": "Sant Surdas — Sihi (NCB Colony)",
+      "route_name": "violet_line",
+      "color": "violet",
+      "distance": 1660,
+      "time": 199.20796831873275
+    },
+    {
+      "source": "Janakpuri West",
+      "destination": "Dabri Mor",
+      "route_name": "magenta_line",
+      "color": "magenta",
+      "distance": 1740,
+      "time": 208.80835233409337
+    },
+    {
+      "source": "Dabri Mor",
+      "destination": "Dashrath Puri",
+      "route_name": "magenta_line",
+      "color": "magenta",
+      "distance": 1630,
+      "time": 195.60782431297253
+    },
+    {
+      "source": "Dashrath Puri",
+      "destination": "Palam",
+      "route_name": "magenta_line",
+      "color": "magenta",
+      "distance": 1540,
+      "time": 184.80739229569181
+    },
+    {
+      "source": "Palam",
+      "destination": "Sadaar Bazaar Cantonment",
+      "route_name": "magenta_line",
+      "color": "magenta",
+      "distance": 3110,
+      "time": 373.21492859714385
+    },
+    {
+      "source": "Sadaar Bazaar Cantonment",
+      "destination": "Terminal 1 IGI Airport",
+      "route_name": "magenta_line",
+      "color": "magenta",
+      "distance": 2050,
+      "time": 246.00984039361575
+    },
+    {
+      "source": "Terminal 1 IGI Airport",
+      "destination": "Shankar Vihar",
+      "route_name": "magenta_line",
+      "color": "magenta",
+      "distance": 2110,
+      "time": 253.2101284051362
+    },
+    {
+      "source": "Shankar Vihar",
+      "destination": "Vasant Vihar",
+      "route_name": "magenta_line",
+      "color": "magenta",
+      "distance": 2050,
+      "time": 246.00984039361575
+    },
+    {
+      "source": "Vasant Vihar",
+      "destination": "Munirka",
+      "route_name": "magenta_line",
+      "color": "magenta",
+      "distance": 1410,
+      "time": 169.20676827073083
+    },
+    {
+      "source": "Munirka",
+      "destination": "R.K Puram",
+      "route_name": "magenta_line",
+      "color": "magenta",
+      "distance": 1370,
+      "time": 164.40657626305051
+    },
+    {
+      "source": "R.K Puram",
+      "destination": "IIT Delhi",
+      "route_name": "magenta_line",
+      "color": "magenta",
+      "distance": 920.79,
+      "time": 110.49921996879874
+    },
+    {
+      "source": "IIT Delhi",
+      "destination": "Hauz Khas",
+      "route_name": "magenta_line",
+      "color": "magenta",
+      "distance": 1300,
+      "time": 156.00624024960999
+    },
+    {
+      "source": "Hauz Khas",
+      "destination": "Panchsheel Park",
+      "route_name": "magenta_line",
+      "color": "magenta",
+      "distance": 1390,
+      "time": 166.80667226689067
+    },
+    {
+      "source": "Panchsheel Park",
+      "destination": "Chirag Delhi",
+      "route_name": "magenta_line",
+      "color": "magenta",
+      "distance": 885,
+      "time": 106.2042481699268
+    },
+    {
+      "source": "Chirag Delhi",
+      "destination": "Greater Kailash",
+      "route_name": "magenta_line",
+      "color": "magenta",
+      "distance": 880.50,
+      "time": 105.66422656906276
+    },
+    {
+      "source": "Greater Kailash",
+      "destination": "Nehru Enclave",
+      "route_name": "magenta_line",
+      "color": "magenta",
+      "distance": 1340,
+      "time": 160.80643225729028
+    },
+    {
+      "source": "Nehru Enclave",
+      "destination": "Kalkaji Mandir",
+      "route_name": "magenta_line",
+      "color": "magenta",
+      "distance": 882.63,
+      "time": 105.91983679347173
+    },
+    {
+      "source": "Kalkaji Mandir",
+      "destination": "Okhla NSIC",
+      "route_name": "magenta_line",
+      "color": "magenta",
+      "distance": 784,
+      "time": 94.083763350534014
+    },
+    {
+      "source": "Okhla NSIC",
+      "destination": "Sukhdev Vihar",
+      "route_name": "magenta_line",
+      "color": "magenta",
+      "distance": 1170,
+      "time": 140.40561622464898
+    },
+    {
+      "source": "Sukhdev Vihar",
+      "destination": "Jamia Millia Islamia",
+      "route_name": "magenta_line",
+      "color": "magenta",
+      "distance": 1200,
+      "time": 144.00576023040921
+    },
+    {
+      "source": "Jamia Millia Islamia",
+      "destination": "Okhla Vihar",
+      "route_name": "magenta_line",
+      "color": "magenta",
+      "distance": 972,
+      "time": 116.64466578663146
+    },
+    {
+      "source": "Okhla Vihar",
+      "destination": "Jasola Vihar Shaheen Bagh",
+      "route_name": "magenta_line",
+      "color": "magenta",
+      "distance": 1800,
+      "time": 216.00864034561383
+    },
+    {
+      "source": "Jasola Vihar Shaheen Bagh",
+      "destination": "Kalindi Kunj",
+      "route_name": "magenta_line",
+      "color": "magenta",
+      "distance": 2020,
+      "time": 242.40969638785552
+    },
+    {
+      "source": "Kalindi Kunj",
+      "destination": "Okhla Bird Sanctuary",
+      "route_name": "magenta_line",
+      "color": "magenta",
+      "distance": 1580,
+      "time": 189.60758430337214
+    },
+    {
+      "source": "Okhla Bird Sanctuary",
+      "destination": "Botanical Garden",
+      "route_name": "magenta_line",
+      "color": "magenta",
+      "distance": 2010,
+      "time": 241.20964838593542
+    },
+    {
+      "source": "Dabri Mor",
+      "destination": "Janakpuri West",
+      "route_name": "magenta_line",
+      "color": "magenta",
+      "distance": 1740,
+      "time": 208.80835233409337
+    },
+    {
+      "source": "Dashrath Puri",
+      "destination": "Dabri Mor",
+      "route_name": "magenta_line",
+      "color": "magenta",
+      "distance": 1630,
+      "time": 195.60782431297253
+    },
+    {
+      "source": "Palam",
+      "destination": "Dashrath Puri",
+      "route_name": "magenta_line",
+      "color": "magenta",
+      "distance": 1540,
+      "time": 184.80739229569181
+    },
+    {
+      "source": "Sadaar Bazaar Cantonment",
+      "destination": "Palam",
+      "route_name": "magenta_line",
+      "color": "magenta",
+      "distance": 3110,
+      "time": 373.21492859714385
+    },
+    {
+      "source": "Terminal 1 IGI Airport",
+      "destination": "Sadaar Bazaar Cantonment",
+      "route_name": "magenta_line",
+      "color": "magenta",
+      "distance": 2050,
+      "time": 246.00984039361575
+    },
+    {
+      "source": "Shankar Vihar",
+      "destination": "Terminal 1 IGI Airport",
+      "route_name": "magenta_line",
+      "color": "magenta",
+      "distance": 2110,
+      "time": 253.2101284051362
+    },
+    {
+      "source": "Vasant Vihar",
+      "destination": "Shankar Vihar",
+      "route_name": "magenta_line",
+      "color": "magenta",
+      "distance": 2050,
+      "time": 246.00984039361575
+    },
+    {
+      "source": "Munirka",
+      "destination": "Vasant Vihar",
+      "route_name": "magenta_line",
+      "color": "magenta",
+      "distance": 1410,
+      "time": 169.20676827073083
+    },
+    {
+      "source": "R.K Puram",
+      "destination": "Munirka",
+      "route_name": "magenta_line",
+      "color": "magenta",
+      "distance": 1370,
+      "time": 164.40657626305051
+    },
+    {
+      "source": "IIT Delhi",
+      "destination": "R.K Puram",
+      "route_name": "magenta_line",
+      "color": "magenta",
+      "distance": 920.79,
+      "time": 110.49921996879874
+    },
+    {
+      "source": "Hauz Khas",
+      "destination": "IIT Delhi",
+      "route_name": "magenta_line",
+      "color": "magenta",
+      "distance": 1300,
+      "time": 156.00624024960999
+    },
+    {
+      "source": "Panchsheel Park",
+      "destination": "Hauz Khas",
+      "route_name": "magenta_line",
+      "color": "magenta",
+      "distance": 1390,
+      "time": 166.80667226689067
+    },
+    {
+      "source": "Chirag Delhi",
+      "destination": "Panchsheel Park",
+      "route_name": "magenta_line",
+      "color": "magenta",
+      "distance": 885,
+      "time": 106.2042481699268
+    },
+    {
+      "source": "Greater Kailash",
+      "destination": "Chirag Delhi",
+      "route_name": "magenta_line",
+      "color": "magenta",
+      "distance": 880.50,
+      "time": 105.66422656906276
+    },
+    {
+      "source": "Nehru Enclave",
+      "destination": "Greater Kailash",
+      "route_name": "magenta_line",
+      "color": "magenta",
+      "distance": 1340,
+      "time": 160.80643225729028
+    },
+    {
+      "source": "Kalkaji Mandir",
+      "destination": "Nehru Enclave",
+      "route_name": "magenta_line",
+      "color": "magenta",
+      "distance": 882.63,
+      "time": 105.91983679347173
+    },
+    {
+      "source": "Okhla NSIC",
+      "destination": "Kalkaji Mandir",
+      "route_name": "magenta_line",
+      "color": "magenta",
+      "distance": 784,
+      "time": 94.083763350534014
+    },
+    {
+      "source": "Sukhdev Vihar",
+      "destination": "Okhla NSIC",
+      "route_name": "magenta_line",
+      "color": "magenta",
+      "distance": 1170,
+      "time": 140.40561622464898
+    },
+    {
+      "source": "Jamia Millia Islamia",
+      "destination": "Sukhdev Vihar",
+      "route_name": "magenta_line",
+      "color": "magenta",
+      "distance": 1200,
+      "time": 144.00576023040921
+    },
+    {
+      "source": "Okhla Vihar",
+      "destination": "Jamia Millia Islamia",
+      "route_name": "magenta_line",
+      "color": "magenta",
+      "distance": 972,
+      "time": 116.64466578663146
+    },
+    {
+      "source": "Jasola Vihar Shaheen Bagh",
+      "destination": "Okhla Vihar",
+      "route_name": "magenta_line",
+      "color": "magenta",
+      "distance": 1800,
+      "time": 216.00864034561383
+    },
+    {
+      "source": "Kalindi Kunj",
+      "destination": "Jasola Vihar Shaheen Bagh",
+      "route_name": "magenta_line",
+      "color": "magenta",
+      "distance": 2020,
+      "time": 242.40969638785552
+    },
+    {
+      "source": "Okhla Bird Sanctuary",
+      "destination": "Kalindi Kunj",
+      "route_name": "magenta_line",
+      "color": "magenta",
+      "distance": 1580,
+      "time": 189.60758430337214
+    },
+    {
+      "source": "Botanical Garden",
+      "destination": "Okhla Bird Sanctuary",
+      "route_name": "magenta_line",
+      "color": "magenta",
+      "distance": 2010,
+      "time": 241.20964838593542
+    },
+    {
+      "source": "Shiv Vihar",
+      "destination": "Johri Enclave",
+      "route_name": "pink_line",
+      "color": "pink",
+      "distance": 943.73,
+      "time": 113.2521300852034
+    },
+    {
+      "source": "Johri Enclave",
+      "destination": "Gokulpuri",
+      "route_name": "pink_line",
+      "color": "pink",
+      "distance": 1320,
+      "time": 158.40633625345012
+    },
+    {
+      "source": "Gokulpuri",
+      "destination": "Maujpur Babarpur",
+      "route_name": "pink_line",
+      "color": "pink",
+      "distance": 1310,
+      "time": 157.20628825153005
+    },
+    {
+      "source": "Maujpur Babarpur",
+      "destination": "Jafrabad",
+      "route_name": "pink_line",
+      "color": "pink",
+      "distance": 1150,
+      "time": 138.00552022080882
+    },
+    {
+      "source": "Jafrabad",
+      "destination": "Welcome",
+      "route_name": "pink_line",
+      "color": "pink",
+      "distance": 2160,
+      "time": 259.21036841473659
+    },
+    {
+      "source": "Welcome",
+      "destination": "East Azad Nagar",
+      "route_name": "pink_line",
+      "color": "pink",
+      "distance": 957.40,
+      "time": 114.89259570382815
+    },
+    {
+      "source": "East Azad Nagar",
+      "destination": "Krishna Nagar",
+      "route_name": "pink_line",
+      "color": "pink",
+      "distance": 911.14,
+      "time": 109.34117364694588
+    },
+    {
+      "source": "Krishna Nagar",
+      "destination": "Karkarduma Court",
+      "route_name": "pink_line",
+      "color": "pink",
+      "distance": 827.40,
+      "time": 99.291971678867156
+    },
+    {
+      "source": "Karkarduma Court",
+      "destination": "Karkarduma",
+      "route_name": "pink_line",
+      "color": "pink",
+      "distance": 1430,
+      "time": 171.60686427457097
+    },
+    {
+      "source": "Karkarduma",
+      "destination": "Anand Vihar",
+      "route_name": "pink_line",
+      "color": "pink",
+      "distance": 997.75,
+      "time": 119.73478939157566
+    },
+    {
+      "source": "Anand Vihar",
+      "destination": "IP Extension",
+      "route_name": "pink_line",
+      "color": "pink",
+      "distance": 2090,
+      "time": 250.81003240129604
+    },
+    {
+      "source": "IP Extension",
+      "destination": "Mandawali West Vinod Nagar",
+      "route_name": "pink_line",
+      "color": "pink",
+      "distance": 1400,
+      "time": 168.00672026881074
+    },
+    {
+      "source": "Mandawali West Vinod Nagar",
+      "destination": "East Vinod Nagar Mayur Vihar II",
+      "route_name": "pink_line",
+      "color": "pink",
+      "distance": 893.54,
+      "time": 107.22908916356654
+    },
+    {
+      "source": "East Vinod Nagar Mayur Vihar II",
+      "destination": "Trilokpuri Sanjay Lake",
+      "route_name": "pink_line",
+      "color": "pink",
+      "distance": 1020,
+      "time": 122.40489619584783
+    },
+    {
+      "source": "Trilokpuri Sanjay Lake",
+      "destination": "Mayur Vihar Pocket I",
+      "route_name": "pink_line",
+      "color": "pink",
+      "distance": 1540,
+      "time": 184.80739229569181
+    },
+    {
+      "source": "Mayur Vihar Pocket I",
+      "destination": "Mayur Vihar I",
+      "route_name": "pink_line",
+      "color": "pink",
+      "distance": 904.95,
+      "time": 108.59834393375735
+    },
+    {
+      "source": "Mayur Vihar I",
+      "destination": "Hazrat Nizamuddin",
+      "route_name": "pink_line",
+      "color": "pink",
+      "distance": 4280,
+      "time": 513.62054482179281
+    },
+    {
+      "source": "Hazrat Nizamuddin",
+      "destination": "Ashram",
+      "route_name": "pink_line",
+      "color": "pink",
+      "distance": 2240,
+      "time": 268.81075243009718
+    },
+    {
+      "source": "Ashram",
+      "destination": "Vinobapuri",
+      "route_name": "pink_line",
+      "color": "pink",
+      "distance": 1070,
+      "time": 128.4051362054482
+    },
+    {
+      "source": "Vinobapuri",
+      "destination": "Lajpat Nagar",
+      "route_name": "pink_line",
+      "color": "pink",
+      "distance": 1490,
+      "time": 178.80715228609145
+    },
+    {
+      "source": "Lajpat Nagar",
+      "destination": "South Extension",
+      "route_name": "pink_line",
+      "color": "pink",
+      "distance": 1630,
+      "time": 195.60782431297253
+    },
+    {
+      "source": "South Extension",
+      "destination": "Delhi Haat INA",
+      "route_name": "pink_line",
+      "color": "pink",
+      "distance": 1330,
+      "time": 159.60638425537022
+    },
+    {
+      "source": "Delhi Haat INA",
+      "destination": "Sarojini Nagar",
+      "route_name": "pink_line",
+      "color": "pink",
+      "distance": 1130,
+      "time": 135.60542421696869
+    },
+    {
+      "source": "Sarojini Nagar",
+      "destination": "Bhikaji Cama Place",
+      "route_name": "pink_line",
+      "color": "pink",
+      "distance": 1380,
+      "time": 165.60662426497061
+    },
+    {
+      "source": "Bhikaji Cama Place",
+      "destination": "Sir M. Vishweshwaraiah Moti Bagh",
+      "route_name": "pink_line",
+      "color": "pink",
+      "distance": 1640,
+      "time": 196.80787231489259
+    },
+    {
+      "source": "Sir M. Vishweshwaraiah Moti Bagh",
+      "destination": "Durgabai Deshmukh South Campus",
+      "route_name": "pink_line",
+      "color": "pink",
+      "distance": 1360,
+      "time": 163.20652826113044
+    },
+    {
+      "source": "Durgabai Deshmukh South Campus",
+      "destination": "Delhi Cantt",
+      "route_name": "pink_line",
+      "color": "pink",
+      "distance": 3790,
+      "time": 454.81819272770912
+    },
+    {
+      "source": "Delhi Cantt",
+      "destination": "Naraina Vihar",
+      "route_name": "pink_line",
+      "color": "pink",
+      "distance": 1840,
+      "time": 220.80883235329412
+    },
+    {
+      "source": "Naraina Vihar",
+      "destination": "Mayapuri",
+      "route_name": "pink_line",
+      "color": "pink",
+      "distance": 1610,
+      "time": 193.20772830913236
+    },
+    {
+      "source": "Mayapuri",
+      "destination": "Rajouri Garden",
+      "route_name": "pink_line",
+      "color": "pink",
+      "distance": 1530,
+      "time": 183.60734429377175
+    },
+    {
+      "source": "Rajouri Garden",
+      "destination": "ESI Basaidarapur",
+      "route_name": "pink_line",
+      "color": "pink",
+      "distance": 1030,
+      "time": 123.60494419776791
+    },
+    {
+      "source": "ESI Basaidarapur",
+      "destination": "Punjabi Bagh West",
+      "route_name": "pink_line",
+      "color": "pink",
+      "distance": 2040,
+      "time": 244.80979239169565
+    },
+    {
+      "source": "Punjabi Bagh West",
+      "destination": "Shakurpur",
+      "route_name": "pink_line",
+      "color": "pink",
+      "distance": 1850,
+      "time": 222.00888035521422
+    },
+    {
+      "source": "Shakurpur",
+      "destination": "Netaji Subhash Place",
+      "route_name": "pink_line",
+      "color": "pink",
+      "distance": 1440,
+      "time": 172.80691227649106
+    },
+    {
+      "source": "Netaji Subhash Place",
+      "destination": "Shalimar Bagh",
+      "route_name": "pink_line",
+      "color": "pink",
+      "distance": 1140,
+      "time": 136.80547221888875
+    },
+    {
+      "source": "Shalimar Bagh",
+      "destination": "Azadpur",
+      "route_name": "pink_line",
+      "color": "pink",
+      "distance": 1990,
+      "time": 238.80955238209529
+    },
+    {
+      "source": "Azadpur",
+      "destination": "Majlis Park",
+      "route_name": "pink_line",
+      "color": "pink",
+      "distance": 2060,
+      "time": 247.20988839553581
+    },
+    {
+      "source": "Johri Enclave",
+      "destination": "Shiv Vihar",
+      "route_name": "pink_line",
+      "color": "pink",
+      "distance": 943.73,
+      "time": 113.2521300852034
+    },
+    {
+      "source": "Gokulpuri",
+      "destination": "Johri Enclave",
+      "route_name": "pink_line",
+      "color": "pink",
+      "distance": 1320,
+      "time": 158.40633625345012
+    },
+    {
+      "source": "Maujpur Babarpur",
+      "destination": "Gokulpuri",
+      "route_name": "pink_line",
+      "color": "pink",
+      "distance": 1310,
+      "time": 157.20628825153005
+    },
+    {
+      "source": "Jafrabad",
+      "destination": "Maujpur Babarpur",
+      "route_name": "pink_line",
+      "color": "pink",
+      "distance": 1150,
+      "time": 138.00552022080882
+    },
+    {
+      "source": "Welcome",
+      "destination": "Jafrabad",
+      "route_name": "pink_line",
+      "color": "pink",
+      "distance": 2160,
+      "time": 259.21036841473659
+    },
+    {
+      "source": "East Azad Nagar",
+      "destination": "Welcome",
+      "route_name": "pink_line",
+      "color": "pink",
+      "distance": 957.40,
+      "time": 114.89259570382815
+    },
+    {
+      "source": "Krishna Nagar",
+      "destination": "East Azad Nagar",
+      "route_name": "pink_line",
+      "color": "pink",
+      "distance": 911.14,
+      "time": 109.34117364694588
+    },
+    {
+      "source": "Karkarduma Court",
+      "destination": "Krishna Nagar",
+      "route_name": "pink_line",
+      "color": "pink",
+      "distance": 827.40,
+      "time": 99.291971678867156
+    },
+    {
+      "source": "Karkarduma",
+      "destination": "Karkarduma Court",
+      "route_name": "pink_line",
+      "color": "pink",
+      "distance": 1430,
+      "time": 171.60686427457097
+    },
+    {
+      "source": "Anand Vihar",
+      "destination": "Karkarduma",
+      "route_name": "pink_line",
+      "color": "pink",
+      "distance": 997.75,
+      "time": 119.73478939157566
+    },
+    {
+      "source": "IP Extension",
+      "destination": "Anand Vihar",
+      "route_name": "pink_line",
+      "color": "pink",
+      "distance": 2090,
+      "time": 250.81003240129604
+    },
+    {
+      "source": "Mandawali West Vinod Nagar",
+      "destination": "IP Extension",
+      "route_name": "pink_line",
+      "color": "pink",
+      "distance": 1400,
+      "time": 168.00672026881074
+    },
+    {
+      "source": "East Vinod Nagar Mayur Vihar II",
+      "destination": "Mandawali West Vinod Nagar",
+      "route_name": "pink_line",
+      "color": "pink",
+      "distance": 893.54,
+      "time": 107.22908916356654
+    },
+    {
+      "source": "Trilokpuri Sanjay Lake",
+      "destination": "East Vinod Nagar Mayur Vihar II",
+      "route_name": "pink_line",
+      "color": "pink",
+      "distance": 1020,
+      "time": 122.40489619584783
+    },
+    {
+      "source": "Mayur Vihar Pocket I",
+      "destination": "Trilokpuri Sanjay Lake",
+      "route_name": "pink_line",
+      "color": "pink",
+      "distance": 1540,
+      "time": 184.80739229569181
+    },
+    {
+      "source": "Mayur Vihar I",
+      "destination": "Mayur Vihar Pocket I",
+      "route_name": "pink_line",
+      "color": "pink",
+      "distance": 904.95,
+      "time": 108.59834393375735
+    },
+    {
+      "source": "Hazrat Nizamuddin",
+      "destination": "Mayur Vihar I",
+      "route_name": "pink_line",
+      "color": "pink",
+      "distance": 4280,
+      "time": 513.62054482179281
+    },
+    {
+      "source": "Ashram",
+      "destination": "Hazrat Nizamuddin",
+      "route_name": "pink_line",
+      "color": "pink",
+      "distance": 2240,
+      "time": 268.81075243009718
+    },
+    {
+      "source": "Vinobapuri",
+      "destination": "Ashram",
+      "route_name": "pink_line",
+      "color": "pink",
+      "distance": 1070,
+      "time": 128.4051362054482
+    },
+    {
+      "source": "Lajpat Nagar",
+      "destination": "Vinobapuri",
+      "route_name": "pink_line",
+      "color": "pink",
+      "distance": 1490,
+      "time": 178.80715228609145
+    },
+    {
+      "source": "South Extension",
+      "destination": "Lajpat Nagar",
+      "route_name": "pink_line",
+      "color": "pink",
+      "distance": 1630,
+      "time": 195.60782431297253
+    },
+    {
+      "source": "Delhi Haat INA",
+      "destination": "South Extension",
+      "route_name": "pink_line",
+      "color": "pink",
+      "distance": 1330,
+      "time": 159.60638425537022
+    },
+    {
+      "source": "Sarojini Nagar",
+      "destination": "Delhi Haat INA",
+      "route_name": "pink_line",
+      "color": "pink",
+      "distance": 1130,
+      "time": 135.60542421696869
+    },
+    {
+      "source": "Bhikaji Cama Place",
+      "destination": "Sarojini Nagar",
+      "route_name": "pink_line",
+      "color": "pink",
+      "distance": 1380,
+      "time": 165.60662426497061
+    },
+    {
+      "source": "Sir M. Vishweshwaraiah Moti Bagh",
+      "destination": "Bhikaji Cama Place",
+      "route_name": "pink_line",
+      "color": "pink",
+      "distance": 1640,
+      "time": 196.80787231489259
+    },
+    {
+      "source": "Durgabai Deshmukh South Campus",
+      "destination": "Sir M. Vishweshwaraiah Moti Bagh",
+      "route_name": "pink_line",
+      "color": "pink",
+      "distance": 1360,
+      "time": 163.20652826113044
+    },
+    {
+      "source": "Delhi Cantt",
+      "destination": "Durgabai Deshmukh South Campus",
+      "route_name": "pink_line",
+      "color": "pink",
+      "distance": 3790,
+      "time": 454.81819272770912
+    },
+    {
+      "source": "Naraina Vihar",
+      "destination": "Delhi Cantt",
+      "route_name": "pink_line",
+      "color": "pink",
+      "distance": 1840,
+      "time": 220.80883235329412
+    },
+    {
+      "source": "Mayapuri",
+      "destination": "Naraina Vihar",
+      "route_name": "pink_line",
+      "color": "pink",
+      "distance": 1610,
+      "time": 193.20772830913236
+    },
+    {
+      "source": "Rajouri Garden",
+      "destination": "Mayapuri",
+      "route_name": "pink_line",
+      "color": "pink",
+      "distance": 1530,
+      "time": 183.60734429377175
+    },
+    {
+      "source": "ESI Basaidarapur",
+      "destination": "Rajouri Garden",
+      "route_name": "pink_line",
+      "color": "pink",
+      "distance": 1030,
+      "time": 123.60494419776791
+    },
+    {
+      "source": "Punjabi Bagh West",
+      "destination": "ESI Basaidarapur",
+      "route_name": "pink_line",
+      "color": "pink",
+      "distance": 2040,
+      "time": 244.80979239169565
+    },
+    {
+      "source": "Shakurpur",
+      "destination": "Punjabi Bagh West",
+      "route_name": "pink_line",
+      "color": "pink",
+      "distance": 1850,
+      "time": 222.00888035521422
+    },
+    {
+      "source": "Netaji Subhash Place",
+      "destination": "Shakurpur",
+      "route_name": "pink_line",
+      "color": "pink",
+      "distance": 1440,
+      "time": 172.80691227649106
+    },
+    {
+      "source": "Shalimar Bagh",
+      "destination": "Netaji Subhash Place",
+      "route_name": "pink_line",
+      "color": "pink",
+      "distance": 1140,
+      "time": 136.80547221888875
+    },
+    {
+      "source": "Azadpur",
+      "destination": "Shalimar Bagh",
+      "route_name": "pink_line",
+      "color": "pink",
+      "distance": 1990,
+      "time": 238.80955238209529
+    },
+    {
+      "source": "Majlis Park",
+      "destination": "Azadpur",
+      "route_name": "pink_line",
+      "color": "pink",
+      "distance": 2060,
+      "time": 247.20988839553581
+    },
+    {
+      "source": "Dwarka",
+      "destination": "Nangli",
+      "route_name": "grey_line",
+      "color": "grey",
+      "distance": 1690,
+      "time": 202.80811232449298
+    },
+    {
+      "source": "Nangli",
+      "destination": "Najafgarh",
+      "route_name": "grey_line",
+      "color": "grey",
+      "distance": 2420,
+      "time": 290.41161646465861
+    },
+    {
+      "source": "Najafgarh",
+      "destination": "Dhansa Bus Stand",
+      "route_name": "grey_line",
+      "color": "grey",
+      "distance": 839,
+      "time": 100.68402736109444
+    },
+    {
+      "source": "Nangli",
+      "destination": "Dwarka",
+      "route_name": "grey_line",
+      "color": "grey",
+      "distance": 1690,
+      "time": 202.80811232449298
+    },
+    {
+      "source": "Najafgarh",
+      "destination": "Nangli",
+      "route_name": "grey_line",
+      "color": "grey",
+      "distance": 2420,
+      "time": 290.41161646465861
+    },
+    {
+      "source": "Dhansa Bus Stand",
+      "destination": "Najafgarh",
+      "route_name": "grey_line",
+      "color": "grey",
+      "distance": 839,
+      "time": 100.68402736109444
+    }
+  ]
+}

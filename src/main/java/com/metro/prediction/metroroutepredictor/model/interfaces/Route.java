@@ -1,12 +1,21 @@
 package com.metro.prediction.metroroutepredictor.model.interfaces;
 
-import com.metro.prediction.metroroutepredictor.model.classes.MetroStation;
-import com.metro.prediction.metroroutepredictor.model.classes.StationConnection;
-
 import java.util.List;
 
 public interface Route {
-    List<MetroStation> getStations();
+    void addStation(Station station);
 
-    List<StationConnection> getConnections();
+    void addConnection(Connection connection);
+
+    void removeStation(Station station);
+
+    void removeConnection(Connection connection);
+
+    List<Station> getStations();
+
+    void setStations(List<Station> stations);
+
+    List<Connection> getConnections();
+
+    void setConnections(List<Connection> connections);
 }
