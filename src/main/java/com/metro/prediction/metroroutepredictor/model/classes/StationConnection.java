@@ -1,42 +1,73 @@
 package com.metro.prediction.metroroutepredictor.model.classes;
 
+import com.fasterxml.jackson.annotation.JsonProperty;
 import com.metro.prediction.metroroutepredictor.model.interfaces.Connection;
-import com.metro.prediction.metroroutepredictor.model.interfaces.Station;
 
 public class StationConnection implements Connection {
+    @JsonProperty("source")
+    private String source;
+    @JsonProperty("destination")
+    private String destination;
+    @JsonProperty("route_name")
+    private String routeName;
+    @JsonProperty("color")
+    private String color;
+    @JsonProperty("distance")
+    private double distance;
+    @JsonProperty("time")
+    private double timeInSeconds;
+
     @Override
-    public Station getSource() {
-        return null;
-//        TODO add code
+    public String getSource() {
+        return source;
+    }
+
+    public void setSource(String source) {
+        this.source = source;
     }
 
     @Override
-    public Station getDestination() {
-        return null;
-//        TODO add code
+    public String getDestination() {
+        return destination;
+    }
+
+    public void setDestination(String destination) {
+        this.destination = destination;
     }
 
     @Override
     public String getColor() {
-        return null;
-//        TODO add code
+        return color;
+    }
+
+    public void setColor(String color) {
+        this.color = color;
     }
 
     @Override
     public String getRouteName() {
-        return null;
-//        TODO add code
+        return routeName;
+    }
+
+    public void setRouteName(String routeName) {
+        this.routeName = routeName;
     }
 
     @Override
     public double getDistance() {
-        return 0;
-//        TODO add code
+        return distance;
+    }
+
+    public void setDistance(double distance) {
+        this.distance = distance;
     }
 
     @Override
     public double getTimeInSeconds() {
-        return 0;
-//        TODO add code
+        return timeInSeconds;
+    }
+
+    public void setTimeInSeconds(double timeInSeconds) {
+        this.timeInSeconds = timeInSeconds;
     }
 }

@@ -1,41 +1,40 @@
 package com.metro.prediction.metroroutepredictor.model.classes;
 
-import com.fasterxml.jackson.core.type.TypeReference;
 import com.fasterxml.jackson.databind.ObjectMapper;
+import com.metro.prediction.metroroutepredictor.model.exceptions.DataLoadingException;
 
 import java.io.File;
 import java.io.IOException;
-import java.util.List;
 
 public class MetroDataLoader {
 
-    public final static int TOTAL_STATIONS = 262;
-    private static MetroDataLoader dataLoader;
-    private List<MetroRoute> metroRouteList;
+    public final static int TOTAL_STATIONS = 236;
+    private static MetroDataLoader instance;
+    private MetroSystemData metroSystemData;
 
     private MetroDataLoader() {
         getDataFromJson();
     }
 
     public static synchronized MetroDataLoader getInstance() {
-        if (dataLoader == null) {
-            dataLoader = new MetroDataLoader();
+        if (instance == null) {
+            instance = new MetroDataLoader();
         }
-        return dataLoader;
+        return instance;
+    }
+
+    public MetroSystemData getMetroSystemData() {
+        return metroSystemData;
     }
 
     private void getDataFromJson() {
         try {
             ObjectMapper objectMapper = new ObjectMapper();
-            File metroDataFile = new File("src/main/resources/Data/Metro_Stations.json");
-            metroRouteList = objectMapper.readValue(metroDataFile, new TypeReference<>() {
-            });
+            File metroDataFile = new File("src/main/resources/Data/Metro_System_Data.json");
+            metroSystemData = objectMapper.readValue(metroDataFile, MetroSystemData.class);
         } catch (IOException e) {
-            System.err.printf("Failed Data Loading From JSON " + e.getMessage());
+            throw new DataLoadingException(e);
         }
     }
 
-    public List<MetroRoute> getMetroRouteList() {
-        return metroRouteList;
-    }
 }

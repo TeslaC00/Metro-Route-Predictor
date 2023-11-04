@@ -1,9 +1,9 @@
 package com.metro.prediction.metroroutepredictor.model.interfaces;
 
 public interface Connection {
-    Station getSource();
+    String getSource();
 
-    Station getDestination();
+    String getDestination();
 
     String getColor();
 
