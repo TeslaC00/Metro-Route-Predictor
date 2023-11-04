@@ -1,26 +1,44 @@
 .selection {
     -fx-background-color: #FFFFFF;
+    -fx-font-family: SansSerif;
 }
 
 .selection .text {
-    -fx-fill: #00FF00;
-    -fx-font-weight: bold;
+    -fx-fill: #000000;
+    -fx-font-family: SansSerif;
 }
 
 .selection Text {
     -fx-fill: linear-gradient(to right, #0073e6, #6eb7ff);
-    -fx-font-size: 2em;
-    -fx-alignment: center;
+    -fx-font-size: 2.5em;
+    -fx-font-weight: bold;
+    -fx-alignment: top-center;
 }
 
 .selection ComboBox {
-    -fx-background-radius: 10;
-    -fx-padding: 10 0 10 0;
-    -fx-background-color: #333333;
-    -fx-effect: innershadow(gaussian, rgba(0, 0, 0, 0.75), 10, 0, 0, 3);
+    -fx-font-size: 1.1em;
+    -fx-padding: 3;
+    -fx-background-color: #FFFFFF;
+    -fx-border-color: #000000;
+    -fx-border-radius: 8;
 }
 
-.selection Line {
-    -fx-stroke: #00F0FF;
-    -fx-stroke-width: 2px;
+.selection HBox {
+    -fx-padding: 10;
+    -fx-spacing: 15;
+    -fx-font-size: 1.2em;
+}
+
+.selection RadioButton {
+    -fx-cursor: hand;
+    -fx-progress-color: red;
+    -fx-color-label-visible: green;
+    /*-fx-background-color: blue;*/
+}
+
+.selection Button {
+    -fx-border-radius: 10;
+    -fx-background-color: #007BFF;
+    -fx-cursor: hand;
+    -fx-font-weight: bold;
 }
