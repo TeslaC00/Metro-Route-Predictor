@@ -9,18 +9,10 @@ import java.io.IOException;
 public class MetroDataLoader {
 
     public final static int TOTAL_STATIONS = 236;
-    private static MetroDataLoader instance;
     private MetroSystemData metroSystemData;
 
-    private MetroDataLoader() {
+    public MetroDataLoader() {
         getDataFromJson();
-    }
-
-    public static synchronized MetroDataLoader getInstance() {
-        if (instance == null) {
-            instance = new MetroDataLoader();
-        }
-        return instance;
     }
 
     public MetroSystemData getMetroSystemData() {

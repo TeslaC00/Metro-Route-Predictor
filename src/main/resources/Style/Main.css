@@ -1,0 +1,58 @@
+.selection {
+    -fx-background-color: #FFFFFF;
+    -fx-font-family: SansSerif;
+}
+
+.selection .text {
+    -fx-fill: #000000;
+    -fx-font-family: SansSerif;
+}
+
+.selection Text {
+    -fx-fill: linear-gradient(to right, #0073e6, #6eb7ff);
+    -fx-font-size: 2.5em;
+    -fx-font-weight: bold;
+    -fx-alignment: top-center;
+}
+
+.selection ComboBox {
+    -fx-font-size: 1.1em;
+    -fx-padding: 3;
+    -fx-background-color: #FFFFFF;
+    -fx-border-color: #000000;
+    -fx-border-radius: 8;
+}
+
+.selection HBox {
+    -fx-padding: 10;
+    -fx-spacing: 15;
+    -fx-font-size: 1.2em;
+}
+
+.selection Button {
+    -fx-border-radius: 10;
+    -fx-background-color: #007BFF;
+    -fx-cursor: hand;
+    -fx-font-weight: bold;
+}
+
+.selection-map {
+    -fx-background-color: aqua;
+    -fx-padding: 15;
+}
+
+.selection-map .label {
+    -fx-font-family: "MV Boli";
+    -fx-font-size: 1.2em;
+    -fx-text-fill: black;
+    -fx-text-alignment: center;
+}
+
+.selection-map .list-view {
+    -fx-background-color: lightgray;
+}
+
+.selection-map .list-cell {
+    -fx-padding: 5, 10;
+    -fx-background-color: #FFFFFF;
+}
