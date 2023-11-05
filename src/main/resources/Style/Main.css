@@ -29,16 +29,30 @@
     -fx-font-size: 1.2em;
 }
 
-.selection RadioButton {
-    -fx-cursor: hand;
-    -fx-progress-color: red;
-    -fx-color-label-visible: green;
-    /*-fx-background-color: blue;*/
-}
-
 .selection Button {
     -fx-border-radius: 10;
     -fx-background-color: #007BFF;
     -fx-cursor: hand;
     -fx-font-weight: bold;
+}
+
+.selection-map {
+    -fx-background-color: aqua;
+    -fx-padding: 15;
+}
+
+.selection-map .label {
+    -fx-font-family: "MV Boli";
+    -fx-font-size: 1.2em;
+    -fx-text-fill: black;
+    -fx-text-alignment: center;
+}
+
+.selection-map .list-view {
+    -fx-background-color: lightgray;
+}
+
+.selection-map .list-cell {
+    -fx-padding: 5, 10;
+    -fx-background-color: #FFFFFF;
 }
