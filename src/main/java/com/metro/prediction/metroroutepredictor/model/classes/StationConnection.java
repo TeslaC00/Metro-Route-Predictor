@@ -70,4 +70,7 @@ public class StationConnection implements Connection {
     public void setTimeInSeconds(double timeInSeconds) {
         this.timeInSeconds = timeInSeconds;
     }
+
+
+
 }
