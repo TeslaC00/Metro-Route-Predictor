@@ -14,20 +14,17 @@ public class MetroSystemData implements MetroSystem {
     @JsonProperty("connections")
     private List<StationConnection> connections;
 
-    public List<MetroStation> getStations() {
-        return stations;
-    }
-
-
-    public List<StationConnection> getConnections() {
-        return connections;
-    }
-
+    /**
+     * @return List of stations read from JSON
+     */
     @Override
     public List<Station> getAllStations() {
         return new ArrayList<>(stations);
     }
 
+    /**
+     * @return List of connections read from JSON
+     */
     @Override
     public List<Connection> getAllConnections() {
         return new ArrayList<>(connections);

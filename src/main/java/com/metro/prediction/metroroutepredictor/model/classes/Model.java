@@ -7,6 +7,7 @@ import com.metro.prediction.metroroutepredictor.views.ViewFactory;
 import java.util.List;
 
 public class Model {
+    public final static int TOTAL_STATIONS = 236;
     private static Model model;
     private final MetroDataLoader metroDataLoader;
     private final ViewFactory viewFactory;
@@ -16,6 +17,9 @@ public class Model {
         viewFactory = new ViewFactory();
     }
 
+    /**
+     * @return Instance of Model class
+     */
     public static Model getInstance() {
         if (model == null) {
             model = new Model();
@@ -23,14 +27,23 @@ public class Model {
         return model;
     }
 
+    /**
+     * @return ViewFactory object
+     */
     public ViewFactory getViewFactory() {
         return viewFactory;
     }
 
+    /**
+     * @return List of all available stations
+     */
     public List<Station> getAllStations() {
         return metroDataLoader.getMetroSystemData().getAllStations();
     }
 
+    /**
+     * @return List of all available connections
+     */
     public List<Connection> getAllConnections() {
         return metroDataLoader.getMetroSystemData().getAllConnections();
     }
