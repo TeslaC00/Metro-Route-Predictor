@@ -11,6 +11,9 @@ import java.util.Objects;
 
 public class ViewFactory {
 
+    /**
+     * Creates a new stage and shows the main window
+     */
     public void showMainWindow() {
         FXMLLoader loader = new FXMLLoader(getClass().getResource("/Fxml/Main.fxml"));
         Scene scene = null;

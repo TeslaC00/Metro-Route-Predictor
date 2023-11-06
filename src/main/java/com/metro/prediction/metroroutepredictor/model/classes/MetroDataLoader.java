@@ -8,17 +8,22 @@ import java.io.IOException;
 
 public class MetroDataLoader {
 
-    public final static int TOTAL_STATIONS = 236;
     private MetroSystemData metroSystemData;
 
     public MetroDataLoader() {
         getDataFromJson();
     }
 
+    /**
+     * @return MetroSystemData object
+     */
     public MetroSystemData getMetroSystemData() {
         return metroSystemData;
     }
 
+    /**
+     * Loads data from JSON file and assign it to metroSystemData object
+     */
     private void getDataFromJson() {
         try {
             ObjectMapper objectMapper = new ObjectMapper();
