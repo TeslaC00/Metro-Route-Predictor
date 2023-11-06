@@ -1,13 +1,63 @@
 package com.metro.prediction.metroroutepredictor.model.classes;
+
 import com.metro.prediction.metroroutepredictor.model.interfaces.Connection;
 import com.metro.prediction.metroroutepredictor.model.interfaces.Station;
 
-import java.util.*;
+import java.util.ArrayList;
+import java.util.HashMap;
+import java.util.List;
+import java.util.Map;
+
 public class MetroMap {
-    private Map<Station, List<Connection>> stationMap;
+    private final Map<Station, List<Connection>> stationMap;
 
     public MetroMap() {
         stationMap = new HashMap<>();
+        populateMap();
+        testPopulateMap();
+    }
+
+    private void testPopulateMap() {
+        int count=0;
+        for (Map.Entry<Station, List<Connection>> entry : stationMap.entrySet()) {
+            if(count>=5){
+                break;
+            }
+            Station station = entry.getKey();
+            count++;
+            List<Connection> connections = entry.getValue();
+
+            System.out.println("Station: " + station.getStationName());
+
+            if (connections.isEmpty()) {
+                System.out.println("  No connections for this station.");
+            } else {
+                System.out.println("  Connections:");
+
+                for (Connection connection : connections) {
+                    System.out.println("    Source: " + connection.getSource());
+                    System.out.println("    Destination: " + connection.getDestination());
+                    System.out.println("    Route Name: " + connection.getRouteName());
+                    System.out.println("    Color: " + connection.getColor());
+                    System.out.println("    Distance: " + connection.getDistance());
+                    System.out.println("    Time in Seconds: " + connection.getTimeInSeconds());
+                    System.out.println();
+                }
+            }
+
+            System.out.println();
+        }
+    }
+
+    private void populateMap() {
+        for (Station station : Model.getInstance().getAllStations()) {
+            addStation(station);
+            for (Connection connection : Model.getInstance().getAllConnections()) {
+                if (connection.getSource().equals(station.getStationName())) {
+                    addConnection(station, connection);
+                }
+            }
+        }
     }
 
     public void addStation(Station station) {
@@ -16,15 +66,6 @@ public class MetroMap {
 
     public void addConnection(Station source, Connection connection) {
         stationMap.get(source).add(connection);
-
-        // If you want bidirectional connections, you can add the reverse connection as well.
-        // Uncomment the lines below if you want to do that.
-
-        // Station destination = new MetroStation(connection.getDestination());
-        // Connection reverseConnection = new StationConnection();
-        // reverseConnection.setSource(connection.getDestination());
-        // reverseConnection.setDestination(connection.getSource());
-        // stationMap.get(destination).add(reverseConnection);
     }
 
     public List<Connection> getConnections(Station station) {
