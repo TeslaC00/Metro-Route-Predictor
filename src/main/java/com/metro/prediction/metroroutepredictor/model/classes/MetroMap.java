@@ -71,5 +71,9 @@ public class MetroMap {
     public List<Connection> getConnections(Station station) {
         return stationMap.get(station);
     }
+
+    public Map<Station, List<Connection>> getStationMap() {
+        return stationMap;
+    }
 }
 
