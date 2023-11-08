@@ -10,17 +10,26 @@ import java.util.Map;
 
 public class MetroMap {
     private final Map<Station, List<Connection>> stationMap;
+    private final Map<String, Station> stations;
 
     public MetroMap() {
         stationMap = new HashMap<>();
+        stations = new HashMap<>();
         populateMap();
-        testPopulateMap();
+        populateStringMap();
     }
 
+    private void populateStringMap() {
+        for (Station station : Model.getInstance().getAllStations()) {
+            stations.put(station.getStationName(), station);
+        }
+    }
+
+    @Deprecated
     private void testPopulateMap() {
-        int count=0;
+        int count = 0;
         for (Map.Entry<Station, List<Connection>> entry : stationMap.entrySet()) {
-            if(count>=5){
+            if (count >= 5) {
                 break;
             }
             Station station = entry.getKey();
@@ -58,6 +67,10 @@ public class MetroMap {
                 }
             }
         }
+    }
+
+    public Station getStationFromString(String name) {
+        return stations.get(name);
     }
 
     public void addStation(Station station) {
