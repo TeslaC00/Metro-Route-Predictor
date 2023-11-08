@@ -1,6 +1,8 @@
 package com.metro.prediction.metroroutepredictor.controllers;
 
 import com.metro.prediction.metroroutepredictor.model.classes.Model;
+import com.metro.prediction.metroroutepredictor.model.interfaces.Route;
+import com.metro.prediction.metroroutepredictor.model.interfaces.RouteFinder;
 import com.metro.prediction.metroroutepredictor.model.interfaces.Station;
 import javafx.fxml.Initializable;
 import javafx.scene.control.*;
@@ -21,11 +23,13 @@ public class MainController implements Initializable {
     public ToggleGroup routePropertyToggleGroup;
     public Label testLabel;
     public ListView<Station> routeListView;
+    private RouteFinder routeFinder;
 
     @Override
     public void initialize(URL location, ResourceBundle resources) {
         initializeComboBox();
         initializeFindRouteButton();
+//        Todo initialize routeFinder
     }
 
     /**
@@ -51,6 +55,7 @@ public class MainController implements Initializable {
      * It calls the appropriate method for finding the route between Starting station and Ending station
      */
     private void findRoute() {
+        clearList();
 //        checks if start station is selected or not
         if (startStationComboBox.getValue() == null) {
             showErrorAlert("Null Station Error", "No Start Station is selected.\nPlease select a starting station");
@@ -69,13 +74,30 @@ public class MainController implements Initializable {
 //         Calls the method appropriate method according to the radio button selected
         if (comfyRadioButton.isSelected()) {
             testLabel.setText("Finding Comfy route from: " + startStationComboBox.getValue() + " to " + endStationComboBox.getValue());
+            showListView(routeFinder.comfyRoute(startStationComboBox.getValue(), endStationComboBox.getValue()));
         } else if (shortRadioButton.isSelected()) {
             testLabel.setText("Finding Shortest route from: " + startStationComboBox.getValue() + " to " + endStationComboBox.getValue());
+            showListView(routeFinder.shortestRoute(startStationComboBox.getValue(), endStationComboBox.getValue()));
         } else if (cheapRadioButton.isSelected()) {
             testLabel.setText("Finding Cheapest route from: " + startStationComboBox.getValue() + " to " + endStationComboBox.getValue());
+            showListView(routeFinder.cheapestRoute(startStationComboBox.getValue(), endStationComboBox.getValue()));
         } else {
             showErrorAlert("Route Property Error", "No route property is selected.\nSelect either of the options:\nLess Interchange\tShortest\tCheapest");
         }
+    }
+
+    /**
+     * Clears the list view
+     */
+    private void clearList() {
+        routeListView.getItems().clear();
+    }
+
+    /**
+     * @param route the route to show on list view
+     */
+    private void showListView(Route route) {
+        routeListView.getItems().addAll(Model.getInstance().getAllStations());
     }
 
     /**
