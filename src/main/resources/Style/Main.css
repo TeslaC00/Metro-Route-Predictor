@@ -1,3 +1,10 @@
+/*
+Color : #3CB2A1
+*/
+.main-vbox {
+    -fx-padding: 5;
+}
+
 .selection {
     -fx-background-color: #FFFFFF;
     -fx-font-family: SansSerif;
@@ -15,11 +22,11 @@
     -fx-alignment: top-center;
 }
 
-.selection ComboBox {
-    -fx-font-size: 1.1em;
-    -fx-padding: 3;
+.selection-box {
     -fx-background-color: #FFFFFF;
     -fx-border-color: #000000;
+    -fx-padding: 3;
+    -fx-font-size: 1.1em;
     -fx-border-radius: 8;
 }
 
@@ -37,8 +44,8 @@
 }
 
 .selection-map {
-    -fx-background-color: aqua;
-    -fx-padding: 15;
+    -fx-background-color: lightgray;
+    -fx-padding: 10;
 }
 
 .selection-map .label {
@@ -49,7 +56,7 @@
 }
 
 .selection-map .list-view {
-    -fx-background-color: lightgray;
+    -fx-background-color: darkgray;
 }
 
 .selection-map .list-cell {
