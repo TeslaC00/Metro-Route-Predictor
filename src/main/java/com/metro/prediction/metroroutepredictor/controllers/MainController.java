@@ -1,5 +1,6 @@
 package com.metro.prediction.metroroutepredictor.controllers;
 
+import com.metro.prediction.metroroutepredictor.model.classes.MetroRouteFinder;
 import com.metro.prediction.metroroutepredictor.model.classes.Model;
 import com.metro.prediction.metroroutepredictor.model.interfaces.Route;
 import com.metro.prediction.metroroutepredictor.model.interfaces.RouteFinder;
@@ -29,6 +30,7 @@ public class MainController implements Initializable {
     public void initialize(URL location, ResourceBundle resources) {
         initializeComboBox();
         initializeFindRouteButton();
+        routeFinder = new MetroRouteFinder();
 //        Todo initialize routeFinder
     }
 

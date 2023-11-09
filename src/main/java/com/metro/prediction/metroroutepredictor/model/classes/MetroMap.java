@@ -25,38 +25,6 @@ public class MetroMap {
         }
     }
 
-    @Deprecated
-    private void testPopulateMap() {
-        int count = 0;
-        for (Map.Entry<Station, List<Connection>> entry : stationMap.entrySet()) {
-            if (count >= 5) {
-                break;
-            }
-            Station station = entry.getKey();
-            count++;
-            List<Connection> connections = entry.getValue();
-
-            System.out.println("Station: " + station.getStationName());
-
-            if (connections.isEmpty()) {
-                System.out.println("  No connections for this station.");
-            } else {
-                System.out.println("  Connections:");
-
-                for (Connection connection : connections) {
-                    System.out.println("    Source: " + connection.getSource());
-                    System.out.println("    Destination: " + connection.getDestination());
-                    System.out.println("    Route Name: " + connection.getRouteName());
-                    System.out.println("    Color: " + connection.getColor());
-                    System.out.println("    Distance: " + connection.getDistance());
-                    System.out.println("    Time in Seconds: " + connection.getTimeInSeconds());
-                    System.out.println();
-                }
-            }
-
-            System.out.println();
-        }
-    }
 
     private void populateMap() {
         for (Station station : Model.getInstance().getAllStations()) {
@@ -69,7 +37,7 @@ public class MetroMap {
         }
     }
 
-    public Station getStationFromString(String name) {
+    public Station getStationByName(String name) {
         return stations.get(name);
     }
 
@@ -88,5 +56,9 @@ public class MetroMap {
     public Map<Station, List<Connection>> getStationMap() {
         return stationMap;
     }
+
+
+
+
 }
 
