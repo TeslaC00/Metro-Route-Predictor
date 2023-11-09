@@ -1,38 +1,37 @@
+/**
+ * The CheapRouteF class implements a route finder that minimizes cost while finding the path with the least cost
+ * between two metro stations using the A* algorithm.
+ *
+ * <p>It calculates the cost of each connection based on predefined distance intervals and returns the path with the
+ * minimum cost.</p>
+ */
 package com.metro.prediction.metroroutepredictor.model.classes;
 
 import com.metro.prediction.metroroutepredictor.model.interfaces.Connection;
 import com.metro.prediction.metroroutepredictor.model.interfaces.Station;
 
-import java.util.HashMap;
 import java.util.*;
-import java.util.Map;
-import java.util.PriorityQueue;
 
 public class CheapRouteF {
     private MetroMap metroMap;
 
+    /**
+     * Constructs a CheapRouteF object with a default MetroMap.
+     */
     public CheapRouteF() {
         metroMap = new MetroMap();
     }
 
-    public class RouteNode {
-        Station station;
-        double gScore;
-        double fScore;
-        double cost;
-        List<Station> path;
-
-        RouteNode(Station station, double gScore, double fScore, double cost, List<Station> path) {
-            this.station = station;
-            this.gScore = gScore;
-            this.fScore = fScore;
-            this.cost = cost;
-            this.path = path;
-        }
-    }
-
+    /**
+     * Finds the cheapest route between the given start and goal stations.
+     *
+     * @param start The starting station.
+     * @param goal  The destination station.
+     * @return The list of stations representing the cheapest route.
+     */
     public List<Station> findCheapestRoute(Station start, Station goal) {
         PriorityQueue<RouteNode> openSet = new PriorityQueue<>(new RouteNodeComparator());
+        // The Cost of path from current station to neighbor
         Map<Station, Double> gScore = new HashMap<>();
         Map<Station, Station> cameFrom = new HashMap<>();
 
@@ -40,8 +39,9 @@ public class CheapRouteF {
         openSet.add(new RouteNode(start, 0.0, heuristic(start, goal), 0.0, new ArrayList<>()));
 
         while (!openSet.isEmpty()) {
+            // Poll is used to remove from Priority Queue
             RouteNode current = openSet.poll();
-
+            // Reconstruct the path from the goal to the start
             if (current.station.equals(goal)) {
                 return current.path; // Return the cheapest route
             }
@@ -69,6 +69,13 @@ public class CheapRouteF {
         return null;
     }
 
+    /**
+     * Computes the heuristic value between two stations using their coordinates.
+     *
+     * @param a The first station.
+     * @param b The second station.
+     * @return The Euclidean distance between the two stations.
+     */
     private double heuristic(Station a, Station b) {
         // Use the coordinates as the heuristic
         double dx = a.getX() - b.getX();
@@ -76,6 +83,12 @@ public class CheapRouteF {
         return Math.sqrt(dx * dx + dy * dy);
     }
 
+    /**
+     * Calculates the cost based on the predefined distance intervals.
+     *
+     * @param distance The distance of the connection.
+     * @return The calculated cost for the connection.
+     */
     private double calculateCost(double distance) {
         if (distance <= 2) {
             return 10.0;
@@ -92,6 +105,37 @@ public class CheapRouteF {
         }
     }
 
+    /**
+     * Represents a node in the route finding process.
+     */
+    public class RouteNode {
+        Station station;
+        double gScore;
+        double fScore;
+        double cost;
+        List<Station> path;
+
+        /**
+         * Constructs a RouteNode with the specified parameters.
+         *
+         * @param station The current station in the node.
+         * @param gScore  The cost to reach the current station from the start.
+         * @param fScore  The estimated total cost to reach the goal from the current station.
+         * @param cost    The total cost of the path from the start to the current station.
+         * @param path    The list of stations representing the current path.
+         */
+        RouteNode(Station station, double gScore, double fScore, double cost, List<Station> path) {
+            this.station = station;
+            this.gScore = gScore;
+            this.fScore = fScore;
+            this.cost = cost;
+            this.path = path;
+        }
+    }
+
+    /**
+     * Comparator for comparing RouteNode objects based on total cost and estimated cost to the goal.
+     */
     class RouteNodeComparator implements Comparator<RouteNode> {
         public int compare(RouteNode a, RouteNode b) {
             return Double.compare(a.cost + a.fScore, b.cost + b.fScore);
