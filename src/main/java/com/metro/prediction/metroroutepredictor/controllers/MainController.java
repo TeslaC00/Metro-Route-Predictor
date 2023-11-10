@@ -99,7 +99,7 @@ public class MainController implements Initializable {
      * @param route the route to show on list view
      */
     private void showListView(Route route) {
-        routeListView.getItems().addAll(Model.getInstance().getAllStations());
+        routeListView.getItems().addAll(route.getStations());
     }
 
     /**
