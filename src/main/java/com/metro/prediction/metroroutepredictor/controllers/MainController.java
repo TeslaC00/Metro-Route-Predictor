@@ -22,23 +22,21 @@ public class MainController implements Initializable {
     public RadioButton cheapRadioButton;
     public Button findRouteButton;
     public ToggleGroup routePropertyToggleGroup;
-    public Label testLabel;
     public ListView<Station> routeListView;
     private RouteFinder routeFinder;
 
     @Override
     public void initialize(URL location, ResourceBundle resources) {
         initializeComboBox();
-        initializeFindRouteButton();
+        initializeButtons();
         routeFinder = new MetroRouteFinder();
-//        Todo initialize routeFinder
     }
 
     /**
      * Initializes the Router Finder button.
      * Adds action event for this button
      */
-    private void initializeFindRouteButton() {
+    private void initializeButtons() {
         findRouteButton.setOnAction(event -> findRoute());
     }
 
@@ -75,13 +73,10 @@ public class MainController implements Initializable {
         }
 //         Calls the method appropriate method according to the radio button selected
         if (comfyRadioButton.isSelected()) {
-            testLabel.setText("Finding Comfy route from: " + startStationComboBox.getValue() + " to " + endStationComboBox.getValue());
             showListView(routeFinder.comfyRoute(startStationComboBox.getValue(), endStationComboBox.getValue()));
         } else if (shortRadioButton.isSelected()) {
-            testLabel.setText("Finding Shortest route from: " + startStationComboBox.getValue() + " to " + endStationComboBox.getValue());
             showListView(routeFinder.shortestRoute(startStationComboBox.getValue(), endStationComboBox.getValue()));
         } else if (cheapRadioButton.isSelected()) {
-            testLabel.setText("Finding Cheapest route from: " + startStationComboBox.getValue() + " to " + endStationComboBox.getValue());
             showListView(routeFinder.cheapestRoute(startStationComboBox.getValue(), endStationComboBox.getValue()));
         } else {
             showErrorAlert("Route Property Error", "No route property is selected.\nSelect either of the options:\nLess Interchange\tShortest\tCheapest");
@@ -99,7 +94,7 @@ public class MainController implements Initializable {
      * @param route the route to show on list view
      */
     private void showListView(Route route) {
-        routeListView.getItems().addAll(Model.getInstance().getAllStations());
+        routeListView.getItems().addAll(route.getStations());
     }
 
     /**
