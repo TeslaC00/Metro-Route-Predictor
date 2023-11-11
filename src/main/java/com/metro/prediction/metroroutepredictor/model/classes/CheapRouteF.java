@@ -1,5 +1,5 @@
 /**
- * The CheapRouteF class implements a route finder that minimizes cost while finding the path with the least cost
+ * The CheapRouteF class that minimizes cost while finding the path with the least cost
  * between two metro stations using the A* algorithm.
  *
  * <p>It calculates the cost of each connection based on predefined distance intervals and returns the path with the

@@ -1,5 +1,5 @@
 /**
- * The ShortRouteF class implements a route finder that aims to find the shortest path between two metro stations
+ * The ShortRouteF class that aims to find the shortest path between two metro stations
  * using the A* algorithm.
  *
  * <p>It calculates the cost of each connection and uses a heuristic approach to prioritize paths with the minimum cost.</p>
