@@ -56,28 +56,30 @@ public class MainController implements Initializable {
      */
     private void findRoute() {
         clearList();
+        Station startStation = startStationComboBox.getValue();
+        Station endStation = endStationComboBox.getValue();
 //        checks if start station is selected or not
-        if (startStationComboBox.getValue() == null) {
+        if (startStation == null) {
             showErrorAlert("Null Station Error", "No Start Station is selected.\nPlease select a starting station");
             return;
         }
 //        checks if the end station is selected or not
-        if (endStationComboBox.getValue() == null) {
+        if (endStation == null) {
             showErrorAlert("Null Station Error", "No End Station is selected.\nPlease select a ending station");
             return;
         }
 //        checks for same values in start or end
-        if (startStationComboBox.getValue().equals(endStationComboBox.getValue())) {
-            showWarnAlert("Similar Values", "You have selected same station for Starting and ending.\nPLease select different stations");
+        if (startStation.equals(endStation)) {
+            showWarnAlert();
             return;
         }
 //         Calls the method appropriate method according to the radio button selected
         if (comfyRadioButton.isSelected()) {
-            showListView(routeFinder.comfyRoute(startStationComboBox.getValue(), endStationComboBox.getValue()));
+            showListView(routeFinder.comfyRoute(startStation, endStation));
         } else if (shortRadioButton.isSelected()) {
-            showListView(routeFinder.shortestRoute(startStationComboBox.getValue(), endStationComboBox.getValue()));
+            showListView(routeFinder.shortestRoute(startStation, endStation));
         } else if (cheapRadioButton.isSelected()) {
-            showListView(routeFinder.cheapestRoute(startStationComboBox.getValue(), endStationComboBox.getValue()));
+            showListView(routeFinder.cheapestRoute(startStation, endStation));
         } else {
             showErrorAlert("Route Property Error", "No route property is selected.\nSelect either of the options:\nLess Interchange\tShortest\tCheapest");
         }
@@ -99,12 +101,9 @@ public class MainController implements Initializable {
 
     /**
      * Shows a warning alert with custom header and content.
-     *
-     * @param header  Header text of the warning alert
-     * @param content Content of the warning alert dialog box
      */
-    private void showWarnAlert(String header, String content) {
-        showAlert(Alert.AlertType.WARNING, "Warning", header, content);
+    private void showWarnAlert() {
+        showAlert(Alert.AlertType.WARNING, "Warning", "Similar Values", "You have selected same station for Starting and ending.\nPLease select different stations");
     }
 
     /**

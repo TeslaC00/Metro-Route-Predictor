@@ -1731,14 +1731,14 @@
     },
     {
       "source": "Chawri Bazar",
-      "destination": "NewDelhi",
+      "destination": "New Delhi",
       "route_name": "yellow_line",
       "color": "yellow",
       "distance": 666.88,
       "time": 80.028801152046086
     },
     {
-      "source": "NewDelhi",
+      "source": "New Delhi",
       "destination": "Rajiv Chowk",
       "route_name": "yellow_line",
       "color": "yellow",
@@ -2018,7 +2018,7 @@
       "time": 144.00576023040921
     },
     {
-      "source": "NewDelhi",
+      "source": "New Delhi",
       "destination": "Chawri Bazar",
       "route_name": "yellow_line",
       "color": "yellow",
@@ -2027,7 +2027,7 @@
     },
     {
       "source": "Rajiv Chowk",
-      "destination": "NewDelhi",
+      "destination": "New Delhi",
       "route_name": "yellow_line",
       "color": "yellow",
       "distance": 1290,
