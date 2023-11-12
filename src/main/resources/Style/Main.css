@@ -36,7 +36,7 @@ Color : #3CB2A1
     -fx-font-size: 1.2em;
 }
 
-.selection Button {
+.selection .find-button {
     -fx-border-radius: 10;
     -fx-background-color: #007BFF;
     -fx-cursor: hand;

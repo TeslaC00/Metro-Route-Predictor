@@ -1,5 +1,5 @@
 /**
- * The CheapRouteF class implements a route finder that minimizes cost while finding the path with the least cost
+ * The CheapRouteF class that minimizes cost while finding the path with the least cost
  * between two metro stations using the A* algorithm.
  *
  * <p>It calculates the cost of each connection based on predefined distance intervals and returns the path with the
@@ -13,7 +13,7 @@ import com.metro.prediction.metroroutepredictor.model.interfaces.Station;
 import java.util.*;
 
 public class CheapRouteF {
-    private MetroMap metroMap;
+    private final MetroMap metroMap;
 
     /**
      * Constructs a CheapRouteF object with a default MetroMap.
@@ -108,7 +108,7 @@ public class CheapRouteF {
     /**
      * Represents a node in the route finding process.
      */
-    public class RouteNode {
+    public static class RouteNode {
         Station station;
         double gScore;
         double fScore;
@@ -136,7 +136,7 @@ public class CheapRouteF {
     /**
      * Comparator for comparing RouteNode objects based on total cost and estimated cost to the goal.
      */
-    class RouteNodeComparator implements Comparator<RouteNode> {
+    static class RouteNodeComparator implements Comparator<RouteNode> {
         public int compare(RouteNode a, RouteNode b) {
             return Double.compare(a.cost + a.fScore, b.cost + b.fScore);
         }

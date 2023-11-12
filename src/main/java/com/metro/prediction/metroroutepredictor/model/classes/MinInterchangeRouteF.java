@@ -6,7 +6,7 @@ import com.metro.prediction.metroroutepredictor.model.interfaces.Station;
 import java.util.*;
 
 /**
- * The MinInterchangeRouteF class implements a route finder that minimizes interchange while finding the shortest path
+ * The MinInterchangeRouteF class that minimizes interchange while finding the shortest path
  * between two metro stations using the A* algorithm.
  *
  * <p>It uses a heuristic approach and prioritizes paths with the minimum number of interchanges.</p>
