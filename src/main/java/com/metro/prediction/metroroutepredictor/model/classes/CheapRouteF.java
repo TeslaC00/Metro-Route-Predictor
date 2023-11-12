@@ -90,15 +90,15 @@ public class CheapRouteF {
      * @return The calculated cost for the connection.
      */
     private double calculateCost(double distance) {
-        if (distance <= 2) {
+        if (distance <= 2000) {
             return 10.0;
-        } else if (distance <= 5) {
+        } else if (distance <= 5000) {
             return 20.0;
-        } else if (distance <= 12) {
+        } else if (distance <= 12000) {
             return 30.0;
-        } else if (distance <= 21) {
+        } else if (distance <= 21000) {
             return 40.0;
-        } else if (distance <= 32) {
+        } else if (distance <= 32000) {
             return 50.0;
         } else {
             return 60.0;
