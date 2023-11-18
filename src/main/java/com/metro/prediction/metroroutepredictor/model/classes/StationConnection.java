@@ -14,8 +14,14 @@ public class StationConnection implements Connection {
     private String color;
     @JsonProperty("distance")
     private double distance;
-    @JsonProperty("time")
-    private double timeInSeconds;
+
+    /**
+     * @return Route name of which this connection is part of
+     */
+    @SuppressWarnings("unused")
+    public String getRouteName() {
+        return routeName;
+    }
 
     /**
      * @return Source location of the connection made
@@ -42,27 +48,11 @@ public class StationConnection implements Connection {
     }
 
     /**
-     * @return the route name of which the connection is part of
-     */
-    @Override
-    public String getRouteName() {
-        return routeName;
-    }
-
-    /**
      * @return distance between source and destination in meters
      */
     @Override
     public double getDistance() {
         return distance;
-    }
-
-    /**
-     * @return time taken to reach from source to destination in seconds
-     */
-    @Override
-    public double getTimeInSeconds() {
-        return timeInSeconds;
     }
 
 }
