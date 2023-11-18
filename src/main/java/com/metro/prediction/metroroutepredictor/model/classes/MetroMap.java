@@ -9,55 +9,63 @@ import java.util.List;
 import java.util.Map;
 
 public class MetroMap {
-    private final Map<Station, List<Connection>> stationMap;
-    private final Map<String, Station> stations;
+    private static Map<Station, List<Connection>> stationMap;
+    private static Map<String, Station> stations;
 
     public MetroMap() {
-        stationMap = new HashMap<>();
-        stations = new HashMap<>();
         populateMap();
         populateStringMap();
     }
 
+    /**
+     * Populates the stations hashmap with station name as key and station object as value
+     */
     private void populateStringMap() {
-        for (Station station : Model.getInstance().getAllStations()) {
-            stations.put(station.getStationName(), station);
+        if (stations == null) {
+            stations = new HashMap<>();
+            for (Station station : Model.getInstance().getAllStations())
+                stations.put(station.getStationName(), station);
         }
     }
 
-
+    /**
+     * Populates the stationMap hashmap with station object as key, and it's related connections list as value
+     */
     private void populateMap() {
-        for (Station station : Model.getInstance().getAllStations()) {
-            addStation(station);
-            for (Connection connection : Model.getInstance().getAllConnections()) {
-                if (connection.getSource().equals(station.getStationName())) {
-                    addConnection(station, connection);
+        if (stationMap == null) {
+            stationMap = new HashMap<>();
+            for (Station station : Model.getInstance().getAllStations()) {
+                stationMap.put(station, new ArrayList<>());
+                for (Connection connection : Model.getInstance().getAllConnections()) {
+                    if (connection.getSource().equals(station.getStationName())) addConnection(station, connection);
                 }
             }
         }
     }
 
+    /**
+     * @param name Station name
+     * @return Station object
+     */
     public Station getStationByName(String name) {
         return stations.get(name);
     }
 
-    public void addStation(Station station) {
-        stationMap.put(station, new ArrayList<>());
-    }
-
+    /**
+     * @param source     Source station
+     * @param connection Connection of the source station
+     */
     public void addConnection(Station source, Connection connection) {
         stationMap.get(source).add(connection);
     }
 
+    /**
+     * @param station Source Station
+     * @return List of connection of the source station
+     */
     public List<Connection> getConnections(Station station) {
         return stationMap.get(station);
     }
-
-    public Map<Station, List<Connection>> getStationMap() {
-        return stationMap;
-    }
-
-
 
 
 }

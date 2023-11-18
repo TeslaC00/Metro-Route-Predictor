@@ -15,8 +15,8 @@ public class ViewFactory {
      * Creates a new stage and shows the main window
      */
     public void showMainWindow() {
-        FXMLLoader loader = new FXMLLoader(getClass().getResource("/Fxml/Main.fxml"));
-        Scene scene = null;
+        FXMLLoader loader = new FXMLLoader(getClass().getResource("/Main.fxml"));
+        Scene scene;
         try {
             scene = new Scene(loader.load());
         } catch (IOException e) {
@@ -24,7 +24,7 @@ public class ViewFactory {
         }
         Stage stage = new Stage();
         stage.setTitle("Metro Route Predictor");
-        stage.getIcons().add(new Image(Objects.requireNonNull(getClass().getResourceAsStream("/Images/train_icon.png"))));
+        stage.getIcons().add(new Image(Objects.requireNonNull(getClass().getResourceAsStream("/train_icon.png"))));
         stage.setScene(scene);
         stage.setResizable(false);
         stage.show();
