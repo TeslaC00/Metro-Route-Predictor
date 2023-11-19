@@ -21,7 +21,7 @@ public class MetroRouteFinder implements RouteFinder {
     @Override
     public Route shortestRoute(Station startStation, Station stopStation) {
         ShortRouteF Route1 = new ShortRouteF();
-        Route R1 = new MetroRoute();
+        MetroRoute R1 = new MetroRoute();
         for (Station station : Route1.findRoute(startStation, stopStation)) {
             R1.addStation(station);
         }
@@ -39,7 +39,8 @@ public class MetroRouteFinder implements RouteFinder {
     @Override
     public Route comfyRoute(Station startStation, Station stopStation) {
         MinInterchangeRouteF Route1 = new MinInterchangeRouteF();
-        Route R1 = new MetroRoute();
+        MetroRoute R1 = new MetroRoute();
+        R1.addStation(startStation);
         for (Station station : Route1.findMinInterchangeRoute(startStation, stopStation)) {
             R1.addStation(station);
         }
@@ -56,7 +57,8 @@ public class MetroRouteFinder implements RouteFinder {
     @Override
     public Route cheapestRoute(Station startStation, Station stopStation) {
         CheapRouteF Route1 = new CheapRouteF();
-        Route R1 = new MetroRoute();
+        MetroRoute R1 = new MetroRoute();
+        R1.addStation(startStation);
         for (Station station : Route1.findCheapestRoute(startStation, stopStation)) {
             R1.addStation(station);
         }
