@@ -9,4 +9,4 @@ Metro Route Prediction app that predicts the optimal metro route from your start
 - **URL/Reference:** [Metro Stations](https://delhimetrorail.info/delhi-metro-stations)
 
 ## Images
-!(./app.png)
+![App screenshot](./app.png)
